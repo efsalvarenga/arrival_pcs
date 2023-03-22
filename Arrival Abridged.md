@@ -44,3 +44,6 @@ A new party member joins the Glasrath Defenders - a dust elf cleric of Mystra. W
 
 ![](resources/Pasted%20image%2020230322233511.png)
 
+## Chapter 5 A Breath from the Desert
+
+The Glasrath Defenders then left Mystra's temple and went into the Ammuinoth again. While finally travelling towards the Holzander castle they've met a Ghost Rider and fought it bravely. After a quick recovery they continued towards their destination. The place has been destroyed and burned, and it seems some feathery creatures have taken lair there. One of the Defenders found an entrance to the subterranean of the castle via a hole in the underkeep, though a wooden staircase. The group stands now on the top of the stone staircase coming from the underkeep (which smells like a lair of some kind of large bird) and ready to go down.
