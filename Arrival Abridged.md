@@ -47,3 +47,16 @@ A new party member joins the Glasrath Defenders - a dust elf cleric of Mystra. W
 ## Chapter 5 A Breath from the Desert
 
 The Glasrath Defenders then left Mystra's temple and went into the Ammuinoth again. While finally travelling towards the Holzander castle they've met a Ghost Rider and fought it bravely. After a quick recovery they continued towards their destination. The place has been destroyed and burned, and it seems some feathery creatures have taken lair there. One of the Defenders found an entrance to the subterranean of the castle via a hole in the underkeep, though a wooden staircase. The group stands now on the top of the stone staircase coming from the underkeep (which smells like a lair of some kind of large bird) and ready to go down.
+
+![](resources/Pasted%20image%2020230323130242.png)
+
+## Chapter 6 The Torturer of Holzander
+
+The Glasrath Defenders entered the first level of Holzander's castle, and saw psychotic scenes of torture and death. They met the responsible for them - a torturer known as the Gaoler - who threw in disturbing comments about having tortured Gaelira and killed the Paragon Force. The defenders decided it was too much of it and went on to kill the Geoler - who had support from animated torture equipment and zombies. The battle that followed was challenging and some of the defenders were significantly hit. Especially Miraak who, during combat, realised he was not really brought back to life by Ghuse, but has been reanimated as an intelligent undead. After killing the Gaoler, the defenders continued exploring the rooms and found two prisoners and their detainer, an ogre called Scar. The prisoners were Dugan Lovay - a dust elf merchant from the Linhe cities -, her companion, the Red Heart, and a halfling scholar from the capital Throta (in the northwest), who has been researching a disease known as the Lady Scurvy. The disease is some kind of death lycanthropy, but with very different consequences, that started afflicting the region about a year ago.
+
+Scar did not pose a threat to the defenders, and was very relieved that the Gaoler was finally dead. While talking with the prisoners, the group became aware of a magic door, through the catacombs, that goes into the surface (probably the lost access to the castle), and that the Gaoler knew the password to open it. But Amyria also knows that this password is available in a book in Mystra's temple.
+
+In this first level, several monuments existed: a frog statue of a long lost deity, a bowman statue, representing Cauchurn in the death river, and a memorial to the first Holzander, who established the castle, and explored the Brezal Paths that are so rich in the area. The group then decided to venture towards the catacombs, where they met Ushulx. The cultist to Cauchurn partnered with them while they fought shadows coming from the catacombs to the east and south. Everyone was too hurt to continue after, and the defenders decided to rest in the cells, together with the prisoners and Ushulx, while Scar kept a look for them.
+
+![](resources/Pasted%20image%2020230323130336.png)
+![](resources/Pasted%20image%2020230323130144.png)
