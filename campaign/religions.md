@@ -44,7 +44,7 @@ An old goddess of diligence and knowledge. Her believers and followers have all 
 
 ## Falet, the Almighty Lord
 
-A relatively new god. His worshipers believe in monotheism and are very active preachers and converters. Their high priest sits in Olivepia (northwest peninsula of the continent). The high priest is said to have great influence in the ruler of Olivepia. Their church also have a military organisation attached.
+Falet is a revered deity worshipped by many inhabitants of Guemenos. The high church of Falet, situated in the region of Olivepia, holds significant influence in the empire through its powerful military organization. As the almighty lord of the realm, Falet is believed to have created the world and all its creatures, imbuing them with magic and power. The followers of Falet believe that the god is able to grant them blessings and favors, including divine protection and guidance in times of war. The military forces of the high church are renowned for their strength and strategic prowess, and are often called upon to defend the empire against external threats. The high priests of Falet hold great power and influence, and are widely respected and feared throughout the land of Guemenos.
 
 ## Kimbarak, the Dwarven Spirit
 
