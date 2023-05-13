@@ -42,7 +42,7 @@ The sands of time bury the deserts of Linhe. Here, the wonders of fallen empires
 
 All ths cities (except Gimorkoc, which still follows the [Yotunn Ancestors](religions.md#Yotunn) religion) have been over the decades converting to the northern religion known as [Faletism](religions.md#Faletism). You are also told the northern cities do not speak the same common language as you do. The common language you've been speaking until now on the region is called Cold Nulfirther. In the northern cities they speak a dialect of this language called Sun Nulfirther, and also the official Khathan language. The Dust elves will speak all of these.
 
-![](_aux/Pasted%20image%2020230327223917.png)
+![](https://i.imgur.com/ZuFIpuA.png)
 
 #### Nargun
 ***Nargun Captaincy of the Dust Desert***
