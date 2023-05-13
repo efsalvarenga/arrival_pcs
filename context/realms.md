@@ -28,7 +28,19 @@ Near the southern border, in the provinces where this enduring conflict has rava
 
 #### Linhe
 
-All this cities (except Gimorkoc, which still follows the [Yotunn Ancestors](religions.md#Yotunn) religion) have been over the decades converting to the northern religion known as [Faletism](religions.md#Faletism). You are also told the northern cities do not speak the same common language as you do. The common language you've been speaking until now on the region is called Cold Nulfirther. In the northern cities they speak a dialect of this language called Sun Nulfirther, and also the official Khathan language. The Dust elves will speak all of these.
+The sands of time bury the deserts of Linhe. Here, the wonders of fallen empires and temples of forgotten kings crumble beneath a merciless sun. Untold generations of tombs and secrets lie beneath the sands, markers of a history the land's few residents know of only in story and song. Their interest in past splendor is smothered, as life is harsh in Linhe. Many of Linhe's settlements lie in the middle of old and new ruins, its cities crumbling and unprotected, its villages abandoned and overgrown. Still, bastions of civilisation hold out against the the terrifying dangers of the region.
+
+**Noteworthy Features**
+
+- Linhe is a land of vast deserts and rare, but deadly, storms.
+
+- Water is scarce beyond the land's few oases and the cities.
+
+- The monuments, tombs, and pyramids of past golden ages litter Linhe. These countless tombs are interconnected, forming a vast, semi-hidden underground network through the Ammuinoth and the Ghost Domain.
+
+- Linhans value music, and many locals are accomplished singers or proficient in playing the reed pipe, goblet drum, or arched harp.
+
+All ths cities (except Gimorkoc, which still follows the [Yotunn Ancestors](religions.md#Yotunn) religion) have been over the decades converting to the northern religion known as [Faletism](religions.md#Faletism). You are also told the northern cities do not speak the same common language as you do. The common language you've been speaking until now on the region is called Cold Nulfirther. In the northern cities they speak a dialect of this language called Sun Nulfirther, and also the official Khathan language. The Dust elves will speak all of these.
 
 ![](_aux/Pasted%20image%2020230327223917.png)
 
