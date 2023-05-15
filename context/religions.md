@@ -28,7 +28,8 @@ end
 	Mondendovil
 ```
 
-![](_aux/Pasted%20image%2020230405164046.png)
+![](https://i.imgur.com/U9pWVCe.png)
+
 
 ## Protodeities
 ***Nek and Ulkrunnar***
@@ -48,7 +49,7 @@ The world of Guemenos was a place of magic, where the forces of nature were inte
 
 But there were those who coveted this knowledge, who sought to wield the power of magic for their own dark purposes. Among them was the sorceress Malora, a dark and twisted figure who had long lusted after the secrets of the Mystran clergy. Malora had amassed an army of followers, all eager to aid her in her quest for power. They stormed the temples of Mystra, their weapons clashing against the stone walls as they sought to breach the sanctums within. The Mystran clergy fought back with all their might, unleashing powerful spells and incantations in a desperate bid to protect their knowledge. But Malora was relentless, her dark magic tearing through their defenses and leaving a trail of destruction in her wake. In the end, the Mystran pantheon was shattered, their temples in ruins and their followers scattered to the winds. The clergy themselves were hunted down and executed, their knowledge lost to the ages.
 
-But there was one among them who had managed to survive: a young acolyte named Tahlia. With the remaining knowledge and power of the Mystran clergy at her disposal, Tahlia began a new quest: to re-establish the creed of Mystra and empower the other gods and goddesses of the much younger Yotunn pantheon. She traveled the length and breadth of Guemenos, seeking out the remnants of the old pantheon and rallying them to her cause. With her unparalleled mastery of magic, she was able to restore their strength and imbue them with new power, building the traditions of the Yotunn Ancestors. Once Tahlua passed away she was given a special position within the pantheon, serving Rurkinar as an Angel Hound spirit.
+But there was one among them who had managed to survive: a young acolyte named Tahlia. With the remaining knowledge and power of the Mystran clergy at her disposal, Tahlia began a new quest: to re-establish the creed of Mystra and empower the other gods and goddesses of the much younger Yotunn pantheon. She traveled the length and breadth of Guemenos, seeking out the remnants of the old pantheon and rallying them to her cause. With her unparalleled mastery of magic, she was able to restore their strength and imbue them with new power, building the traditions of the Yotunn Ancestors. Once Tahlia passed away she was given a special position within the pantheon, serving Rurkinar as an Angel Hound spirit.
 
 ### Rurkinar
 ***The Brown Eagle***
@@ -57,7 +58,8 @@ In the heart of the north desert, where the sun always shines on the endless san
 
 Rurkinar, the Brown Eagle, is the second highest deity in Mystra's pantheon, behind only Mystra herself. The Rurkinar followers, and cultists, are the most relevant Yotunn representation on the northeast (to the east of Mystra's).
 
-![](_aux/Pasted%20image%2020230326213948.png)
+![](https://i.imgur.com/TMc86Ig.png)
+
 
 The Rurkinar Cultists are a group of shamans that believe in direct communication with the Brown Eagle through rituals.
 
@@ -73,6 +75,7 @@ For centuries, the dwarves had looked to Kimbarak, the great and powerful spirit
 
 Falet, the Almighty Lord, is a revered deity worshipped by many inhabitants of Guemenos. The high church of Falet, situated in the region of Olivepia, holds significant influence in the empire through its powerful military organization. As the almighty lord of the realm, Falet is believed to have created the world and all its creatures, imbuing them with magic and power. The followers of Falet believe that the god is able to grant them blessings and favors, including divine protection and guidance in times of war. The military forces of the high church are renowned for their strength and strategic prowess, and are often called upon to defend the empire against external threats. The high priests of Falet hold great power and influence, and are widely respected and feared throughout the land of Guemenos.
 
+![Faletism](secrets/secretsReligions.md#Faletism)
 
 ## Trow
 ***Trow Ancestors***
@@ -93,6 +96,8 @@ At times, Algath and Curcharn worked together, their paths crossing as they guid
 
 Their relationship was a delicate balance of power and mistrust, with each deity constantly watching the other, waiting for the opportune moment to strike. But despite their differences, they both recognized eachother's role in matters of life and death.
 
+![Curcharn](secrets/secretsReligions.md#Curcharn)
+
 ### Lorquiroth
 ***Commander of Turnskull***
 
@@ -110,9 +115,13 @@ Once Merdijad came to Frosthelm with promise of untold power and glory, he eager
 Once upon a time, the world was graced by the presence of Bonnalurie, the goddess of diligence, construction, and knowledge. Her followers revered her for her unyielding dedication to excellence and her unwavering commitment to hard work. They built magnificent temples and monuments in her honor, and her teachings formed the foundation of countless schools and universities. But as time passed, the worship of Bonnalurie began to fade. Her once-thriving temples lay abandoned and in ruins, and her followers scattered to the winds. A thousand years later, the memory of Bonnalurie and her creed have faded almost entirely from the world, known only to a select few scholars and historians. Yet some say that her spirit still lingers, waiting for the day when the world will once again embrace the values of diligence, construction, and applied knowledge that she embodied so completely.
 
 ### Mondendovil
-***The Mercian Forefather***
+***The Illithid Void***
 
-Mondendovil, the Forefather of Mercian gods, was a being of immense power and ancient knowledge. His followers revered him as a god of magic, but his true nature was far more sinister than they could ever imagine. Mondendovil's obsession with the dark arts led him to create a secret school of magic known as the Wandering Crow, which delved into the most forbidden and dangerous practices imaginable. For centuries, the school flourished, attracting the most twisted and malevolent practitioners of the arcane. But as time passed, the knowledge of the Wandering Crow was lost, and the school faded into obscurity. But in the shadows of the forgotten school, something dark and malevolent still lingers. The whispers of Mondendovil's dark magic can still be heard, and those who dare to venture too close risk being consumed by the madness and horror that lie at the heart of the Wandering Crow
+![|500](https://i.imgur.com/HpHOqYE.jpg)
+
+Mondendovil's followers revered him as a god of magic, but his true nature was far more sinister than they could ever imagine. Mondendovil's obsession with the dark arts led him to create a secret school of magic known as the Wandering Crow, which delved into the most forbidden and dangerous practices imaginable. For centuries, the school flourished, attracting the most twisted and malevolent practitioners of the arcane. But as time passed, the knowledge of the Wandering Crow was lost, and the school faded into obscurity. But in the shadows of the forgotten school, something dark and malevolent still lingers. The whispers of Mondendovil's dark magic can still be heard, and those who dare to venture too close risk being consumed by the madness and horror that lie at the heart of the Wandering Crow.
+
+![Mondendovil](secrets/secretsReligions.md#Mondendovil)
 
 ### Merdijad
 ***Master of the Order of Strings***
