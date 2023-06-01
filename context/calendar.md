@@ -14,7 +14,7 @@ tags:
 ## NC
 ***New Calendar***
 
-The New Calendar (NC) is defined as the years from the 8th Conclave from Nek. It is written as `[Year].[Month][Week].[Day]`. Each year (numeric) has 10 months (numeric, 0-9) of 5 weeks (A, B, C, D, E) each, and each week has 7 days (numeric). Each day has 25 hours with 60 minutes each.
+The New Calendar (NC) is defined as the years from the 8th Conclave for Nek. It is written as `[Year].[Month][Week].[Day]`. Each year (numeric) has 10 months (numeric, 0-9) of 5 weeks (A, B, C, D, F) each, and each week has 7 days (numeric). Each day has 25 hours with 60 minutes each.
 
 The years are not defined based on translations around the sun, but rather a purely mathematical number. For this reason, although the NC is mostly used everywhere in Etor, many regions have additional calendars based on sun and moon time cycles. Nevertheless, the 25 hours day is defined based on daily cycles.
 
@@ -60,9 +60,12 @@ The last documented season cycles are represented below.
 	- Miraak is born in Nurderad
 - 3857 NC Gaelira and the Paragon Force goes to the [The Ammuinoth](realms.md#Ammuinoth)
 - 3860 NC Kethra Stormwind is born in a village north of the Naragzah mountains
-- 3867 NC Kethra's parents are killed by a purple dragon who disguises as a sage and raises Kethra
+- 3867 NC 
+	- Kethra's parents are killed by a purple dragon who disguises as a sage and raises Kethra
+	- Grezar, a dragonborn battlemage joins the military in the remote northern Nurderad
 - 3868 NC [Tolfonddund Dwarves](realms.md#Tolfonddundhesm) mines are raided by the dragonborn
-- 3869 NC Ghuse joins the military in Gorthugke
+- 3869 NC Ghuse joins the military in Gorthugke, and takes his platoon on a desert bootcamp for 5 years
+- 3972 NC Grezar is sent to the Katho-D'Elsin war in the south
 - 3875 NC Miraak drops out of his clan
 - 3876 NC Lady Scurvy starts spreading in Throtha
 - 3876 NC Nilperto is killed in Watheton
