@@ -28,22 +28,6 @@ The Glasrath Alliance now faces a horde of undead marching from the [Ammuinoth](
 
 ![](https://i.imgur.com/8cZ7CSJ.png)
 
-After the large battle with the undead, the military units of the cities of Watheton, Gorthugke, Gamunz and Tolfoddund joined forces with the Delmuth people (drows from the Ghost Domain) and the Nargun. They were victorious, but with strong losses.
-- Watheton: Nosbelbeyn and Ondor perished, their units are gone.
-- Gorthugke: Ghuse survived, Umryn and Tristhil perished. They have left 69 Inf3 and 25 Inf2Arch.
-- Tolfoddund: Sin-shar-ishkun and Gunk perished. They have left 24 Inf3.
-- Gamunz: Singlestrike and Serhan survived, Umonar perished. They have left 9 Inf3, 98 Inf2, 46 Inf2Arch and 7 Inf1.
-- Nargun: Umimnumi and Whursock (new regent) survived. Sitmeak perished. They have left 103 Inf3 and 20 Inf2Arch.
-- Delmuth: Theklurth is missing in combat. Yncyn perished. Their units are gone.
-
-The new organisation of the Glasrath Alliance is:
-- King regent: Whursock Greybow (Nargun)
-- Guard Regiment Capitain: Serhan (Gamunz)
-- Mayor for the mines and city: Singlestrike (Gamunz)
-- Army General and Cleric of Algath: Ghuse
-- Army soldiers: 205 Inf3, 91 Inf2Arch, 50 Inf2
-- Guards: 48 Inf2 and 7 Inf1
-- Civilians from all the cities: 13.000.
 
 # Part 2 Darkness deepens
 
@@ -77,8 +61,6 @@ Scar, the ogre, did not pose a threat to the defenders, and was very relieved th
 In this first level, several monuments existed: a frog statue of a long lost deity, a bowman statue, representing Cauchurn in the death river, and a memorial to the first Holzander, who established the castle, and explored the Brezal Paths that are so rich in the area. The group then decided to venture towards the catacombs, where they met Ushulx, a cultist of Cauchurn. Ushulx partnered with them while they fought shadows coming from the catacombs to the east and south. Everyone was too hurt to continue after, and the party decided to rest in the cells, together with the prisoners and Ushulx, while Scar kept a look for them.
 
 ![](https://i.imgur.com/LWn8FZ1.png)
-
-![](https://i.imgur.com/bRldXlL.png)
 
 ## Chapter 7 The Void claim
 ***3877.5B, summer***
@@ -114,3 +96,48 @@ Undeterred by the dark turn of events, the heroes, cloaked in the veils of night
 With the dawning of the morrow came the arrival of General Sergarus—a figurehead both dreaded and revered in Linhe. It was Sergarus who extended his impenetrable hand, granting clemency to the cultists detained in the night's embrace, save for the Shaman. In a damning judgment of treason, the Shaman was sentenced to the ghastly fate of impalement. Two hours later, under the watchful gaze of the village, the order was carried out by an FFKA knight with merciless precision.
 
 ![](https://i.imgur.com/qKKz6RW.png)
+
+## Chapter 10 Desert road
+***3877.6A6, autumn***
+
+The party became aware that the Faithful Faletist Knights of the Arch (FFKA) marked them as a group consisting of two adults, two children, and one old brute - an unconventional combination that added an air of mystery to their reputation.  As the heroes delved deeper into the mysteries of the land, they discovered that the thunderstorms in the region of Linhe had grown increasingly frequent and perilous. Prayers to Rurkinar, the Brown Eagle god, had fallen upon deaf ears, leaving the land vulnerable to the raging storms that now wreaked havoc upon the countryside. This disquieting revelation hinted at a growing imbalance in the forces that governed the realm.
+
+Undeterred by these challenges, the group forged ahead, deciding to make their way towards Eyaram, where they would assess their options for reaching the Holzander castle from the desert. However, their plans took an unexpected turn when a scout arrived from the east, bearing troubling news. Another horde of undead had launched an attack on the countryside, specifically targeting the lands east of Eyaram. A detachment of the FFKA was dispatched to gather more information, while their commander, Sergarus, remained stationed in Gimorkoc.
+
+The journey towards Eyaram commenced, and for the first two days, the group's path remained uneventful, save for the peculiar sight of ancient organic structures that hinted at a forgotten past predating recorded history. On the third day, they found themselves navigating a treacherous gorge, realising that descending into its depths would render them vulnerable to unseen dangers. Opting for a safer route around the cliff, fate interceded in the form of a solitary figure - a protector of the road and an outcast of the Nurderad dragonborn known as Gulthas Morseth.
+
+Gulthas bore a burdened past, having been a participant in the raid of the mines under the influence of the battlemage Grezar. Near death's door, Gulthas uncovered the true nature of his tormentor - a shadow dragon in disguise. The revelation struck a chord with Amyria, who recognised the description of the shadow dragon from ancient lore. These creatures had long dwelled deep within the Earth, slumbering for ages. They had departed from the material world, received by Algath's blessings, only to return with nefarious intentions.
+
+Parting ways with Gulthas, the group continued their journey towards the ruined Temple of Remains. There, they engaged in skirmishes with weakened undead adversaries, their collective strength proving superior in combat. Kethra's devastating power nearly laid waste to the entire ruin, but amid the chaos, a discovery awaited them—a tight, cold, and ominously glowing dark red tunnel that seemed to descend into the depths, perhaps leading to the enigmatic Ophaire. Amyria, channeling the divine might of her goddess Mystra, unleashed a wave of holy energy that obliterated seven undead creatures with a mere sight. The potency of her connection to Mystra became evident, further solidifying her status as a beacon of divine power within the group.
+
+As they navigated the Temple of Remains, they unraveled its past purpose - a prison once held captive Algath, the goddess of death herself. The remnants of the ancient power that had resided within its walls left a haunting imprint, a reminder of the forces that once shaped the land. With caution and wisdom, the party decided to explore other areas of the ruined temple, aware that each step took them deeper into the heart of darkness that permeated the land. Uncertainty loomed over them, but their resilience and determination remained unwavering as they braced themselves for the secrets yet to be unveiled within the Temple of Remains.
+
+![](https://i.imgur.com/URnVs1k.png)
+
+## Chapter 11 Aivridyt's past
+***3877.6B4, autumn***
+
+In the grim depths of the Temple of Remains, the group of broken heroes came to a startling realisation - the tumultuous skirmish they had ignited upon their arrival had awoken other malevolent entities that lurked within the ancient halls dedicated to the death goddess.  No sooner had the group taken a defensive stance than they found themselves cornered by two Blessed Dead Adepts, abominations that wielded an unholy mastery over the forces of death. These dark necromancers were accompanied by their grotesque minions, the slave husks—twisted, pitiful figures bound to their malevolent will. The direst of all was the zombie clot, a monstrous amalgamation of hundreds of decaying bodies, writhing and pulsating with an insatiable hunger for flesh. Desperation filled the air as the group fought fiercely against their relentless adversaries. In the midst of the chaotic battle, Kethra, once again facing the clutches of death, found herself almost consumed by the ravenous corpses. Salvation came in the form of Guilf, whose quick thinking conjured a shroud of magical darkness, enveloping the battlefield and granting Kethra a slim chance of escape.
+
+The following day, they took a moment to gather themselves and explored the remaining recesses of the ruined temple. Amidst the hundreds of tombs that lined the halls, their eyes fell upon four imposing statues and a tome written in the ancient draconic script. Two of the statues bore a chilling familiarity - Ghuse and Grezar, names that resonated with historical significance. However, the inscriptions on the statues hinted at a disquieting revelation - the beings masquerading as Ghuse and Grezar were mere facades, vessels assumed by none other than Aivridyt herself, carrying out her sinister machinations. The depths of her treachery were only beginning to reveal themselves.
+
+Leaving the temple behind, the group continued their arduous journey along the desert road. Soon, they encountered a sight both awe-inspiring and foreboding: a towering, ancient metal statue. Filled with a childlike curiosity, Guilf, unable to resist its allure, decided to perch within the statue's mouth, immediately succumbing to a reverie that transcended mortal understanding. He found himself in communion with Mondendovil, the Ngar'tho Void - an ancient deity of the depths.
+
+Mondendovil spoke of the colossal statue as his long-lost physical form, and conveyed a chilling prophecy - the time for his return drew near. His devoted servants would soon arrive to reconnect his powerful mind with his formidable body, a union that would reshape the very fabric of existence. The implications of this encounter sent shivers coursing through the group's spines, stirring a profound urgency within their hearts.
+
+Reluctantly leaving the enigmatic statue behind, the group pressed on, their sense of purpose heightened. The road led them to the  Dwarf enclave of Durnum, where they sought respite and replenishment, even as the weight of their impending destiny hung heavily upon their shoulders.
+
+![](https://i.imgur.com/tnoPs6z.png)
+
+## Dramatis Personae: Aivridyt, the Creep
+***Also known as: The Purple Evil, Ghuse, Grezar and other names***
+
+In the shadowed annals of time, Aivridyt, once a small and ferocious female red dragon known as the Creep, ruled with a malevolence that sent shivers coursing through the Naragzah mountains. This fearsome creature, driven by a sinister curiosity, delved ever deeper into the labyrinthine caverns that lay beneath, venturing into the sacred mines of the two dwarven clans that called those depths their domain. The encounters with the Creep became a recurring nightmare for the Tolfoddund and Nargun warriors, who suffered greatly at her wrathful claws. It was in the year 3856 NC, amidst the blood-soaked peaks of the mountains, that an alliance was forged between the battered clans. United, they struck a grievous blow, leaving Aivridyt wounded and retreating into the dark recesses below.
+
+Humbled and wounded, the Creep sought solace in the unfathomable depths of the Ghost Domain. For six long years, she slumbered, her formidable essence cocooned in the embrace of darkness. Unbeknownst to her, during her deep slumber, a passage opened, beckoning her to the eerie realm known as the Dead Echo. Aivridyt was ensnared by its tendrils, and when she awoke, her once-vibrant scales had transmuted into a twisted shadow red, its hues akin to that of viscous petroleum, intertwined with accents of haunting purple. The Creep had become the Purple Evil—a creature steeped in darkness and corruption.
+
+To her dismay, the Purple Evil discovered that she had come to bear eggs, a phenomenon unheard of in the annals of draconic lore for millennia. Her progeny's arrival was an unexpected twist of fate, and she laid the eggs in a cavernous lair, inadvertently attracting the attention of a destitute family dwelling perilously close to the mountains. Swift and merciless, the Purple Evil dispatched the parents, but she saw potential in the seven-year-old child, Kethra Stormwind. Cunningly, she donned the guise of a gentle sage, veiling her true nature beneath a veneer of wisdom and compassion. Kethra was ensnared in a perpetual state of drowsiness, ensorcelled by the Purple Evil's potent magic and elixirs, deceived into believing she was raised by the sage in her humble abode. The Purple Evil harboured no clear plans for the child, and her careless machinations led to an unforeseen turn of events. Kethra, awakening from her prolonged stupor, escaped the clutches of the lair, leaving behind the twisted enchantments that had held her captive.
+
+In her insatiable hunger for power, Aivridyt, assuming the guise of Ghuse, a human guard captain and cleric devoted to Algath, the goddess of life and death, plotted her ascent in the city of Gorthugke. From the shadows, she manipulated her way to the pinnacle of military command, her influence spreading like a dark stain across the region. In tandem, she concocted a macabre alliance with Grezar, a necromancer dwelling among the dragonborn of Nurderad. The nefarious Grezar orchestrated a vengeful assault upon the Tolfoddund dwarves, reaping havoc upon their land—a cruel act of retribution for the Creep's past transgressions. It was also Grezar that, years before, sent Miraak much too young to battle, where his body and soul burned, becoming a faint memory of a once fearless dragonborn warrior.
+
+![](https://i.imgur.com/fOycPBy.png)
