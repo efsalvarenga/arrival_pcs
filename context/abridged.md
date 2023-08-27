@@ -38,7 +38,7 @@ A new party member joins the Glasrath Defenders - a dust elf cleric of [Mystra](
 
 ![](https://i.imgur.com/0SFRF2o.png)
 
-## Chapter 5 A Breath from the desert
+## Chapter 5 A breath from the desert
 ***3877.5A, summer***
 
 The Glasrath Defenders marched through the desolate landscape of Ammuinoth, their path illuminated only by the dim light of the Ghost Domain. As they approached the Holzander castle, they encountered a Ghost Rider, a cursed creature never before seen in the mortal. The Defenders clashed with the beast, their weapons and spells piercing its ethereal form.
@@ -69,7 +69,7 @@ After a much-needed rest, the defenders huddled together in a dimly lit cell, sh
 
 The party engaged in a spirited debate about their next move, eventually deciding to venture to the lower level in search of Cagoth-ze. As they explored the second level, they stumbled upon records detailing gruesome ooze experiments and encountered a dangerous trap in the form of a green ink-ooze. Just moments later, Amirya's sharp eyes spotted something extraordinary—a time tributary, a river of time flowing through one of the rooms. In a bold and impulsive act, Guilf stepped forward and crossed the tributary, only to fall unconscious and undergo a magical transformation, becoming significantly younger. It became apparent that Guilf had been claimed by The Void, bound to a contract with this mysterious entity.
 
-As the party deliberated their next steps, they noticed a clockwork servant skulking around the rooms, raising concerns about their safety. Acting swiftly, the group retreated from the second level and sought refuge in the safety of the cells on the first level, strategising their approach and considering the implications of Guilf's newfound contract with [The Void](religions.md#Mondendovil).
+As the party deliberated their next steps, they noticed a clockwork servant skulking around the rooms, raising concerns about their safety. Acting swiftly, the group retreated from the second level and sought refuge in the safety of the cells on the first level, strategising their approach and considering the implications of Guilf's newfound contract with [The Void](religions.md#Ethux'zhurh).
 
 ![](https://i.imgur.com/SleRiLY.png)
 
@@ -125,11 +125,11 @@ Leaving the temple behind, the group continued their arduous journey along the d
 
 Mondendovil spoke of the colossal statue as his long-lost physical form, and conveyed a chilling prophecy - the time for his return drew near. His devoted servants would soon arrive to reconnect his powerful mind with his formidable body, a union that would reshape the very fabric of existence. The implications of this encounter sent shivers coursing through the group's spines, stirring a profound urgency within their hearts.
 
-Reluctantly leaving the enigmatic statue behind, the group pressed on, their sense of purpose heightened. The road led them to the  Dwarf enclave of Durnum, where they sought respite and replenishment, even as the weight of their impending destiny hung heavily upon their shoulders.
+Reluctantly leaving the enigmatic statue behind, the group pressed on, their sense of purpose heightened. The road led them to the Dwarf enclave of Durnum, where they sought respite and replenishment, even as the weight of their impending destiny hung heavily upon their shoulders.
 
 ![](https://i.imgur.com/tnoPs6z.png)
 
-## Dramatis Personae: Aivridyt, the Creep
+## *Dramatis Personae*: Aivridyt, the Creep
 ***Also known as: The Purple Evil, Ghuse, Grezar and other names***
 
 In the shadowed annals of time, Aivridyt, once a small and ferocious female red dragon known as the Creep, ruled with a malevolence that sent shivers coursing through the Naragzah mountains. This fearsome creature, driven by a sinister curiosity, delved ever deeper into the labyrinthine caverns that lay beneath, venturing into the sacred mines of the two dwarven clans that called those depths their domain. The encounters with the Creep became a recurring nightmare for the Tolfoddund and Nargun warriors, who suffered greatly at her wrathful claws. It was in the year 3856 NC, amidst the blood-soaked peaks of the mountains, that an alliance was forged between the battered clans. United, they struck a grievous blow, leaving Aivridyt wounded and retreating into the dark recesses below.
@@ -141,3 +141,45 @@ To her dismay, the Purple Evil discovered that she had come to bear eggs, a phen
 In her insatiable hunger for power, Aivridyt, assuming the guise of Ghuse, a human guard captain and cleric devoted to Algath, the goddess of life and death, plotted her ascent in the city of Gorthugke. From the shadows, she manipulated her way to the pinnacle of military command, her influence spreading like a dark stain across the region. In tandem, she concocted a macabre alliance with Grezar, a necromancer dwelling among the dragonborn of Nurderad. The nefarious Grezar orchestrated a vengeful assault upon the Tolfoddund dwarves, reaping havoc upon their land—a cruel act of retribution for the Creep's past transgressions. It was also Grezar that, years before, sent Miraak much too young to battle, where his body and soul burned, becoming a faint memory of a once fearless dragonborn warrior.
 
 ![](https://i.imgur.com/fOycPBy.png)
+
+## *Interlude*: A dream of Makab
+
+In the depths of their wearied minds, some of the Glasrath defenders share a nightmare, one that plagued their restless slumber. This nightmarish vision transported them to an ancient temple shrouded in the mists of the sea - a place of forgotten rituals and unspeakable horrors.
+
+Within the dream, they found themselves thrust into the midst of a sinister ceremony, their presence intended to thwart the unfolding ritual. Yet, as the dream progressed, a chilling realisation dawned upon them - the Glasrath defenders themselves were integral to the very ritual they sought to disrupt. Their every action, their every step, was predetermined, inexorably woven into this malevolent enchantment.
+
+Enigmatic beings, known as Ngar'thos, stood as mere witnesses, their forms twisted and alien, indifferent to the mortals' plight. And at the centre of it all stood the Eldritch Furnace, a conduit to realms unimaginable, where Ethux'zhurh, an embodiment of The Void, awaited its unwitting prey.
+
+As the dream neared its crescendo, Kimbarak, driven by desperation and armed with a golden dagger, believed it to be his salvation - a weapon that could sever the grasp of The Void and restore balance. But the cruel irony of the nightmare unfolded before their eyes. As Kimbarak raised the dagger, it was not The Void that was halted, but Kimbarak himself who became ensnared within the swirling tapestry of reality, forever condemned to serve as a slave spirit to the ancient horrors that lurked beyond.
+
+With despair gnawing at their hearts, the remaining defenders made a fateful decision - to flee the accursed temple and escape the clutches of Ethux'zhurh. Their footsteps echoed through the corridors and inhumane rooms, a desperate bid for survival. Yet, Guilf's dream diverged from the others, his nightmare ending with a chilling embrace by The Void itself, an all-encompassing darkness that dragged him relentlessly into the unfathomable depths of the sea. Miraculously, the surviving defenders, in a stroke of sheer luck, managed to sail away from the awakening Ethux'zhurh, evading its wrath and preserving their tenuous hold on existence.
+
+![](https://i.imgur.com/3lmaRpV.png)
+
+## Chapter 12 Finding Holzander once more
+
+- The broken Glasrath defenders spent a week amongst the dwarves in the mining enclave of Durnum. 
+- In an action of kindness, Amyria offered food to the famine dwarves, and promised help dealing with the Dust Elves traders under Neeleu, so that they are less aggressive with their quotas.
+- They learned that the enclave of Durnum was built in an ancient construction shaft that connects to another Ammuinoth tunnel.
+- While talking with Glorizerlug Chaosfoot, they learned that the war in the south is being lost, which forced the Kiranu dwarves to abandon their houses in the mountains and migrate north protected by the Nurderad Dragonborn.
+- The heroes warned of the possible dangers lingering in the Glasrath mountains, if the Kiranu were to take shelter there. Dolman was divided if he wanted to go back to Glasrath and possibly protect his Kirano kin, or march forth towards the castle and all the answers that he was looking for. The party decided on continue to the castle.
+- In a wise move, Guilf looked into the dwarves mind to see the how to get to the Holzander Castle, which saved them hours of search in the desert.
+- From the enclave, the party decided to continue their journey to Holzander through the desert, which was safe until the old ruins of Dannamore, where an entrance to the castle was to be found.
+- While reaching the ruins of Dannamore, under a heavy thunderstorm, the party was chased into the ruins by a storm spirit.
+- Inside the ruins the Glasrath defenders run into a detached band of Anak Warriors who were also fleeing the war in the south, and in an instinctive act of violence Kethra attacked them.
+- The fight that ensued was not easy, and Miraak found himself stabbed to almost death by a nimble Anak that was hiding in one of the ruined walls. In the end, the broken heroes won this sad encounter, feeling cursed by their choice of killing innocent creatures.
+- What followed was: finally finding the magic Mystra's door that accessed the castle of Holzander, getting in and, after a quick skirmish with undead tomb guardians known as Revenants, finding Ushlux again.
+- While all that happened, Guilf had another opportunity to speak with The Void through the toad statue, and learned the terrible truth that his soul has been promised to that entity many years ago, by Guilf's own mother.
+
+![](https://i.imgur.com/ljUCKNS.jpg)
+
+## Chapter 13 The Ancient Elven Library
+
+- The Glasrath defenders found themselves in a network of intrigue at the second level of the Holzander Castle. Danaska, an arcane scholar, wanted Cagoth-Ze, dealt with and proposed the group of heroes to take the task. The group did not agree to do the work, and went and met Cagoth-Ze, which had similar plans for Danaska - which the group again declined. Cagoth-Ze then made an alternative proposal, where the group would kill the Ngar'tho that was imprisoned in the summoning circle. The group again declined, and went parley with the creature, who only wanted to be made free.
+- In the end, the deal the broken heroes took was with the Ngar'tho, in exchange of valuable information. They learnt that Galiera is being hold on the third level by the Blighted - a slave race of Gellert. The group also learnt how to reach the library, which is hidden 100 thousand years in the future, among other valuable information. After the deal was completed the Ngar'tho vanished in thin air.
+- With the Ngar'tho free, and Cagoth-Ze believing the party had destroyed it, the group was now welcome into Cagoth's area in the level, and travelled with the time construct towards the library.
+- The time travel showed the group a series of imprints of the world, in the past and in the future, that each could only observe for a fraction of second. Some images were disturbing.
+- After spending a few hours on the library conducting their research, the group came back to the present time with the time construct, and at that moment the group saw itself divided: Dolman, Guilf and Amyria were decided to continue on the castle, until they find Galiera, while Miraak and Kethra decided to pursue their destiny and face Ghuse. The group said their farewells, hoping they would find each other in the future.
+
+
+![](https://i.imgur.com/UKMAPLE.jpg)

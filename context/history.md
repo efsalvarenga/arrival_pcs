@@ -1,34 +1,14 @@
 ---
 type: context/history
-name: The History of Guemenos
+name: Tales from the past
 world: Guemenos
 campaign: Arrival
 tags: 
 ---
 
-# The History of Guemenos
-***As told in the region of Maqqatba of the Latter Earth***
+# Tales from the past
 
-## TLDR
-
-**Weavers and Angels**
-- Nek created the world (Guemenos) and the tapestry of its reality (Theurgy)
-- Life emerged from this tapestry, including an ethereal race known as the Weavers, who could weave the reality itself
-- Over millennia, empires and kingdoms emerged, and wars amongst them were common
-- The Weavers decided to consult with Nek, so they would stop the wars and violence in Guemenos
-- Instead of being received by Nek, the Weavers were received by Nek's Angels, which enraged the Weavers
-- The Weavers decided to further expand their powers, through the creation of Theotechnical engines
-- Meanwhile, the Angels were also infuriated as Nek gave lesser creatures a beautiful world such as Guemenos
-- For eons, the Angels and the Weavers fought, culminating with the Angels winning and pushing the Weavers to the depths of Guemenos
-
-**The Edrahil and The Kyri**
-- The Angels then took Guemenos for themselves and, over the centuries, while most of them waned in power and became mortal races, some became powerful and proclaimed themselves as **The Edraihil**
-- Meanwhile, the Weavers and their peoples lived in the underworld, and through their Theotechnical engines they created the constructed gods, which became known as **The Kyri**
-- The Kyri were then awoken and declared war and defeated the Edraihil, banishing most of them from Guemenos
-- Guemenos now live in a unstable balance with the remaining Edrahil constantly challenged by the much stronger Kyri
-- The Angels and the Weavers are long gone, what is left is their waned races, cross-bred over thousands of years.
-
-## The Creation
+## The world known as Guemenos
 
 In the darkness of a forgotten universe, the world of Guemenos was born from the hand of Nek, a deity who crafted its very foundations. With its inception, Nek gifted the realm with an intricate tapestry of energy known as Theurgy, an otherworldly power that pulsed through the fabric of existence.
 
@@ -36,7 +16,7 @@ Intriguingly, the powers of Theurgy took on a life of their own, self-organising
 
 Over the course of centuries, the Weavers delved into the mysteries of Theurgy, researching deeper into its enigmatic depths. Through their relentless work, they unlocked the secrets of Theotechnical engines, wondrous devices that harnessed and channeled the boundless power of Theurgy. With each invention, Guemenos flourished, and its inhabitants revelled in the marvels that these devices wrought.
 
-## Of Weavers and Angels
+### Of Weavers and Angels
 
 As is often the way with great power, discord brewed amidst the Weavers. Their divergent beliefs clashed, and the realm was consumed by the ravages of imperial wars that scarred the land for ages untold. Seeking resolution, the Weavers convened in a grand council, their intentions set upon parlaying with the enigmatic Nek himself, hoping to find a common ground and end the strife that plagued their world.
 
@@ -50,7 +30,7 @@ Banished to the depths of the world they once called home, the Weavers and their
 
 As the ages unfolded, most of the Edraihil gradually waned in power, their once celestial forms degraded into mere shadows of their former glory. Yet, a select few endured, ascending to blessed stature, their essence resonating with the divine. These remnants of the Edraihil persisted as powerful beings, revered and feared by those who dared cross their path. A chapter in the grand tapestry of Guemenos had closed, while another, steeped in dark intrigue and ancient grudges, unfurled in the depths below.
 
-## The rule of the Edraihil
+### The rule of the Edraihil
 
 The Edrahil, their power solidified and their dominion unchallenged, reshaped Guemenos in the image of their celestial progenitor, Nek. With intricate incantations and unfathomable rituals, they twisted the very fabric of reality, moulding the land to reflect their desires. Mountains rose like jagged fangs, rivers twisted and turned in unnerving patterns, and forests whispered secrets that only the chosen few could decipher.
 
@@ -60,7 +40,7 @@ For millennia, Guemenos thrived under the rule of the three eldest Edrahil, each
 
 But deep within the heart of Guemenos, a foreboding darkness stirred. The cosmic fabric that held this twisted realm together quivered with an otherworldly anticipation, whispering of a lurking menace that threatened to shatter the fragile equilibrium. Shadows loomed larger, madness dripped like poison from the air, and whispers of an ancient, eldritch force began to echo through the ethereal halls of Guemenos.
 
-### Iopothae
+#### Iopothae
 
 The kingdom of Iopothae stood as a testament to the Edrahil's mastery, surpassing all others in its ingenuity and sophistication, a beacon of advanced knowledge and arcane arts. Towering spires of obsidian and basalt pierced the heavens, their blackened peaks scraping against the ethereal veil. Marble palaces, adorned with intricate carvings that whispered tales of forgotten gods, sprawled across the landscape, testifying to the might and ambition of the Iopothaeans. It was here that the first recorded calendar was meticulously crafted, its intricate markings etched upon ancient stones known as Chronoliths, unraveling the mysteries of time itself.
 
@@ -68,6 +48,17 @@ Chief among their astonishing creations was the [Ammuinoth](../realms.md#Ammuino
 
 Little did they know that their relentless pursuit of supremacy would beckon forth forces from realms unseen, as dark entities stirred, their insidious tendrils creeping ever closer to the heart of Iopothae. In the realm of Iopothae, the seeds of their own downfall had been sown, and the price for their audacity would soon be demanded in full.
 
+## The first Arrival
+
+The most powerful of the Sorcerer-Kings felt they were gods. And in some sense, they were as powerful as divine creatures. Some of them used their power to continue to distil magic, and developed techniques that turned them dragons. And this is the first time creatures of such a power were seen (see Dark Sun for detail on defiling magic). The Sorcerer-Kings immense power allowed them to travel to the heavens and claim their place in the halls of the divine. However the Angels did not agree. It is not known who attacked first, but the Angels came to Earth in pursuit of the Sorcerer-Kings and their armies, in flying machines that looked like golden mechanical dragons. This became known as Arrival.
+
+For too long a war ensued in Earth, with the Sorcerer-Kings learning how to operate and construct similar machines as the ones the Angels had. Their machines became known as Made Gods - armoured shells were a god-like creature operated from within. The magic used to bind the Made Gods was known as Theurgy. With these machines the Angels were no match for the Sorcerer-Kings. The war had a dire consequence: the attacks to the celestial machines destroyed what kept the reality of the world in place, and the world began to uncreate.
+
+While Angels and Sorcerer-Kings fought and uncreated the world, some other unknown power worked for fixing it. New artefacts that could stitch reality back together were devised and a new tapestry allowed Earth to continue existing, but not without its flaws. Certain fractures in this tapestry were never properly avoided, and the energy that follows through these fractures became known as the Brezal Paths.
+
+
+
 ![The Kyri](secrets/secretsHistory.md#The%20Kyri)
 
 ![Absent Angels](secrets/secretsHistory.md#Absent%20Angels)
+
