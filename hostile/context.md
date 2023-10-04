@@ -138,7 +138,7 @@ Date: September 20, 2225
 
 - [Near Earth Zone (NEZ) Sector](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)
 - [ECS Starbounder Frostbreaker GSV-112578](https://www.swnfreebooter.net/starshipShare/DOefjLYWNp812UH0Tqic)
-- [Miro for sharing images and drawings](https://miro.com/welcomeonboard/bjZPcHNLV3Z6NVMwN2JyaDR1U0Rrc2VOZnM1bTJnSjFPVG9BT3lNUDVrOE1EdVpCU2ZoMjZLZ3BrUGs5WFdhbnwzNDU4NzY0NTQ0OTA2ODU2MjgyfDI=?share_link_id=827183981565
+- [Miro for sharing images and drawings](https://miro.com/welcomeonboard/bjZPcHNLV3Z6NVMwN2JyaDR1U0Rrc2VOZnM1bTJnSjFPVG9BT3lNUDVrOE1EdVpCU2ZoMjZLZ3BrUGs5WFdhbnwzNDU4NzY0NTQ0OTA2ODU2MjgyfDI=?share_link_id=827183981565)
 - [Owlbear rodeo for battle maps](https://www.owlbear.rodeo/room/bEBXAYnWwWR0/TheBusyQuest)
 
 ### Character sheet links
