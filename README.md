@@ -22,12 +22,11 @@ The Acrisae (known as Angels) have come again to claim the Latter Earth as their
 
 # Ideas for future campaigns
 
-| Trope                                           | Setting/system                                                         |
-| ----------------------------------------------- | ---------------------------------------------------------------------- |
-| Gothic horror / vampire (renaissance/Victorian) | Godbound/blood + domain rules + silent legions (90s) - alt: werewolves |
-| Sci fi with fantasy/magic                       | SWN + Codex of black sun                                               |
-| Cosmic horror 8th century                       | Wolves of God + silent legions                                         |
-| Fallout                                         | Other Dust/SWN + fallout' winter of atom (needs conversion)            |
-| Post apocalyptic fantasy                        | Dark sun (little conversion)                                           |
-| Modern cosmic horror, conspiracy                | Delta green campaigns (needs conversion), beyond the wall (Lovecraft)  |
-
+| Trope                                 | System                           | Setting                | Star |
+| ------------------------------------- | -------------------------------- | ---------------------- |:----:|
+| Gothic horror (i.e. vampires)         | Godbound + An Echo Resounding    | Istanbul 19th century  |  *   |
+| Techno-fantasy (i.e. jedis)           | SWN + Codex of Black Sun         |                        |      |
+| Gritty historical fantasy             | WWN + Wolves of God + Nightmares | Silk Road 13th century |  *   |
+| Post apocalyptic sci-fi (i.e Fallout) | SWN + Other Dust                 | Fallout or Mutant      |  *   |
+| Post apocalyptic fantasy              | WWN or Shadowdark                | Dark Sun               |      |
+| Modern cosmic horror, conspiracy      | SWN + Silent Legions             | Delta Green            |      |
