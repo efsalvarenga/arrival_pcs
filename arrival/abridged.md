@@ -215,5 +215,20 @@ Outside the castle, an ominous sight awaited them—a colossal umbilical of ener
 
 Amyria, Dolman, and Guilf resolved to protect the commoners on their path to Eyaram. But as they neared their destination, the night bore witness to the chilling manifestation of the commoners' fears—an otherworldly fracture in reality, from which three reality-flickering spiders emerged, their presence heralding an imminent and indescribable terror.
 
-![](https://i.imgur.com/3c0w0Ae.png)
+![](https://i.imgur.com/EwEUhjU.jpg)
 
+## Chapter 16: Madness in Eyaram
+
+In the ever-twisting labyrinth of their perilous journey, the beleaguered Glasrath champions found themselves ensnared in yet another malevolent embrace, their battle-worn bodies craving only the respite of the Fort City of Eyaram. But it was not to be so simple, for even in the supposed stronghold city, the tendrils of an insidious presence reached out to bind their minds. The city's twisted streets, warped by hallucinations spawned from the darkest corners of the unknown, unfolded before them. Deja vu gripped their thoughts like the gnarled fingers of some eldritch puppeteer, and the very angles of construction defied the laws of reason. Laughter, high-pitched and maddening, echoed through the alleys, sung by spectral children who should never exist.
+
+Days slipped by like phantoms, and Amyria, ever the beacon of insight, slowly unraveled the nightmarish tapestry that enshrouded them. It was a Ngar'tho, those mind-warping entities, whose invisible hands pulled the strings of their torment. In an audacious gambit, Guilf ventured to interrogate their elusive tormentor. The words echoed in the hollow chasms of their consciousness, seeking answers within the dark recesses of the Ngar'tho's enigmatic intentions. Why had they been chosen as playthings for this malevolent entity's cruel games? The response, whispered through the abyss of thought, was chilling in its simplicity: Ethux'zhurh was poised to unveil its terrible pronouncements to all. The plight of the inhabitants of Linhe and the undead horrors festering the desert sands were but petty squabbles, trifles that buzzed like flies upon the desert's cruel winds in the eyes of this eldritch being.
+
+A week wore on, each day an agonising journey through a city steeped in the macabre. They encountered broken souls, remnants of once-vivid aspirations. Amongst these wretched inhabitants, they met Eleni, a dust elf trader whose wares outweighed her capacity to sell. A paradox of prosperity turned to burden, she offered potions and arcane stones, their very existence a lifeline in this desolate place.
+
+Then there was Marcus, a senior knight fervent in his belief in the primacy of Faletism. He whispered of a plot to wrest control of the FFKA East from the grasp of Sergarus, a design that, though bloodless, bore ominous risks. The tidings brought forth a revelation—the FFKA believed the heart of the undead menace lay hidden in Glasrath.
+
+Finally, amidst the maddening symphonies of a Mercian house, their senses were assaulted by music and perverse indulgences. There, in the throes of fleshly excess, revelations spilled forth like tainted wine. A revelation carved with Imortra's name—a name that resonated as the architect of a new Mercian cult that had entrapped them in the inescapable web of Linhe's shadows.
+
+None of these plans and dreams would endure, dashed like fragile glass beneath the relentless march of thousands rotting feet, with no heroes remaining to shield them, as the Glasrath champions went back to Holzander, the supposed root of the evil.
+
+![](https://i.imgur.com/tkXdXWi.png)
