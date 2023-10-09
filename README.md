@@ -24,7 +24,7 @@ The Acrisae (known as Angels) have come again to claim the Latter Earth as their
 
 | Trope                                 | System                           | Setting                | Star |
 | ------------------------------------- | -------------------------------- | ---------------------- |:----:|
-| Gothic horror (i.e. vampires)         | Godbound + An Echo Resounding    | Istanbul 19th century  |  *   |
+| Gothic horror (i.e. vampires)         | Godbound + An Echo Resounding    | Istanbul 19th century + Barovia  |  *   |
 | Techno-fantasy (i.e. jedis)           | SWN + Codex of Black Sun         |                        |      |
 | Gritty historical fantasy             | WWN + Wolves of God + Nightmares | Silk Road 13th century |  *   |
 | Post apocalyptic sci-fi (i.e Fallout) | SWN + Other Dust                 | Fallout or Mutant      |  *   |
