@@ -66,6 +66,9 @@ Ship must dock for life support supplies every 6 weeks (max life support is 2 mo
 
 #### Exploration framework and milestones
 
+![|500](https://i.imgur.com/swvqhSV.png)
+
+
 1. *Prospection*
 	1. Theoretical study (completed outside the contract)
 	2. Topography mapping
@@ -127,9 +130,13 @@ Date: September 20, 2225
 
 ```
 
-![GSV-112578|500](https://i.imgur.com/rGwmaau.png)
+![|500](https://i.imgur.com/Mc2dMaQ.png)
+
 
 ## Perdurabo
+
+![|500](https://i.imgur.com/Bt6ywq5.png)
+
 
 ![](https://i.imgur.com/RLOfasI.png)
 
