@@ -3,11 +3,7 @@
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 timeline
-        title Ongoing Terra Campaigns
-        section 2102 CE <br> Rio de Janeiro, Earth
-	        Silicon Samba
-			: The South-American empire leads population control technologies, inner solar system is sparsely colonised and Europeans lead early long-range space travel.
-			: Prepared in 2023, halted game, SWN/CWN hybrid.
+        title Current Terra Campaigns
 		section 2225 CE <br> Near Earth Zone
 			Hostile
 			: Valuable alien RNA is found in a debris field in the Perdurabo system. Tharsis Mining hires a crew to prospect the icy rocks and evaluate the commerciality of exploiting the RNA resource.
@@ -28,32 +24,37 @@ timeline
         title Future Terra Campaigns
         section 13th Centure <br> Silk Road, Earth
 	        Gritty historical low fantasy
-			: WWN (Drylands rules)
+			: WWN <br> (Drylands rules)
 			: Wolves of God
 			: Nightmares
+			: Historica Arcanum
 		section 19th century <br> Istanbul
 			Gothic horror <br> (vampires)
-			: Godbound (Bloodbound rules)
+			: Godbound <br> (Bloodbound rules)
 			: Blood Hack
 			: An Echo Resounding (dominion rules)
+			: Historica Arcanum
 		section 20th/21st century <br> USA, Earth
 			Modern cosmic horror, conspiracy
-			: SWN/CWN
+			: SWN + CWN
 			: Silent Legions
 			: Delta Green
+        section 22nt century <br> Rio de Janeiro, Earth
+	        Silicon Samba <br> (latin cyberpunk)
+			: SWN + CWN
+			: Prepared in 2023, halted game.
 		section 25th century <br> Space Opera
 			Techno-fantasy
-			: SWN
+			: SWN + WWN
 			: Codex of the Black Sun
 		section 28th century <br> Earth
 			Post apocalyptic sci-fi
-			: SWN/CWN
+			: SWN + CWN
 			: Other Dust
 			: Fallout
 			: Mutant Year Zero
 		section Far Age <br> Earth
 			Post apocalypic fantasy
-			: WWN
-			: Shadowdark
+			: WWN or Shadowdark
 			: Dark Sun
 ```
