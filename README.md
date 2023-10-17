@@ -28,12 +28,14 @@ timeline
 			: Wolves of God
 			: Nightmares
 			: Historica Arcanum
+			: Book of The Red Tides
 		section 19th century <br> Istanbul
 			Gothic horror <br> (vampires)
 			: Godbound <br> (Bloodbound rules)
 			: Blood Hack
 			: An Echo Resounding (dominion rules)
 			: Historica Arcanum
+			: Kult Divinity Lost
 		section 20th/21st century <br> USA, Earth
 			Modern cosmic horror, conspiracy
 			: SWN + CWN
@@ -42,6 +44,7 @@ timeline
         section 22nt century <br> Rio de Janeiro, Earth
 	        Silicon Samba <br> (latin cyberpunk)
 			: SWN + CWN
+			: cy_borg / Shadowrun
 			: Prepared in 2023, halted game.
 		section 25th century <br> Space Opera
 			Techno-fantasy
