@@ -1,4 +1,4 @@
-# Campaign setting: Atlas of The Latter Earth
+# Campaign setting: Latter Earth
 ***Link to [View-only PDF](https://drive.google.com/file/d/1bOrZFAV3zSfMZnHomFQgXuExUyV44hDt/view?usp=drive_link) and [DriveThru RPG](https://www.drivethrurpg.com/product/416284/The-Atlas-of-the-Latter-Earth)*** 
 
 ## Latter Earth

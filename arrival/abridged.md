@@ -188,10 +188,9 @@ After hours spent within the library, delving into tomes of arcane wisdom and ti
 
 Dolman, Guilf, and Amyria were resolute in their quest to rescue Galiera from the clutches of the Blighted on the third level. Meanwhile, Miraak and Kethra, their hearts aflame with the burning desire for justice and retribution, chose to confront Ghuse, the dark puppeteer who had manipulated their fates. With heartfelt farewells and whispered hopes of reunification in the uncertain future, the heroes embarked on their divergent paths within the enigmatic depths of Holzander Castle.
 
-
 ![](https://i.imgur.com/UKMAPLE.jpg)
 
-## Chapter 14 & 15: The Deepfolk
+## Chapters 14 & 15: The Deepfolk
 
 In the shadowed depths of Holzander Castle, the Glasrath champions pressed forward into the foreboding third level, their path fraught with peril and uncertainty. Before they embarked on this treacherous journey, Cagoth-Ze, the time arcanist, bestowed upon them an unexpected gift—an ancient construct known as Brilhorte 3000. Cagoth-Ze explained that Brilhorte 3000 had been a steadfast guardian in his own trials and tribulations, a stalwart companion to guide them through the labyrinthine darkness of the castle. The heroes welcomed their new mechanical ally with gratitude and camaraderie, their party now augmented by this enigmatic presence.
 
@@ -232,3 +231,18 @@ Finally, amidst the maddening symphonies of a Mercian house, their senses were a
 None of these plans and dreams would endure, dashed like fragile glass beneath the relentless march of thousands rotting feet, with no heroes remaining to shield them, as the Glasrath champions went back to Holzander, the supposed root of the evil.
 
 ![](https://i.imgur.com/tkXdXWi.png)
+
+## Chapter 17 Mothers
+
+- In the first night of their travel, the Glasrath champions encounter another infected Lady Scurvy. They are powerful now and quickly kill the creature.
+- After some investigation, they learn that the infection is of an alien origin, where one parasite creature is attached to the neck of a rather normal ghoul. This specific creature, seemed controlled by some kind of desire to consume others, but entertained the construction of some kind of altar until the broken heroes found it and destroyed it. The altar contained a stone with the names of Kimbarak and Ethux'zhurh, related to some kind of ancient dark ritual.
+- The following days of travel were less dangerous, although some dark visions occured to each of the champions.
+- Guilf was the first one, and had a melancholic vision of the world being uncreated by the current powers in play. Next Dolman, after a confusing dream, came to realise that different than all the other undead they have battled for so long, these new "reality flickering" creatures had no smell. Finally, Amyria suddely succumbs to some call from the desert and, on her knees and hands in the sand, feels the weight of so many layers of civilisation after civilisation whose ruins scatter the desert in unmemorable depths - and all those that died when civilisations collapse, now their bodies ready to be reanimated for some dark cause. The peril is immense.
+- The party finds their way into the Holzander castle for one more time, and learn from Cagoth-ze that there is some intense power struggle for leadership amongst the Deepfolk, after Bjrnyar was killed.
+- Guilf decides to investigate the Deepfolk level from the collapsed floor of the library, and sees a body on the top of the rubble pile. In a smart and stealth move, he ties the body and rescue it to the floor above, before the Deepfolk realise their bait has been removed.
+- The body is Dolman's mother - Gaelira. She is not dead, but instead in some coma state. Reading her mind, Guilf finds buried a cognitive distress call: "The world is going to end. The Brezal paths have to be disentangled from the castle's  artefacts to release the tension. The Arcane Furnace, The Crystal Platform and the Sphere of Annihilation must be destroyed."
+- With this goal clear in their head, the broken heroes go to Danaska first, as the master of oozes have been using the Alchemist Furnace for years now.
+- Amyria, in a high morale decision, intimidates Danaska to step away, and the ooze scholar decides to leave the castle.
+- After failing their first attempt to disable the furnace, the heroes decide to climb down to the Deepfolk level, and stealthily take them down. They almost succeed, but before the first foes can be killed in silent, one of them whistles, signalling intrudes to the others. The party is quickly surrounded and, once Dolman falls unconscious shot down by a dozen arrows, the group's morale is shaken and they give in.
+- The Deepfolk takes their armours and weapons and call in the Derro, from the fourth level, to take the group to Imortra.
+
