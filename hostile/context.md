@@ -130,7 +130,9 @@ Date: September 20, 2225
 
 ```
 
-![|500](https://i.imgur.com/Mc2dMaQ.png)
+
+![](https://i.imgur.com/MRdCXz0.png)
+
 
 
 ## Perdurabo

@@ -16,11 +16,6 @@ Stars Without Numbers (SWN) is an OSR system, which allows me to easily reskin a
 - (tbd) 3+ players we go ahead with the game. Or 4+?
 - (tbd around level 5) Domain play (i.e.: player driven faction to build a colony, once characters are higher level, and if players are interested in it)
 - NB.: Additional flavour from other games are always welcomed (OSR compatible preferred, but anything can be discussed): Any rule, class, foci, etc from any OSR game can be considered. [Sine Nomine](https://preview.drivethrurpg.com/en/publisher/3482/Sine-Nomine-Publishing) books are very easy to integrate with each other. I have a few of them if someone is interested.
-- **Hazards (below)**
-- **Space travel time (below)**
-- **Humanity (below)**
-- **Character advancements (below)**
-- **Equipment (below)**
 
 ### Hazards
 
@@ -36,15 +31,6 @@ Hazard effects from Hostile Rules (65-87) used, which are significantly more det
 | Radiation High (white dwarf) | 1 CON/hour                | Physical negates | Lead spacecraft hull reduces to low exposure.  |
 | Radiation Extreme            | 1 CON/min                 | Physical negates | Lead spacecraft hull reduces to high exposure. |
 | Radiation Nuclear Blast      | 1 CON/round               | Physical negates |                                                |
-
-### Space travel time
-
-| Destination            | Travel time    |
-| ---------------------- | -------------- |
-| Within a region        | 6 hours/drive  |
-| Between regions        | 48 hours/drive |
-| Between hexes (prep)   | 30 min         |
-| Between hexes (travel) | 6 days/drive   | 
 
 ### Humanity
 References: [Silent Legions](https://www.drivethrurpg.com/product/145769/Silent-Legions), [variant on 3.5e SRD](https://www.d20srd.org/srd/variant/campaigns/sanity.htm), [CoC RPG](https://cthulhuwiki.chaosium.com/rules/sanity.html#sample-phobias-and-manias). 
@@ -97,7 +83,7 @@ Required XP will use a higher inclination curve (without impact in progress pace
 
 ![|180](https://i.imgur.com/DauwZK5.png)
 
-### Equipment
+## Equipment lists
 
 - Equipment from the SWN book is considered the standard most common equipment available.
 	- We are in year 2225, which means the maximum available technology is TL4 (SWN 63)
@@ -106,7 +92,16 @@ Required XP will use a higher inclination curve (without impact in progress pace
 	- [Hostile Toolkits](https://drive.google.com/open?id=1fL8DRXAaHosQ6aXeTCiIC1YKSVjhVCgk&usp=drive_fs) for specific equipment (includes explosives)
 	- [Hostile Gun Locker](https://drive.google.com/open?id=1fKPO19H1ZY4RAQoknhycMyO8sL4MN02V&usp=drive_fs) for weapons
 
-## Mining
+## Space travel time
+
+| Destination            | Travel time    |
+| ---------------------- | -------------- |
+| Within a region        | 6 hours/drive  |
+| Between regions        | 48 hours/drive |
+| Between hexes (prep)   | 30 min         |
+| Between hexes (travel) | 6 days/drive   | 
+
+## Mining 
 
 All below assumes a 24h (2 12h shift) operations. Each shift must make it roll once for the entire job.
 
@@ -125,3 +120,16 @@ All below assumes a 24h (2 12h shift) operations. Each shift must make it roll o
 ![|500](https://i.imgur.com/c3BZ7ty.png)
 
 ![|500](https://i.imgur.com/yWc1wwW.png)
+
+## Factions sub-system
+***Based on Godbound (gb134) and (S/W/C)WN assets***
+
+| Power | Action Die |
+| ----- | ---------- |
+| 1     | 1d6        |
+| 2     | 1d8        |
+| 3     | 1d10       |
+| 4     | 1d12       |
+| 5     | 1d20       |
+
+Features costs are based on (S/W/C)WN asset costs. Each feature has a number of points equal to its type level (1 to 8) divided by 2.
