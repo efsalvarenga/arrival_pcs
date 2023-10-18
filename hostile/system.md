@@ -124,12 +124,14 @@ All below assumes a 24h (2 12h shift) operations. Each shift must make it roll o
 ## Factions sub-system
 ***Based on Godbound (gb134) and (S/W/C)WN assets***
 
-| Power | Action Die |
-| ----- | ---------- |
-| 1     | 1d6        |
-| 2     | 1d8        |
-| 3     | 1d10       |
-| 4     | 1d12       |
-| 5     | 1d20       |
+| Power | Action Die | Size (space resolution) | Size (world resolution) |
+| ----- | ---------- | ----------------------- | ----------------------- |
+| 1     | 1d6        | Settlement region       | Village                 |
+| 2     | 1d8        | World                   | City                    |
+| 3     | 1d10       | System neighbourhood    | Region (40k $miˆ2$)     |
+| 4     | 1d12       | Sector                  | Multi-region            |
+| 5     | 1d20       | Multi-sector and more   | Realm and more          |
 
 Features costs are based on (S/W/C)WN asset costs. Each feature has a number of points equal to its type level (1 to 8) divided by 2.
+
+Restore cohesion: $cost = 2^{power}$
