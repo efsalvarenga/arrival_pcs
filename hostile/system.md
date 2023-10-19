@@ -10,9 +10,7 @@ Stars Without Numbers (SWN) is an OSR system, which allows me to easily reskin a
 - Character sheet: [fillable pdf](https://drive.google.com/file/d/1bM8pMgGjMKao6s-12BjnkQ9MzXhFJ8i2/view?usp=drivesdk), [Google sheets](https://docs.google.com/spreadsheets/d/19vw6EHrl_2-8BcHob2_bxvcpLnVbAHbW3StjrNEFoKg/edit#gid=1671565117) or [freebooter app](https://www.swnfreebooter.net/)
 - Replacements will join the crew at level 1.
 
-# House rules
-
-## Hazards
+# Hazards
 
 Hazard effects from Hostile Rules (65-87) used, which are significantly more detailed.
 
@@ -27,16 +25,16 @@ Hazard effects from Hostile Rules (65-87) used, which are significantly more det
 | Radiation Extreme            | 1 CON/min                 | Physical negates | Lead spacecraft hull reduces to high exposure. |
 | Radiation Nuclear Blast      | 1 CON/round               | Physical negates |                                                |
 
-## Grip
-***Humanity, Sanity and Willpower***
+# Grip
+***Humanity, Sanity and Willpower, based on [Silent Legion's Madness](https://drive.google.com/open?id=1CexCpDNKNSMNnkGgDNrVne1gG-03L5dm&usp=drive_fs)***
 
 *Bloodshed, exposure to horror and pushing oneself to accomplish feats humans would have failed can break havoc in the minds of mundane creatures, consuming their **Grip**. The best that most sufferers can do is to accept a **Delirium**, creating a zone of scorched reason to serve as a buffer against the awareness of the cruel and impossible.*
 
-**Grip score**
+## Grip score
 
-The **Grip** maximum score is set as the **average between Intelligence, Wisdom and Charisma, multiplied by 5 - respecting a minimum of 50 and maximum of 90**. If the current **Grip** ever reaches 0 the character is hopelessly lost in their own tormented perceptions and can no longer function as a player character.
+The **Grip** maximum score is set as the **average between Intelligence and Wisdom, multiplied by 5 - respecting a minimum of 50 and maximum of 90**. If the current **Grip** ever reaches 0 the character is hopelessly lost in their own tormented perceptions and can no longer function as a player character.
 
-**Grip checks, and loosing grip**
+## Grip checks, and loosing grip
 
 Once per scene, the GM might require PCs to make a **Grip** check: a d100 roll under the current **Grip** score. On a failure the PC looses **Grip** as per table below. The check might be triggered by bloodshed or horror events. Alternatively, the player can choose to expend 1d4 **Grip** to re-roll a failed attribute, skill, attack or saving throw check. In a single scene, a character can lose no more **Grip** score than the (non cumulative) maximum result of the worst shock they confront.
 
@@ -75,7 +73,7 @@ Once per scene, the GM might require PCs to make a **Grip** check: a d100 roll u
 
 ```
 
-**Deliria, and recovering Grip**
+## Deliria, and recovering Grip
 
 **Players might choose to accept a Delirium** for their characters to recover **Grip**. The player can choose what delirium they get (see material below) or roll randomly in a chosen table. It is easier to choose the new Delirium in-between sessions, and discuss the roleplay and mechanical results with the GM.
 
@@ -91,11 +89,15 @@ After taking the Delirum the player **rolls 1d20; if the roll is equal or greate
 
 Some Deliria come with phobias and compulsions. A PC can resist the phobia or compulsion by making a successful **Grip** Check. On a failure, he or she must obey the Delirium unless they are willing to lose 1d6 **Grip** for defying the structure they have fashioned.
 
-## Character advancement
+# Character advancement
 
 Required XP will use a higher inclination curve (without impact in progress pace), akin traditional OSR. This allows new characters to progress rather quickly to catch up with veterans. XP awarded will be scaled to the dangers the PCs faced on each session.
 
 ![|180](https://i.imgur.com/DauwZK5.png)
+
+## Character replacements
+
+Replacements will start at level 1.
 
 # Equipment lists
 
@@ -138,13 +140,13 @@ All below assumes a 24h (2 12h shift) operations. Each shift must make it roll o
 # Factions sub-system
 ***Based on Godbound (gb134) and (S/W/C)WN assets***
 
-| Power | Action Die | Size (space resolution) | Size (world resolution) |
-| ----- | ---------- | ----------------------- | ----------------------- |
-| 1     | 1d6        | Settlement region       | Village                 |
-| 2     | 1d8        | World                   | City                    |
-| 3     | 1d10       | System neighbourhood    | Region (40k $miˆ2$)     |
-| 4     | 1d12       | Sector                  | Multi-region            |
-| 5     | 1d20       | Multi-sector and more   | Realm and more          |
+| Power | Action Die | Size (Stars resolution) | Size (Worlds resolution) |
+| ----- | ---------- | ----------------------- | ------------------------ |
+| 1     | 1d6        | Settlement              | Village                  |
+| 2     | 1d8        | Worlds                  | City                     |
+| 3     | 1d10       | System neighbourhood    | Region (40k $miˆ2$)      |
+| 4     | 1d12       | Entire sector           | Multi-region             |
+| 5     | 1d20       | Multi-sector and more   | Realm and more           |
 
 Features costs are based on (S/W/C)WN asset costs. Each feature has a number of points equal to its type level (1 to 8) divided by 2.
 
