@@ -1,13 +1,11 @@
 # Campaign setting: Latter Earth
 ***Link to [View-only PDF](https://drive.google.com/file/d/1bOrZFAV3zSfMZnHomFQgXuExUyV44hDt/view?usp=drive_link) and [DriveThru RPG](https://www.drivethrurpg.com/product/416284/The-Atlas-of-the-Latter-Earth)*** 
 
-## Latter Earth
-
 Full context available on the Atlas of The Latter Earth book.
 
 ![|500](https://inkarnate-api-as-production.s3.amazonaws.com/9k3bj5Ag6YLxtCwdeu7gUk)
 
-### Maqqatba
+## Maqqatba
 
 Region in Latter Earth.
 
@@ -35,7 +33,7 @@ Expanded map, based on the Atlas of The Latter Earth.
 - Kimbarak Countries of Glasrath and Kiranu
 - Acrisae (Angels)
 
-#### Katho
+### Katho
 ***The Kathan Empire***
 
 In the vast desert of Maqqatba lies Katho, an empire built on the ruins of a long-forgotten civilisation. The people of the empire are hardy and resourceful, able to survive in the harsh conditions of the desert through their ingenuity and determination. 
@@ -44,7 +42,7 @@ Katho's lands in the sourth have always been coveted by the aberrations and froz
 
 As the war persist, people of the desert empire have grown weary of the conflict. Some in the north are questioning the motives of their rulers and their willingness to sacrifice so many lives for the sake of power and control. Whispers of rebellion and unrest are growing louder in the capital in the north, Throtha. Meanwhile, the entire northern region has been battling their own problems, including the spree of Lady Scurvy and the [Faletism](religions.md#Faletism) religious takeover.
 
-##### Linhe
+#### Linhe
 ***Linhe County and Surroundings***
 
 - **Genre**: [dark fantasy](https://5e.tools/book.html#vrgr,-1,dark%20fantasy,0), [folk](https://5e.tools/book.html#vrgr,-1,folk%20horror,0_) and [disaster](https://5e.tools/book.html#vrgr,-1,disaster%20horror,0) horror
@@ -110,13 +108,13 @@ All the cities and villages on map (except Gimorkoc, which still follows the [Yo
 - Usurper’s tower
 - Rough Run
 
-#### Romburgh
+### Romburgh
 
 Romburghia is a troubled land, rife with tension, secrets and fear. Its people are divided by culture and religion, and its aristocracy is on the brink of collapse. A coastal kingdom, located on the east of Maqqatba, Romburghia is bordered by the Khathan Empire to the west. It is also the only land access of Hincland to the continent, making it a strategically important location. At the heart of Romburghia's power struggles lies a fragmented aristocratic organisation, where no one is sure of their own power. The titular ruler, surrounded by a web of spying and blackmail, is feared by all who cross their path. Meanwhile, the ruler's lover and the court sorcerer hold strong position and influence, using their power to manipulate the court's fragile balance.
 
 The kingdom is a patchwork of cultures, with the north being dominated by the ancient Mercian ways, while the south is a vast expanse of nomadic Nurfirth. However, the original Mercian religion has long been in decline, with most of the country now following either the church of Falet or the gods of the [Yotunn Ancestors](religions.md#Yotunn) pantheon. The [Faletism](religions.md#Faletism) religion has officially been adopted by the kingdom, but it is a decision made out of fear, for the Mercians of Hincland have long been rumored to dabble in black magic. The rulers have turned a blind eye to non-conventional approaches to converting folk religion followers to the official religion of Falet, desperately seeking to expand its reach and hold over the kingdom.
 
-#### Nurderad
+### Nurderad
 ***Theme: Decadence & Legitimacy (wwn124)***
 
 - **Court: Lance Defenders**
@@ -131,7 +129,7 @@ Djerad Thymar, a name that resonated with both reverence and fear, boasted a bre
 
 A wide ramp, the only gateway to this labyrinthine fortress, beckoned the curious to venture into its depths. Guarded by ancient sentinels and encircled by a sparse collection of farms and humble homesteads, the city stood in stark contrast to the sprawling private domains of the opulent clans. These privileged elite, drawn to the power and allure of Djerad Thymar, chose to erect their opulent estates within the decaying remnants of the long-lost Iopothae civilization, their proximity to the city a constant reminder of the shadows that lingered in its wake.
 
-#### Oivepia
+### Oivepia
 ***Theme: Expansion & Stratification (wwn124)***
 
 - **Court: Faletist Knights of the Arc**
@@ -140,7 +138,7 @@ A wide ramp, the only gateway to this labyrinthine fortress, beckoned the curiou
 - A blighted horde is threatening its borders.
 - A horrible monster was driven off.
 
-#### Hincland
+### Hincland
 ***Theme: Decadence & Pageantry (wwn124)***
 
 - **Court: Mercians**
@@ -150,7 +148,7 @@ A wide ramp, the only gateway to this labyrinthine fortress, beckoned the curiou
 - A noble heir shows signs of heroic greatness.
 - Link with [Mercian](cultures.md#Mercian)
 
-#### D'Elsin
+### D'Elsin
 ***Theme: Barbarism & Stratification (wwn124)***
 
 - **Court: Turnskull Constructs, driving Anak Tribes**
@@ -159,7 +157,10 @@ A wide ramp, the only gateway to this labyrinthine fortress, beckoned the curiou
 - Turnskull has disgorged Made Gods.
 - Splendid resources have been reestablished in Turnskull.
 
-#### Kimbarak
+#### Anaks
+***Source: wwn306***: Sages believe that the original Anakim were a spite-weapon created by the Outsiders when the fall of their hegemony seemed imminent. Captured rebels, still-subject Deeps, and human traitors who were no longer needed were used as the feedstock for the transformation, one intended to create a sentient bioweapon for the destruction of all human and demihuman life in the Latter Earth. Later ages saw the Anakim modified by assorted Imperators, their original nature warped and tuned to serve the purposes of the experimenters. The resulting Anakim sub-species are sometimes drastically different from the ur-Anak, but the intrinsic selfishness, cruelty, and aggression of the base stock persist in most of them.
+
+### Kimbarak
 ***Theme: Exhaustion & Unity (wwn124)***
 
 - **Courts: Glasrath and Kiranu countries**
@@ -168,20 +169,20 @@ A wide ramp, the only gateway to this labyrinthine fortress, beckoned the curiou
 - The Kimbarak people are succumbing
 - Glasrah is being restablished
 
-##### Tolfonddundhesm
+#### Tolfonddundhesm
 ***Tolfonddund Dwarven Mines***
 
 The southern mine system on the Glasrath Mountains was created by dwarves coming from the town of Tolfoddund, two centuries ago (3671 NC). These dwarves were not as advanced as the Nargun dwarves, but made enough wealth by trading dwarven goods with Watheton (especially Yeswite), which then traded them to other peoples of the Kuzar County and, more broadly, with the Khathan empire.
 
-##### Nargunhesm
+#### Nargunhesm
 ***Nargun Dwarven Mines***
 
 The Nargun was a strong Dwarven empire founded in 3217 NC. The King was killed about 15 years ago, in an attack that came from the Ammuinoth, alongside his son and heir. Sitmeak Greybow, was then appointed as regent and has been the regent since - he is in charge. The brother, Whursock Greybow, is the commander of the army.
 
-#### The Deeps
+### The Deeps
 ***The Ammuinoth, the Ghost Domain and the Ophaire***
 
-##### Ammuinoth
+#### Ammuinoth
 
 The kingdom of Iopothae was a very advanced kingdom from ancient times. It is said it covered a larger region than the current [The Kathan Empire](realms.md#Katho). One of the features of the kingdom of Iopothae was the creation of the Ammuinoth (starting around year 1000 IT), a subterranean superstructure that traversed the kingdom (SW to NE), following what is known as the Brezal Paths. These paths are believed to carry intensified earth energy. Some researchers believe the energy paths are not real, and that the construction, in a leaf shape, was in deference to the old nature gods. In the Ammuinoth tunnels, castles, shrines and temples were built, as presents to the old gods.
 
@@ -197,8 +198,7 @@ Nowadays, thousands of years later, some of these temples are in ruins and some 
 - Due to the access from the surface to the Ammuinoth: gangs of bandits and other scourge take lair and hide in the tunnels, in general everyone who wants to hide from society can be found there.
 - Due to the frequent connects with the Ghost Domain: most of the creatures from the ghost domain can be found here including fiends, undead, drows, duegar, even beholders!
 
-##### Ghost Domain and the Ophaire
-***The Ghost Domain and the Ophaire***
+#### Ghost Domain and the Ophaire
 
 The Ghost Domain is grouped in layers: the Upper Domain (also known as Upperdark), the Lower Domain (also known as Middledark) and the Ophaire (also known as the Lowerdark, or the Dark Primitive). In the region where there is the Ammuinoth, it connects the surface to the Upper Domain, but it is also possible to go directly from the Upper Domain to the surface, although in very challenging cavern openings, mostly inaccessible for human sized creatures. As time went by, the drow and duergar grew apart: the duergar living in the Ammuinoth and in the north east area of the Upper Domain, while the drow lived in more deep areas of the Ghost Domain, mostly towards the south.
 
@@ -206,16 +206,16 @@ The Ghost Domain's underground landscape varies from small subterranean fissures
 
 The Upper Domain is about 4 Km deep, and it is inhabited by many dark-loving creatures (not necessarily evil ones). Some drow also live here, and sometimes some duergar too. The Lower Domain, 5 to 15 Km deep, is where the biggest drow cities exist, and drow nobility lives there. These drow are already too disconnected from the world above, and even duergar fear their evilness. Finally, deeper lies the Ophaire. It is not fully known if the dark primitive is still part of the world as a cavern system or if it is already some other type of dimension, as time and space seem to flow differently in such a depth. It is said the dark primitive lies between 20 and 100 Km from the surface, but these are all speculations. The deepest areas of the Ophaire are also known as Deadecho, and in these regions it is said that only true death can exist. It is said that in its depths, the shadow roads in the Ophaire access the Void - a region of madness and emptiness.
 
-The Deadecho, the dominion of [Algath](../context/religions.md#Algath) (and the equally notorious Vardesain and Anu-Akma, fellow demigods of the dead), is notable for its silence - an existence of enormous deserts of bones, dunes of dust, and rivers of blood and tears. These are the dry lands, where life extends past its appointed span, where fate itself is thwarted with regularity, and where liches, vampires, and ghouls gather in enormous numbers to praise their patron and the font of vileness, to cheat death, to praise their protection against a certain voyage into the hells and the joy and strength of the god of the undead and his near-infinite legions.
+The Deadecho, the dominion of [Algath]context/religions.md#Algath) (and the equally notorious Vardesain and Anu-Akma, fellow demigods of the dead), is notable for its silence - an existence of enormous deserts of bones, dunes of dust, and rivers of blood and tears. These are the dry lands, where life extends past its appointed span, where fate itself is thwarted with regularity, and where liches, vampires, and ghouls gather in enormous numbers to praise their patron and the font of vileness, to cheat death, to praise their protection against a certain voyage into the hells and the joy and strength of the god of the undead and his near-infinite legions.
 
 Deadecho, Plane of Undeath (MWB 46) - Evermaw is confused with the Eleven Hells, since it is an afterlife of ghouls and vampires, cannibals and gluttons. A road like a lolling tongue sprawls through a waterless desert of blood dust, passing towers that sprout like crooked white teeth, until it’s swallowed by the gulletlike sinkhole that houses the city of Vulture’s Beyond, osseous capital of the Hunger God Vardesain, as well as the Eternal Palace of the dry undead lord Mot and the Crystal Necropolis of the guardian god Anu-Akma. Here ziggurats flow with the blood of daily sacrifices, liches study new necromancies of flesh and bone, and the cooks claim they can skin and butcher anything, from ghosts to gods.
 
-#### Acrisae
+### Acrisae
 ***Theme: Renewal & Hope (wwn124)***
 
 - They are forcing back all the region
 - They fought with the elves in a long past
-- Farmland is wornning out
+- Farmland is worning out
 - A powerful artefact is helping the ruler
 
 # Artefacts
