@@ -244,5 +244,16 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 - With this goal clear in their head, the broken heroes go to Danaska first, as the master of oozes have been using the Alchemist Furnace for years now.
 - Amyria, in a high morale decision, intimidates Danaska to step away, and the ooze scholar decides to leave the castle.
 - After failing their first attempt to disable the furnace, the heroes decide to climb down to the Deepfolk level, and stealthily take them down. They almost succeed, but before the first foes can be killed in silent, one of them whistles, signalling intrudes to the others. The party is quickly surrounded and, once Dolman falls unconscious shot down by a dozen arrows, the group's morale is shaken and they give in.
-- The Deepfolk takes their armours and weapons and call in the Derro, from the fourth level, to take the group to Imortra.
+- The Deepfolk takes their armours and weapons and call in the Derro, from the level below, to take the group to Imortra.
+- After climbing down through a hole they are received by Derril and, in that minute, Brilhorte who was in the block form inside the sack with all the weapons and armours, turns back into his humanoid form. Surprised, Derril makes a lame attack with a club, which is easily parried by Brilhorte, who then decapitates the Derro.
+- For about half an hour, the group discussed what to do, and tried a few options. In the end, they decide to peacefully approach the other Derro, who did not seem to intend harm. Brilhorte goes back to his block form.
+- As the broken heroes meet Gilsfeyr, priest of the Derro bat-cult, they learn of a plan to take down Imortra. The Derro have been her though-prisoners for decades, and want freedom. The plan includes a partnership with Kuku, the leader of the Derro village who share this caverns with the bat-cult.
+- After agreeing with Gilsfeyr and Kuku, the party takes some mushroom tea, which supposedly gives them true sight on reality, as the Derro explain this will be required. And then walk towards Imortra and her supporters.
+- Imortra is expecting the three heroes. Amyria and Guilf try in vain to convince Imortra that her means are evil, and that others are suffering. Imortra's sweet arguments seem strong, and she explains that all of them are of utmost importance for summoning The Void.
+- Amyria will act as a conduit for Thalia's power, that will channel to Dolman, who holds the spirt of Kimbarak, and is able to stop the Legacy powers that protect reality against the violence that the summoning ritual represents. Finally, Guilf will be the lighthouse for The Void, so that the powerful god can reach his destination.
+- The heroes decide to pretend to follow Imortra's plan, with the concealed motivation to use the opportunity to destroy the sphere of annihilation and save the Angel Hound without summoning The Void. Although Guilf is still inclined to continue with the ritual.
+- The deal is settled when Imortra orders Gailiera to be brought down, and one of the Ngar'tho attends to her mental wounds, and the group prepares to enter what Imortra described as land of Nightmares.
+
+![](https://i.imgur.com/DoTN0KJ.png)
+
 
