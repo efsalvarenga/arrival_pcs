@@ -46,29 +46,29 @@ Once per scene, the GM might require PCs to make a **Grip** check: a d100 roll u
 --------- WILLPOWER ---------
   1d6   Supress the immediate effects of a Delirium
   1d8   Expend one's Grip to re-roll a check: attribute, skill, attack or saving throw
-	    (Can only be used once per scene and does not require a humanity check)
+        (Can only be used once per scene and does not require a humanity check)
 
 ----- HUMANITY / SANITY -----
   1d4   Seing a human corpse for the first time
-		Shell-shock from battle or explosions, including magical
-		Studying the works of a lunatic
+        Shell-shock from battle or explosions, including magical
+        Studying the works of a lunatic
   1d6   Killing human beings not in immediate self-defense
-		Witnessing a scene of gruesome slaughter
-		Being affected by a hostile magic effect
-		Witnessing a rarionally impossible event or object
-		Witnessing a magical cult ritual
+        Witnessing a scene of gruesome slaughter
+        Being affected by a hostile magic effect
+        Witnessing a rarionally impossible event or object
+        Witnessing a magical cult ritual
   1d8   Suffering mutilation or torture
-		Witnessing the violent death of a friend or close ally
-		Abandoning living allies to cultists or otherwordly entities
-		Learning of a horrible fate for a friend or close ally
-		Reading text from an eldritch language
-		Encountering a gargantuan-sized beast or monster
+        Witnessing the violent death of a friend or close ally
+        Abandoning living allies to cultists or otherwordly entities
+        Learning of a horrible fate for a friend or close ally
+        Reading text from an eldritch language
+        Encountering a gargantuan-sized beast or monster
   2d6   Indirectly killing many people by action or omission
-		Move between realities
-		Realising you have a modified memory
-		Being haunted or encountering a mind-bending monster
+        Move between realities
+        Realising you have a modified memory
+        Being haunted or encountering a mind-bending monster
   2d8   Hearing an eldritch entity speak
-		Discovering forbidden or ancient arcane knowledge
+        Discovering forbidden or ancient arcane knowledge
  2d10   Experiencing a major supernatural event
 
 ```
