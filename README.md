@@ -13,17 +13,17 @@ timeline
 			: Modern period (i.e. Victorian era)
 			: Contemporary period
 		section Post-Modern Age <br> 2030-ka CE, cosmos centric
-			TL4 and TL5, early structured sorcery, apex of psionics
+			TL4 and TL5, apex of psionics and codified sorcery
 			: Cyber and early offworld development
 			: Spike drive expansion
 			: Jump gates expalsion
 			: Post-scream scavenger worlds
 			: Post-scream isolated sectors
 		section Far Age <br> Ma CE, earth centric
-			Scavenged TL3+, apex of sorcery, erratic psionics
-			: Era of Dragon Kings
-			: Era of Outsiders
-			: Era of Sorcerer Kings
+			Scavenged TL3+, apex of sorcery, declining psionics
+			: Dragon Kings
+			: Outsiders
+			: Sorcerer Kings
 			: Final Age
 ```
 
@@ -40,43 +40,43 @@ timeline
 ## Current Campaigns
 
 ### Hostile
-> **Post-Modern Age | Spike Drive Expansion (2225 CE) | Near Earth Zone**
-> **Style**: Blue collar, gritty sci fi horror
-> **Sources**: SWN, Hostile, Hard Light
-> Played in 2023
+> **Post-Modern Age | Spike Drive Expansion (2225 CE) | Near Earth Zone**  
+> **Style**: Blue collar, gritty sci fi horror  
+> **Sources**: SWN, Hostile, Hard Light  
+> Played in 2023  
 
 Valuable alien RNA is found in a debris field in the Perdurabo system. Tharsis Mining hires a crew to prospect the icy rocks and evaluate the commerciality of exploiting the RNA resource.
 
 ### BenooedeNova
-> **Post-Modern Age | Post Scream Isolated Sectors (3234 CE) | Near Earth Zone**
-> **Style**: Space Opera
-> **Sources**: SWN, Hard Light
-> Played in 2023
+> **Post-Modern Age | Post Scream Isolated Sectors (3234 CE) | Near Earth Zone**  
+> **Style**: Space Opera  
+> **Sources**: SWN, Hard Light  
+> Played in 2023  
 
 Alien tombs are found in the Hard Light system.
 
 ### Arrival
-> **Far Age | Early Final Age | Latter Earth (Maqqatba)**
-> **Style**: Decadent high-fantasy, cosmic horror
-> **Sources**: 5e Ravenloft, Atlas of the Later Earth, Godbound, Silent Legions
-> Played in 2023
+> **Far Age | Early Final Age | Latter Earth (Maqqatba)**  
+> **Style**: Decadent high-fantasy, cosmic horror  
+> **Sources**: 5e Ravenloft, Atlas of the Later Earth, Godbound, Silent Legions  
+> Played in 2023  
 
-The Angels have started to arrive in the Latter Earth. They come to revenge the destruction laid out in Heaven by the Sorcerer-Kings and their Made-Gods, at the end of the previous age. In the cold lands of Maqqatba, the celestial beings will face the Sorcerer-King of Turnskull in the south, while the outsider god Ethux'zhur attempts to enter Earth again.
+The Angels have started to arrive in the Latter Earth. They come to revenge the destruction laid out in Heaven by the Sorcerer-Kings and their Made-Gods, at the end of the previous age. In the cold lands of Maqqatba, the celestial beings will face the Sorcerer-King of Turnskull in the south, while the outsider god Ethux'zhur attempts to gain dominion in Earth again.
 
 
 ## Future Campaigns
 
 ### Empires of the Silk Road
-> **Post-Classical Age | 13th Century | Earth (Silk Road)**
-> **Style:** Gritty historical low fantasy
-> **Sources**: WWN (Drylands rules), Wolves of God,  Nightmares, Historica Arcanum, Book of The Red Tides
+> **Post-Classical Age | 13th Century | Earth (Silk Road)**  
+> **Style:** Gritty historical low fantasy  
+> **Sources**: WWN (Drylands rules), Wolves of God, Nightmares Underneath, Historica Arcanum  
 
 ### The City of Crescent
 > **Modern Age | 19th Century | Earth (Istanbul)**
 > **Style**: Gothic horror
 > **Sources**: Godbound (Bloodhound rules), Blood Hack, Historica Arcanum, Kult
 
-Human potential is reached in the region around Istambul. The ones who awake, emerge as creatures of the night.
+In the heart of the 19th-century Ottoman Empire lies the enigmatic Istanbul. A thriving hub of culture and commerce, this city now harbors a dark and hidden truth, a sinister awakening known as "Blood in the Veil". Chosen individuals, once human, are now cursed and blessed with supernatural powers and a ravenous hunger for blood, while they are exposed to the a dark truth about mankind.
 
 ### Delta Green
 > **Modern Age | 1990 CE | Earth (USA)**
@@ -89,10 +89,15 @@ Human potential is reached in the region around Istambul. The ones who awake, em
 > **Sources**: SWN, CWN
 > Prepared in 2023, halted game
 
-### After Mutant
+### After, Mutant
 > **Post-Modern Age | 28th Century | Earth**
 > **Style**: Post apocalyptic, scavenger world
 > **Sources**: CWN, Other Dust, Fallout, Mutant Year Zero
+
+### Nibiru
+> **Post-Modern Age | Post Scream Isolated Sectors | Formahault**
+> **Style**: Techno Fantasy
+> **Sources**: SWN, Codex, Nibiru
 
 ### Dark Sun
 > **Far Age | Era of Dragon Kings | Earth**
