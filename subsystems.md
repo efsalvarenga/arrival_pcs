@@ -98,18 +98,18 @@ NPCs do not need to be balanced with characters, but the process below can help 
 ### HD and Attributes
 ***Inspired by Best Left Buried***
 
-NPCs have **HD** and three attributes, **Brawl**, **Wit** and **Will**. **HD** can be interpreted as the NPC's version of levels. Attributes are abstraction of abilities, skills, characteristics and powers. They and are the main driver of further stats for social and combat mechanics.
+NPCs have **HD** and three attributes, **Brawl**, **Wit** and **Will**. **HD** can be interpreted as the NPC level. Attributes are abstraction of abilities, skills, characteristics and powers. They and are the main driver of further stats for social and combat mechanics.
 
 - **Brawl**: represents the NPC's physical strength, endurance and vital force.
 - **Wit**: represents the NPC's physical, mental and social agility.
 - **Will**: represents the NPC's mind and willpower.
 
-NPCs have `1 + HD` in total attribute points to be distributed between **Brawl**, **Wit** and **Will**. Attributes are added (or subtracted, when negative) to any checks where they are relevant.
+NPCs have `1 + HD` in total attribute points to be distributed between **Brawl**, **Wit** and **Will**. Attributes are added (or subtracted, when negative) as modifiers to any checks where they are relevant.
 
 ### Derived Stats
 ***Inspired by 5e's DMG, Forge of Foes, AD&D, and the Without Number games***
 
-Armour class **(AC)**: Effort is used as a modified [usage dice rule](https://nothingventured.obsidianportal.com/wikis/usage-dice) from Black Hack. But instead of decreasing the die, once a 1 or 2 is rolled, no more effort is available to the NPC.  Defined as `10 + Wit`, capped at 22. It is perfectly valid that an NPC has a suit of armour to increase its AC.
+Armour class **(AC)**: Defined as `10 + Wit`, capped at 22. It is perfectly valid that an NPC has a suit of armour to increase its AC.
 
 Hit points (**HP**): `HD * hit die` , with hit die defined by **Brawl** as below. For values in between, use the position on the left.
 
@@ -117,7 +117,7 @@ Hit points (**HP**): `HD * hit die` , with hit die defined by **Brawl** as below
 | ----------- |:---:|:---:|:---:|:---:|:---:|:---:|
 | **Hit die** | d4  | d6  | d8  | d10 | d12 | d20 |
 
-**Effort**: Defined by **Will** as below. For values in between, use the position on the left.
+**Effort**: Effort is used as a modified [usage dice rule](https://nothingventured.obsidianportal.com/wikis/usage-dice) from Black Hack. Instead of decreasing the die, once a 1 or 2 is rolled, no more effort is available to the NPC.  Defined by **Will** as below. For values in between, use the position on the left.
 
 | Will score     | <0  | +1  | +2  | +3  | +4  |  +5  |  +6  | >+7  |
 | -------------- |:---:|:---:|:---:|:---:|:---:|:----:|:----:|:----:|
@@ -156,9 +156,9 @@ The table below depicts generic values of derived stats from HD 0 to 20.
 
 **Saving throws** are rolled with a d20, applying the **appropriate attribute** as modifier, against the target defined as **Save** on the statblock. Sometimes, the offensive actor can apply penalties to the roll.
 
-**Skill checks**, opposed or not, are rolled with the **appropriate attribute** as modifier in **2d6** systems, or **twice the attribute** in **d20** systems. DC target are defined as per the original system.
+**Skill checks**, opposed or not, are rolled with the **appropriate attribute** as modifier in **2d6** systems, or **twice the attribute** in **d20** systems. DC target are defined as per the original system. This modifier is only used when the NPC is expected to be skilled in the action. 
 
-**Morale** in an unilateral check done when situational like the below arise. It is run with **Will** as modifier on a 2d6 roll.
+**Morale** in an unilateral check done when situations like the below arise. It is run with **Will** as modifier on a 2d6 roll.
 
 - After a round during which one or more allied creatures have been reduced to zero HP.
 - After a round during which a creature lost half its HP or more. 
@@ -171,7 +171,7 @@ The table below depicts generic values of derived stats from HD 0 to 20.
 | 7-9  | They continue to fight, but consider improved strategic positions |
 | 10+  | They continue, undeterred                                         |
 
-**Attack** modifiers are defined by **twice the appropriate attribute** executing the attacks, such as **Brawl** for a heavy melee weapon, **Wit** for a ranged weapon or **Will** for a spellcasting attack. **Attack damage** is defined by the weapon used or, in the case of brute force or spellcasting attacks, respectively **Brawl** or **Will** in number of d6s. The **number of attacks** an NPC can execute in one round and their **speed** are defined by **Wit**, as below.
+**Attack** modifiers are defined by **twice the appropriate attribute** executing the attacks, such as **Brawl** for a heavy melee weapon, **Wit** for a ranged weapon or **Will** for a spellcasting attack. **Attack damage** is defined by the weapon used or, in the case of brute force or spellcasting attacks, respectively **Brawl** or **Will** in number of d6s. The **number of attacks** an NPC can execute in one round and their **speed** are defined by **Wit**, as below (for values in between, use the position on the left).
 
 | Wit score         | <-2 |  0  | +2  | +4  | +6  | +8  | >+10 |
 | ----------------- |:---:|:---:|:---:|:---:|:---:|:---:|:----:|
@@ -180,14 +180,19 @@ The table below depicts generic values of derived stats from HD 0 to 20.
 
 ### Powers & Concepts
 
-In more less gritty games, powers and concepts might be relevant. Other times, technology (such as cybernetics) might be the reason for NPCs to possess powers. During creation, attribute points can be spent to add powers (that can be defined by concepts/words) to a statblock - sometimes a power would cost more than one attribute point. This approach helps maintain internal balance between NPCs of similar HD. Games like Godbound, Best Left Buried, D&D, Nightmares Underneath, etc. have many examples of them. Simple things like improved AC (e.g.: +2 AC per attribute point spent) can also be done with a cost.
+In less gritty games, powers and concepts might be relevant. Other times, technology (such as cybernetics) might be the reason for NPCs to possess powers. During creation, attribute points can be spent to add powers (that can be defined by concepts/words) to a statblock - sometimes a power would cost more than one attribute point. This approach helps maintain internal balance between NPCs of similar HD. Games like Godbound, Best Left Buried, D&D, Nightmares Underneath, etc. have many examples of them. Simple things like improved AC (e.g.: +2 AC per attribute point spent) can also be done with a cost.
 
 ### Conversions
 
+From 5e
+- **Brawl** is `best(STR|CON) modifier`, taking into consideration attack modifiers and damage.
+- **Wit** is `best(DEX|INT) modifier`, taking into consideration non-combat skills and AC.
+- **Will** is `best(WIS|CHA) modifier`, taking into consideration non-combat skills.
+
 From Without Number games
-- **Brawl** is `[WN's attack modifier] / 2`, taking into consideration WN's HP and damage
-- **Wit** is, reasonably, `[WN'skill]`, taking into consideration WN's Instinct, Speed and number of attacks stat
-- **Will** is, reasonably, `[WN's morale] - 7`, taking into consideration effort's requirements
-- **Save** is ignored and recalculated based on HD
-- **HP** is recalculated based on the hit die defined by **Brawl** (this can be flexible and standardised to d8s)
+- **Brawl** is `[WN's attack modifier] / 2`, taking into consideration WN's HP and damage.
+- **Wit** is, reasonably, `[WN'skill]`, taking into consideration WN's Instinct, Speed and number of attacks stat.
+- **Will** is, reasonably, `[WN's morale] - 7`, taking into consideration effort's requirements.
+- **Save** is ignored and recalculated based on HD.
+- **HP** is recalculated based on the hit die defined by **Brawl** (this can be flexible and standardised to d8s).
 
