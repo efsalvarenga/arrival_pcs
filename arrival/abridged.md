@@ -65,7 +65,7 @@ In this first level, several monuments existed: a frog statue of a long lost dei
 ## Chapter 7 The Void claim
 ***3877.5B, summer***
 
-After a much-needed rest, the defenders huddled together in a dimly lit cell, sharing their knowledge and plans. Amidst the whispers, Ushulx, Durgan, Red Hart, and Ichbon discussed the animosity between Algath and [Curcharn](religions.md#Curcharn), two deities from the Deadecho. They also revealed the presence of other formidable residents in the castle, such as Cagoth-ze, a master of time magic, Danaska, an expert in oozes, and the powerful beings Imortra and Gellert. Ushulx expressed her eagerness to locate Avrindt, the Creep, a red dragon rumoured to have transformed into a death dragon. Meanwhile, Ichbon shared his quest to find a long-lost elven library that may hold knowledge about the Lady Scurvy disease.
+After a much-needed rest, the defenders huddled together in a dimly lit cell, sharing their knowledge and plans. Amidst the whispers, Ushulx, Durgan, Red Hart, and Ichbon discussed the animosity between Algath and Charon, two deities from the Deadecho. They also revealed the presence of other formidable residents in the castle, such as Cagoth-ze, a master of time magic, Danaska, an expert in oozes, and the powerful beings Imortra and Gellert. Ushulx expressed her eagerness to locate Avrindt, the Creep, a red dragon rumoured to have transformed into a death dragon. Meanwhile, Ichbon shared his quest to find a long-lost elven library that may hold knowledge about the Lady Scurvy disease.
 
 The party engaged in a spirited debate about their next move, eventually deciding to venture to the lower level in search of Cagoth-ze. As they explored the second level, they stumbled upon records detailing gruesome ooze experiments and encountered a dangerous trap in the form of a green ink-ooze. Just moments later, Amirya's sharp eyes spotted something extraordinary—a time tributary, a river of time flowing through one of the rooms. In a bold and impulsive act, Guilf stepped forward and crossed the tributary, only to fall unconscious and undergo a magical transformation, becoming significantly younger. It became apparent that Guilf had been claimed by The Void, bound to a contract with this mysterious entity.
 
@@ -232,7 +232,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![](https://i.imgur.com/tkXdXWi.png)
 
-## Chapter 17 Mothers
+## Chapter 17 & 18 Mothers
 
 - In the first night of their travel, the Glasrath champions encounter another infected Lady Scurvy. They are powerful now and quickly kill the creature.
 - After some investigation, they learn that the infection is of an alien origin, where one parasite creature is attached to the neck of a rather normal ghoul. This specific creature, seemed controlled by some kind of desire to consume others, but entertained the construction of some kind of altar until the broken heroes found it and destroyed it. The altar contained a stone with the names of Kimbarak and Ethux'zhurh, related to some kind of ancient dark ritual.
@@ -256,4 +256,19 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![](https://i.imgur.com/DoTN0KJ.png)
 
+## Chapter 19 The Nightmare River
+
+- The broken heroes debated a plan: go deeper in the Holzander Castle, find Gellert and kill him. After that they will think on how to destroy the artefacts in the castle.
+- With true sight teas in a canteen, they venture into the abyss of a nightmare.
+- In the dark cave below, they see a river and a boatman. The boatman requires payment to take them in other locations in the river, and they promptly ask to be taken to Gellert.
+- The boats starts navigating but finds a rocky area. Dolman, Amyria and Guilf have to cross the rocks on foot. Joyfully trying to copy Dolman's athletics aptitude in the jumps, Guilf falls into the river, awakening dark souls around them.
+- After fighting a Lady Scurvy and evourecs' attempts to grapple and connect to the broken heroes intellects, the group safely resumes the navigation on the river, with the boatman that now waiting them after the rocks.
+- From the river, a nightmarish humanoid-experiment (Wilbur Whateley) starts talking with the group, explaining that all the rooms in the river are laboratories used by the Ngar'tho. He also tells the sad story of his wife, who has been deconstructed and made into the walls of one of the rooms.
+- The group finally arrives in a stone landing, with a small construction attached in one of the cavern walls and a staircase on the other side. Dolman and Guilf climb up the stairs, and find themselves on different places, so they retract. Looking through the construction's door keyhole, Guilf sees a shadow servant organising the "house".
+- After asking the boatman again to be taken to Gellert, the vessel starts navigating in the opposite direction, and the group find themselves repeating what they had just experienced backwards.
+- They continue until another landing, where Dolman asks the boatman to stop. After some careful investigation, the heroes learn they just avoided a trap, where Deep Ones were planning to arrow them to death in a corner of the river. In a strategic move, the party holds the door shut, while a nightmare darkness is cast within the room with the Deep Ones. Only one ventures outside, barely alive, and is then put to death.
+- Through another door, the group hears a ritual chanting, and through an inquiry with the dead Deep One they learn The Void is within the walls of that room, hurt.
+- Focused on finding Gellert, another journey demand is made to the boatman, which conducts the boat for the third time through the same place. The heroes don't exactly know anymore which way is which.
+
+![](https://i.imgur.com/VrsroSy.png)
 
