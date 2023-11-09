@@ -72,34 +72,34 @@ The Angels have started to arrive in the Latter Earth. They come to revenge the 
 > **Sources**: WWN (Drylands rules), Wolves of God, Nightmares Underneath, Historica Arcanum  
 
 ### The City of Crescent
-> **Modern Age | 19th Century | Earth (Istanbul)**
-> **Style**: Gothic horror
-> **Sources**: Godbound (Bloodhound rules), Blood Hack, Historica Arcanum, Kult
+> **Modern Age | 19th Century | Earth (Istanbul)**  
+> **Style**: Gothic horror  
+> **Sources**: Godbound (Bloodhound rules), Blood Hack, Historica Arcanum, Kult  
 
 In the heart of the 19th-century Ottoman Empire lies the enigmatic Istanbul. A thriving hub of culture and commerce, this city now harbors a dark and hidden truth, a sinister awakening known as "Blood in the Veil". Chosen individuals, once human, are now cursed and blessed with supernatural powers and a ravenous hunger for blood, while they are exposed to the a dark truth about mankind.
 
 ### Delta Green
-> **Modern Age | 1990 CE | Earth (USA)**
-> **Style**: Cosmic horror, conspiracy
-> **Sources**: SWN, Delta Green, Silent Legions
+> **Modern Age | 1990 CE | Earth (USA)**  
+> **Style**: Cosmic horror, conspiracy  
+> **Sources**: SWN, Delta Green, Silent Legions  
 
 ### Silicon Samba
-> **Post-Modern Age | 2105 CE | Earth (Rio de Janeiro)**
-> **Style**: Latin cyberpunk
-> **Sources**: SWN, CWN
-> Prepared in 2023, halted game
+> **Post-Modern Age | 2105 CE | Earth (Rio de Janeiro)**  
+> **Style**: Latin cyberpunk  
+> **Sources**: SWN, CWN  
+> Prepared in 2023, halted game  
 
 ### After, Mutant
-> **Post-Modern Age | 28th Century | Earth**
-> **Style**: Post apocalyptic, scavenger world
-> **Sources**: CWN, Other Dust, Fallout, Mutant Year Zero
+> **Post-Modern Age | 28th Century | Earth**  
+> **Style**: Post apocalyptic, scavenger world  
+> **Sources**: CWN, Other Dust, Fallout, Mutant Year Zero  
 
 ### Nibiru
-> **Post-Modern Age | Post Scream Isolated Sectors | Formahault**
-> **Style**: Techno Fantasy
-> **Sources**: SWN, Codex, Nibiru
+> **Post-Modern Age | Post Scream Isolated Sectors | Formahault**  
+> **Style**: Techno Fantasy  
+> **Sources**: SWN, Codex, Nibiru  
 
 ### Dark Sun
-> **Far Age | Era of Dragon Kings | Earth**
-> **Style**: Post apocalyptic fantasy
-> **Sources**: Shadowdark, AD&D Dark Sun
+> **Far Age | Era of Dragon Kings | Earth**  
+> **Style**: Post apocalyptic fantasy  
+> **Sources**: Shadowdark, AD&D Dark Sun  
