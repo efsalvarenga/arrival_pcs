@@ -52,6 +52,13 @@ Some Deliria come with phobias and compulsions. A PC can resist the phobia or co
 
 (Look at Mothership and Nightmares Madness rules)
 
+Very simple SWN rule adaptation for Grip:
+- Roll a mental save, if succeeded nothing happens
+- If failed, add a system strain
+- If no system strain is available, get a Nightmare
+
+- A system strain point can always be carved with Torching (swn.31)
+
 # NPCs
 
 ## Statblocks
@@ -90,7 +97,8 @@ $$\text{Atk mod} = \text{max} (-1, 2 \cdot (\text{(Brawl|Wit|Wis)} - 1)))$$
 The number of attacks (**# Atks**) an NPC can execute per round depends on their Wit. Multiple attacks are only available to **Brawl** and **Wit** attacks.
 $$\text{Atks} = \sqrt{\text{Wit}}$$
 Attack damage (**Atk Dmg**) is defined by the weapon used. However, some NPCs would use brute force or spellcasting attacks, which are defined by the attributes **Brawl** or **Will**. 
-$$\text{Atk Dmg (Brawl|Wit)} = (\text{Weapon Damage}+\text{Brawl|Wit}) | (\text{max}(1d4, \mathscr{L}(\theta d6 + \alpha | \text{Brawl} \cdot 3))))$$
+$$\text{Atk Dmg (Brawl)} = (\text{Weapon Damage}+\text{Brawl}) | (\text{max}(1d4, \mathscr{L}(\theta d6 + \alpha | \text{Brawl} \cdot 3))))$$
+$$\text{Atk Dmg (Wit)} = (\text{Weapon Damage}+\text{Wit}) | (\text{Atk Dmg (Brawl)}-\text{Brawl}+\text{Wit})$$
 $$\text{Atk Dmg (Will)} = \text{max}(1d4, \mathscr{L}(\theta d6 + \alpha | \text{Will} \cdot \text{Level} / 2))$$
 
 **Move** is defined by the **Wit** attribute. 
@@ -98,7 +106,7 @@ $$\text{Move} = 25 + 5 \cdot \text{Wit}$$
 **Effort** is used to power special abilities NPCs *might* have. Effort is used as a modified [usage dice rule](https://nothingventured.obsidianportal.com/wikis/usage-dice). Instead of decreasing the die, once a 1 or 2 is rolled, no more effort is available to the NPC.  Defined by **Will** as below.
 $$\text{Effort} = \mathscr{L}(d\theta | \text{Will}), \text{ for Will} \in \mathbb{N}$$
 The Save target is defined as
-$$\text{Save} = 16 - \dfrac{Level}{5} $$
+$$\text{Save} = 16.25 - \dfrac{Level}{6} $$
 
 ### NPC resolution rules
 ***Inspired by Nightmares Underneath, and the Without Number games***
