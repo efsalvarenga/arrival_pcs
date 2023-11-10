@@ -15,6 +15,7 @@
 | 12     | Very difficult (-4) | 25    |
 | 14     | Formidable (-6)     | 30    |
 
+Regardless of the type of check, a result 1 or 2 points below the target DC can be considered a **partial success**, or a success at a cost.
 # Harm and violence
 
 - Two types of a character's vitality: Physical and Mental
@@ -61,53 +62,6 @@ Very simple SWN rule adaptation for Grip:
 
 # NPCs
 
-## Statblocks
-
-NPCs are defined mainly by their **Concepts** and **Attributes**. **Concepts** can be used as role play cues for the GM and as a theme for the NPC powers (if they have any). **Attributes** define mechanical prowess in three interaction dimensions: **Brawl**, **Wit** and **Will**.
-
-NPCs do not need to be balanced with characters, but the process below can help define relative balanced power levels for NPCs based on their attributes, which define their relative Level to other NPCs.
-
-With **Concepts** and **Attributes**, augmented with **Calculated Stats** which are based on **Attributes** only, an NPC statblock is mostly ready for play. If the GM is inclined to put more work on it, choosing special abilities (preferably related to the **Concepts**) can add flavour to the NPC.
-
-### Concepts
-***Inspired by Godbound and Forge of Foes*** 
-
-NPCs defined with concepts are richer. Concepts might be related to the theme of their stance and abilities and their behaviours. In general, two or three concept words are enough. Good comprehensive lists are available as Words of Creation in Godbound or Power Themes in Forge of Foes.
-
-### Attributes and Level
-***Inspired by Best Left Buried***
-
-NPCs are defined by three attributes: **Brawl**, **Wit** and **Will**. Attributes are abstraction of abilities, skills, characteristics and powers. They are the main driver of further derived stats for social and combat mechanics. Attributes are added (or subtracted, when negative) as modifiers to any checks where they are relevant.
-
-- **Brawl**: represents the NPC's physical prowess and toughness.
-- **Wit**: represents the NPC's gut brain: physical, mental and social agility.
-- **Will**: represents the NPC's analytical brain: intellect and power of the mind.
-
-An NPC level, also reflected on its Hit Dice (**HD**) encoding, is defined as
-$$\text{Level} = \sum{(\text{Brawl, Wit, Will})}$$
-### Calculated Stats
-***Inspired by 5e's DMG, Forge of Foes, AD&D, and the Without Number games***
-
-Armour class **(AC)**: It is perfectly valid that an NPC has a suit of armour to increase its **AC** - in that case, ignore **Brawl** and **Wit**, and use the specified **AC** for the piece . If not wearing an armour, **AC** is defined as
-$$\text{AC} = 11 + \text{max(Brawl, Wit)}$$
-Hit points (**HP**): with hit die defined by **Brawl** as below. For values in between, use the position on the left. Edge cases.
-$$\text{HP} = \text{Level} \cdot \mathscr{L}(d\theta | 4 + \dfrac{\text{Brawl}}{2})$$
-Attack modifiers (**Atk mod**) are defined by the attribute appropriate for the execution of the attack, such as **Brawl** for a heavy manoeuvres, **Wit** for finesse or **Will** for a spellcasting.
-$$\text{Atk mod} = \text{max} (-1, 2 \cdot (\text{(Brawl|Wit|Wis)} - 1)))$$
-The number of attacks (**# Atks**) an NPC can execute per round depends on their Wit. Multiple attacks are only available to **Brawl** and **Wit** attacks.
-$$\text{Atks} = \sqrt{\text{Wit}}$$
-Attack damage (**Atk Dmg**) is defined by the weapon used. However, some NPCs would use brute force or spellcasting attacks, which are defined by the attributes **Brawl** or **Will**. 
-$$\text{Atk Dmg (Brawl)} = (\text{Weapon Damage}+\text{Brawl}) | (\text{max}(1d4, \mathscr{L}(\theta d6 + \alpha | \text{Brawl} \cdot 3))))$$
-$$\text{Atk Dmg (Wit)} = (\text{Weapon Damage}+\text{Wit}) | (\text{Atk Dmg (Brawl)}-\text{Brawl}+\text{Wit})$$
-$$\text{Atk Dmg (Will)} = \text{max}(1d4, \mathscr{L}(\theta d6 + \alpha | \text{Will} \cdot \text{Level} / 2))$$
-
-**Move** is defined by the **Wit** attribute. 
-$$\text{Move} = 25 + 5 \cdot \text{Wit}$$
-**Effort** is used to power special abilities NPCs *might* have. Effort is used as a modified [usage dice rule](https://nothingventured.obsidianportal.com/wikis/usage-dice). Instead of decreasing the die, once a 1 or 2 is rolled, no more effort is available to the NPC.  Defined by **Will** as below.
-$$\text{Effort} = \mathscr{L}(d\theta | \text{Will}), \text{ for Will} \in \mathbb{N}$$
-The Save target is defined as
-$$\text{Save} = 16.25 - \dfrac{Level}{6} $$
-
 ### NPC resolution rules
 ***Inspired by Nightmares Underneath, and the Without Number games***
 
@@ -128,29 +82,34 @@ $$\text{Save} = 16.25 - \dfrac{Level}{6} $$
 | 7-9  | They continue to fight, but consider improved strategic positions |
 | 10+  | They continue, undeterred                                         |
 
-### Special Abilities
+## NPC interaction procedure
 
-During creation, consider choosing a number of special abilities. One or two are sufficient for more generic NPCs, whereas a powerful Spellcaster can have many, to reflect their magical prowess. **Most special abilities require Effort to be used**.
-
-Books like Godbound, Best Left Buried, D&D MMs (all versions), Nightmares Underneath, etc. have many examples of special abilities, sometimes linked to concepts.
-
-### Conversions
-
-#### From AD&D and D&D 5e
-
-- **Brawl**: $\text{max(STR, CON) modifier}$, taking into consideration attack modifiers and damage.
-- **Wit**: $\text{max(DEX, INT) modifier}$ , taking into consideration non-combat skills and AC.
-- **Will**: $\text{max(WIS, CHA) modifier}$ taking into consideration non-combat skills and, for Spellcasters, if INT modifiers should be taken into **Will** as opposed to **Wit**. 
-- Check if **Level** is acceptable ($\text{Level} \approx \text{CR} \cdot 2$), and modify attributes above if required.
-- The **calculated stats** can be left as is from 5e (when available), or recalculated.
-- (5e-only) Bring one special power per CR from the 5e statblock.
-
-#### From Without Number games
-
-- **Brawl** is `[WN's attack modifier] / 2`, taking into consideration WN's HP and damage.
-- **Wit** is, reasonably, `[WN'skill]`, taking into consideration WN's Instinct, Speed and number of attacks stat.
-- **Will** is, reasonably, `[WN's morale] - 7`, taking into consideration effort's requirements.
-- **Save** is ignored and recalculated based on Level.
-- **HP** is recalculated based on the hit die defined by **Brawl** (this can be flexible and standardised to d8s).
-
-#### From Shadowdark and Nightmares 
+```mermaid
+flowchart TD
+id01[NPC group] --> id02[Distance roll]
+id02 --> id03[Surprise roll]
+id03 -->|NPCs surprised| id04[NPC activity or mood]
+id03 -->|NPCs not surprised| id05[Reaction roll]
+id04 --> id05
+id05 --> Social
+subgraph Social
+  ids01[PCs intention and approach]
+  ids01 --> ids02[Evaluate NPC goals]
+  ids02 --> ids03[Skill checks]
+  ids03 --> ids04[Outcome]
+  ids04 -.->|Iterative| ids01
+end
+id05 --> Combat
+subgraph Combat
+  idc01[Innitiative roll] --> idcpc[PC's round]
+  idc01 --> idcgm
+  subgraph idcgm[GM's round]
+    idc02[Morale or instinct roll]
+    idc02 --> idc03[Positioning and chatter]
+    idc03 --> idc04[Attacks]
+  end
+  idcpc <-.->|Iterative| idcgm
+end
+Combat --> id06[Sanity rolls, if applicable]
+Social --> id06
+```
