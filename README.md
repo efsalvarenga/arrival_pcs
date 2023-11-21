@@ -28,45 +28,41 @@ timeline
 ```
 
 ```mermaid
-%%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
 gitGraph:
    commit id: "Creation"
    commit id: "The Veil"
    commit id: "Awakening"
-   branch Nightmares
-   checkout Nightmares
+   branch Kult
+   checkout Kult
    commit id: "Silk Road"
    commit id: "City of Crescent"
    checkout main
    commit id: "Old Ones"
-   branch "Delta Green"
-   checkout "Delta Green"
-   commit id: "Madness"
-   checkout main
-   merge "Delta Green"
-   checkout Nightmares
-   commit id: "Kult Scenarios"
-   checkout main
-   commit id: "Cybernetics"
-   checkout Nightmares
+   checkout "Kult"
    merge main
+   commit id: "Delta Green"
+   checkout main
+   merge Kult
+   commit id: "Cybernetics"
+   branch Prime
+   checkout Prime
    commit id: "Silicon Samba"
    checkout main
-   merge Nightmares
    commit id: "Offworlds"
-   branch Hostile
-   checkout Hostile
-   commit id: "mRNA"
+   checkout Prime
+   merge main
+   commit id: "Hostile"
    checkout main
-   merge Hostile
    commit id: "MES"
    commit id: "Codex"
    commit id: "Scream"
-   checkout Hostile
+   checkout Prime
+   merge main
    commit id: "After Mutant"
    commit id: "Nibiru"
    checkout main
-   merge Hostile
+   merge Prime
    commit id: "The Legacy"
    commit id: "Dragon Kings"
    branch "Far Age"
@@ -79,14 +75,12 @@ gitGraph:
    merge main
    commit id: "Latter Earth"
    checkout main
-   merge "Far Age"
    commit id: "Made Gods"
-   branch Arrival
-   checkout Arrival
-   commit id: "Darkness Deepens"
-   commit id: "Angelic War"
+   checkout "Far Age"
+   merge main
+   commit id: "Arrival"
    checkout main
-   merge Arrival
+   merge "Far Age"
    commit id: "Uncreation"
 ```
 
