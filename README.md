@@ -29,7 +29,7 @@ timeline
 
 ```mermaid
 %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
-gitGraph TB:
+gitGraph:
    commit id: "Creation"
    commit id: "The Veil"
    commit id: "Awakening"
