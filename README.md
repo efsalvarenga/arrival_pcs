@@ -33,36 +33,37 @@ gitGraph:
    commit id: "Creation"
    commit id: "The Veil"
    commit id: "Awakening"
-   branch Kult
-   checkout Kult
+   branch Beginning
+   checkout Beginning
    commit id: "Silk Road"
    commit id: "City of Crescent"
+   commit id: "Kult Scenarios"
    checkout main
    commit id: "Old Ones"
-   checkout "Kult"
+   checkout Beginning
    merge main
    commit id: "Delta Green"
    checkout main
-   merge Kult
+   merge Beginning
    commit id: "Cybernetics"
-   branch Prime
-   checkout Prime
+   branch Apex
+   checkout Apex
    commit id: "Silicon Samba"
    checkout main
    commit id: "Offworlds"
-   checkout Prime
+   checkout Apex
    merge main
    commit id: "Hostile"
    checkout main
    commit id: "MES"
    commit id: "Codex"
    commit id: "Scream"
-   checkout Prime
+   checkout Apex
    merge main
    commit id: "After Mutant"
    commit id: "Nibiru"
    checkout main
-   merge Prime
+   merge Apex
    commit id: "The Legacy"
    commit id: "Dragon Kings"
    branch "Far Age"
