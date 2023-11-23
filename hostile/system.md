@@ -38,24 +38,4 @@ Replacements will start at level 1.
 | Between hexes (prep)   | 30 min         |
 | Between hexes (travel) | 6 days/drive   | 
 
-# Mining 
-
-All below assumes a 24h (2 12h shift) operations. Each shift must make it roll once for the entire job.
-
-- Locate suitable ice chunk: Int/programme DC 8, takes 1d6 days for each check
-- Scan the topology for mapping surface area and composition of the entire chunk: Int/Programme or Int/Know DC 8, takes 1d6 days
-- Travel to the rock (150h - Int/Pilot check), then a new rock in the same chunk takes 1d6 x 5h. **Each rock has a 1-in-6 chance of having a sky tomb.**
-- Each shift a crew member is appointed as mining supervisor. GM rolls Cha or Wis /Fix 2d6 and checks for a mining problem.
-- Geology and sampling (1d6 + 3 are required in different rocks, at least two different chunks)
-	- Drill with logging tool (EVA or drone): Dex if EVA, Int if drone, Programme or Pilot DC 8, takes 1d6h per drill.
-		- If doing EVA, make sure to explore the isolation of a human being in a vac suit.
-	- Evaluate logs, Int/Know DC 7, takes 1d6h - roll asteroid yield once per chunk. **If the rock has a sky tomb, the RNA is found in the ice.**
-	- Set explosives and net (EVA or drone): Dex/Programme or Dex/Pilot DC 10, takes 1d3 hours.
-	- Extract (drones): Int/Programme or Int/Pilot DC 8, takes 1d6 hours
-
-![|500](https://i.imgur.com/b5dYCI4.png)
-
-![|500](https://i.imgur.com/c3BZ7ty.png)
-
-![|500](https://i.imgur.com/yWc1wwW.png)
 
