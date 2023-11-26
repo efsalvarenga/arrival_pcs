@@ -61,8 +61,8 @@ Ship must dock for life support supplies every 6 weeks (max life support is 2 mo
 | Olaf        | CMT / O&M (Spacer rank 2)      | -                          | Captain         | 3000 | 1000       |
 | Oni         | Pilot (Technician rank 1)      | -                          | Bridge          | 3000 | 200        |
 | Dirk        | Chief Eng. (Roughneck rank 0)  | -                          | Engineering     | 4500 | 800        |
-| Courtesan   | Comms (Technician rank 0)      | Corporate agent (spy)      | Comms           | 3000 | 200        |
-| Vagabond    | Doc / guns (Technician rank 0) | Corporate agent (assassin) | Gunnery         | 3000 | 200        |
+| Sabaka      | Comms (Technician rank 0)      | Corporate agent (spy)      | Comms           | 3000 | 200        |
+| Oliver      | Doc / guns (Technician rank 0) | Corporate agent (assassin) | Gunnery         | 3000 | 200        |
 
 #### Exploration framework and milestones
 
