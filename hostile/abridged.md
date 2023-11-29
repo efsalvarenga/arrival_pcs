@@ -28,5 +28,16 @@ On the next day they finally meet with John McLeod, and preparations for the tra
 - In the following morning the crew have a virtual meeting with John McLeod, who is unhappy that some information might have leaked about the intention to drill ice in the asteroid. Olaf takes a decision to visit one of the sky tombs in the region, to pretend the crew is one of adventurers and dismiss questions.
 - The crew goes back and negotiate with Marius and Ranse, and they purchase the coordinates of one of the sky tombs that could possess some riches.
 
+**MadSpark's version of the story**
+> ***MadSpark doesn’t remember much of this, his version of events goes as follows***
+> - arrived at a space station after a boring travel but made a neat little BB Gun from my seatbelt
+> - got told to put my shotgun in a locker (but luckily kept my hunting knife)
+> - found some great spare parts for the little drone I’ve been planning to make 
+> - the ship has a basic but adequately equipped workshop, so started work on the drone 
+> - everyone wanted to explore the space station & I needed a drink anyway so off we went 
+> - then there were some of these guys who had a bug in their asses about something to do with stealing (apparently it’s not allowed here… 🤷🏼‍♂️) but the skipper sorted it out & then we headed to the bar (it’s interesting that the cameras here are ATX18956 model - I haven’t seen those of years, I’ll have to take one apart at some point for nostalgic reasons)
+> - I bought drinks all night & did that trick with the exploding gunpowder shots - I don’t remember much after that
+> - Oh yeah, we’re going to see if we can find some valuable alien artefacts to make some extra moolah 💰(sounds more interesting than the mission anyway!)
+
 ![](https://i.imgur.com/IgINh43.png)
 
