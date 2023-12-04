@@ -150,10 +150,50 @@ Date: September 20, 2225
 - [Miro for sharing images and drawings](https://miro.com/welcomeonboard/bjZPcHNLV3Z6NVMwN2JyaDR1U0Rrc2VOZnM1bTJnSjFPVG9BT3lNUDVrOE1EdVpCU2ZoMjZLZ3BrUGs5WFdhbnwzNDU4NzY0NTQ0OTA2ODU2MjgyfDI=?share_link_id=827183981565)
 - [Owlbear rodeo for battle maps](https://www.owlbear.rodeo/room/bEBXAYnWwWR0/TheBusyQuest)
 
-### Character sheet links
+## Doomborgs Dossier
 
-- [Olaf](https://docs.google.com/spreadsheets/d/17TM6jr2J91baWqlrEe8RxPmwCunUliwKtylcwN2SC5E/edit#gid=989086139)
-- [Oni](https://docs.google.com/spreadsheets/d/e/2PACX-1vS0rM_d2dBdocF09UAlxlKN-AImLO5XwiqPlB-0SdKyAxmEyL1jGqsxBNuhGD45edHfYu4X0bxQOIqa/pubhtml)
-- [Dirk](https://docs.google.com/spreadsheets/d/131u5VYaqt8BsQ4kW_Y58bV4Cpby-lEJ6GJYHUL33rNo/edit#gid=989086139)
-- Courtesan
-- [Vagabond](https://docs.google.com/spreadsheets/d/1r9b1XCIeruyOI8BaxgLbJtRpju0VX04IwUHVD4fXIac/edit#gid=1671565117)
+### Olaf Gustafson
+> ***Status: Operative***
+> ***Crew log [file](https://docs.google.com/spreadsheets/d/17TM6jr2J91baWqlrEe8RxPmwCunUliwKtylcwN2SC5E/edit#gid=989086139)***
+
+![|400](https://i.imgur.com/eiWlN9a.png)
+
+Olaf Gustafson, born in Iceland in the year 2146 (79 yo). He is an old (but athletic) failed geologist who became a geography teacher for teenagers. He spends most of his time looking for proofs that intelligent aliens exist and they are good to us. He is sure they are the ones responsible for establishing the mega corporations and we have only to thank them for improving our world. As a kid he was (or thinks he was) abducted by Greys. And that they implanted something on him that healed him from asthma. He believes the aliens spared him for a reason. And that reason is to help the mega corporations thrive. For decades he religiously went to the gym and trained boxing. He used to be wiser, though. But now he has developed stage one Alzheimer and sometimes forgets important things, or act a bit silly or childish. During his geology studies he interned in the mega corp X where he helped them mine asteroid Y. He learned the hard work of the miners and also a bit of the managing part. After finishing his studies he continued working for corp X for 10 years as a miner. Besides the conspiracy of intelligent aliens existing, he also thinks that there exists a Galactic Confederation where aliens and humans decide the fate of the different planets.
+
+### Oni Ro
+***Status: Operative
+Crew log [file](https://docs.google.com/spreadsheets/d/e/2PACX-1vS0rM_d2dBdocF09UAlxlKN-AImLO5XwiqPlB-0SdKyAxmEyL1jGqsxBNuhGD45edHfYu4X0bxQOIqa/pubhtml)***
+
+![|400](https://i.imgur.com/elF4Hew.png)
+
+```
+'====================================='
+       BACKGROUND CLASSIFIED
+'====================================='
+```
+
+### Dirk "MadSpark" McBride
+Status: Operative
+Crew log [file](https://docs.google.com/spreadsheets/d/131u5VYaqt8BsQ4kW_Y58bV4Cpby-lEJ6GJYHUL33rNo/edit#gid=989086139)
+
+![|400](https://i.imgur.com/ghsOnYr.png)
+
+- MadSpark is a roughneck explosive expert that studied in LA who can also fly spacecraft / drones (co-pilot in this crew?).
+- He was a hardworking & intelligent student at Uni & then went to work on several mining missions. During one of these missions, he was involved in an accident where the explosives went off too early (he liked the adrenaline rush of running away & feeling the heat of the explosion on his back but this time he misjudged it…) & got hit on the head by a flying rock. After much surgery & time in hospital, he survived but since then he has had a screw loose.
+- He’s obviously in mining industry work for the money but also just because he loves to “blow shit up” & gets a hard on making things explode!
+- He is a practical engineer who is constantly making new gadgets. If you ask him to make something & he has the right materials / tools, he can make anything. If he’s not asked to make something useful, he will spend his time making pointless gadgets that amuse him. He has invented his own type of shotgun that can be used in space (it mixes oxygen & nitrogen in the right quantities to provide quite a kick!). 
+- He finds it difficult to communicate with people & is definitely “on the spectrum”!
+- Appearance: tall, lean but strong & redneck in appearance. Around 30 years old but looks older. He has no eyebrows (they keep getting burnt off in explosions!).
+
+### Sabaka
+***Status: Operative
+Crew member file***
+
+![|400](https://i.imgur.com/FCkA5PF.png)
+
+### Oliver
+***Status: Operative
+Crew member [file](https://docs.google.com/spreadsheets/d/1r9b1XCIeruyOI8BaxgLbJtRpju0VX04IwUHVD4fXIac/edit#gid=1671565117)***
+
+![|400](https://i.imgur.com/UwZVnT9.png)
+
