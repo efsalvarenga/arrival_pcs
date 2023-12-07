@@ -24,14 +24,16 @@ Stars Without Numbers (SWN) is an OSR system, which allows me to easily reskin a
 
 The GM announces level-ups.
 
-## GM-specific subsystems
 
-### Adjudicating rolls
+## House rules
 
-When appropriate (and hopefully all the time) the GM will resolve rolls using storytelling mechanics from Powered by the Apocalypse (PbtA) and Forged in the Dark (FitD) systems.
-### NPC system
+House rules will be defined as self-contained moves. Moves are resolution mechanics from Powered by the Apocalypse (PbtA) and Forged in the Dark (FitD) systems that allow the story to progress towards three different directions on every dice roll: complete success, success with consequences or failure.
 
-See NPCs (add link)
+![](https://i.imgur.com/lKTWj2e.png)
+
+![](https://i.imgur.com/WbhyhGM.png)
+
+![](https://i.imgur.com/cNp5Z8w.png)
 
 # Equipment lists
 
