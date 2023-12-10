@@ -1,6 +1,8 @@
 # Campaign setting: Latter Earth
 ***Link to [View-only PDF](https://drive.google.com/file/d/1bOrZFAV3zSfMZnHomFQgXuExUyV44hDt/view?usp=drive_link) and [DriveThru RPG](https://www.drivethrurpg.com/product/416284/The-Atlas-of-the-Latter-Earth)*** 
 
+For universe context of the Latter Earth, see Godbound 68-70. Latter Earth is exists while the War in Heaven has not run its course yet. The 
+
 Full context available on the Atlas of The Latter Earth book.
 
 ![|500](https://inkarnate-api-as-production.s3.amazonaws.com/9k3bj5Ag6YLxtCwdeu7gUk)
@@ -120,7 +122,7 @@ The kingdom is a patchwork of cultures, with the north being dominated by the an
 - **Court: Lance Defenders**
 - FFKA is growing in influence in the nation.
 - Nurderad has always helped with perils in Maqqatba.
-- The was in the south is exhausting Nurderad.
+- The war in the south is exhausting Nurderad.
 - The pyramid (working) has been activated.
 
 In the heart of the Nurdead Praetorian Nation, the capital city of Djerad Thymar stood as a testament to both grandeur and mystery. Whispers carried on the wind spoke of its renown, spreading tales of awe and trepidation throughout the realms. 
