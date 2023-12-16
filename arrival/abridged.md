@@ -279,3 +279,22 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 - Upon encountering the sphere, the group is prepared to face it, and after a short but dangerous exchange, they manage to break up the sphere. The Angel Hound was locked inside, but now not just what it was - it seems to be part of the Ngar'tho shared intellect.
 
 ![](https://i.imgur.com/KfUQvyO.png)
+
+## Chapter 20 Waking Up
+
+- After resting for what felt like years, Amyria, Guilf and Dolman decide to leave Gellert's dwelling with a plan to rescue [Gaelira](../../arrival/npcs/Gaelira.md). They are older and look dirtier and meaner. Guilf is now an adult. They seem more and more under the control of their ancestral spirits: Kimbarak, The Void and Thalia - and that scared the group.
+- Before they leave, [Gellert](../../arrival/npcs/Gellert.md) pays his part of the agreement and hands over three powerful rings: Ring of Earth, Ring of Sun and Ring of Command.
+- The three heroes go upstairs and explain to the [ngar-tho](../../_gm/statblocks/ngar-tho.md) that a part of the ritual requires them to take Gaelira out of the castle. The Ngar'tho seems uncertain, and shares that coming back to the castle might be difficult once they leave.
+- The group is not deterred, and they climb up to the third level, where the Imortra's Deepfolk reside. On that level, a very short exchange of words teaches the Deepfolk that this group is not to be messed with, and the soldiers back off.
+- The original path they descended to this level of the castle, when they first came in, is now blocked, but they quickly learn from the Deepfolk that the stables tunnel can also be used to leave directly to the desert.
+- Once in the tunnel, Amyria is the first one to use her ring, and conjured a sun's light from her eyes to observer the world beyond sand and stone. She sees a [camp](../../arrival/locations/banditCamp.md) a mile from their current location, and the group decides to travel there.
+- The camp is a strange one. A mix of dust elves, dwarves and humans are gathered together to do what they call "Laying Low". The heroes meet the camp leader Clotilde, a bearded dwarf woman, and their minds start to shatter when they realise 25 years have passed. The people from the camp are laying low to hide themselves from the several battles happening in the desert, in a war that has started now a decade ago.
+- On the next morning the heroes are determined to find the castle again, the original entrance through Mistra's door. Still carrying Gaelira unconscious, they see risks in going through the first level, now taken by hundreds of undead. Dolman decides to use his own ring now, and very quickly finds passage through earth and stone for the group. As they navigate the earth, they find other passages in the castle they never knew about.
+- Once they reach [Cagoth-Ze](../../arrival/npcs/Cagoth-Ze.md) the gnome is astonished to meet them again, thinking they perished decades ago. After a friendly conversation, the group convinces Cagoth to summon a Ngar'tho again, this time with Gaelira within the summoning circle. Cagoth is afraid of the plan, but is convinced.
+- The Ngar'tho is summoned, but things do not go as planned. The creature has no desire to be quickly released, and time pressure would not convince it to wake Gaelira up.
+- The next plan involves leaving Cagoth with the Ngar'tho for a few hours, while Amyria, Guilf and Dolman navigate through earth again and ambush Gellert. The fight begins with Dolman and Guilf falling crying over their own madnsess, but the group quickly recovers and Gellert is destroyed. The entire exchange lasted no more than 20 seconds. They didn't talk.
+- The group comes back to Cagoth (7 years later), only to find that the summoning circle failed for a millisecond, enough time for Cagoth to be slay by the Ngar'tho. The corpse is left in the floor, with a face of agony. He suffered.
+- After the sad events, the group decides to use Cagoth's machine, which continue to work, to visit the Elven Library once more. They learn that only another powerful creature, such as an old dragon, would be able to circumvent the Ngar'tho's mind control over Gaelire. They also learn that the creatures known as Angels (also called Acrisae in other languages) have been in war with humankind for millennia.
+- Armed with this knowledge, and a lot of emotional baggage, the group prepares to leave to Mystra's Temple. The temple might be a drop of hope in the current sea of misery.
+
+![](https://i.imgur.com/ZPFOLTW.png)
