@@ -1,8 +1,7 @@
 # Context: Nibiru
-***Link to [View-only full book PDF](https://drive.google.com/file/d/1URcfPk1QZ9THsut93cAh1oE-LuC2SrhR/view?usp=drivesdk) and [quick start PDF](https://drive.google.com/open?id=1gZm7M3invVbja-GQB1VEybxdopLC5Mot&usp=drive_fs)***
+***Link to [View-only full book PDF](https://drive.google.com/file/d/1URcfPk1QZ9THsut93cAh1oE-LuC2SrhR/view?usp=drivesdk), [audiobook](https://drive.google.com/drive/folders/1gbu8fkHxuS4QtTdKzpWcG7nJI8Qs36nW?usp=sharing) and [quick start PDF](https://drive.google.com/open?id=1gZm7M3invVbja-GQB1VEybxdopLC5Mot&usp=drive_fs)***
 
 [![](https://img.youtube.com/vi/UBACC2zOlj8/0.jpg)](https://www.youtube.com/watch?v=UBACC2zOlj8)
-
 
 # Base system: Stars Without Number
 ***Link to [View-only PDF](https://drive.google.com/file/d/1s9ThcGpnoimZm49370hdDDsfdPMftj-n/view?usp=drivesdk) or get for [free](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version)***
@@ -28,11 +27,19 @@ The GM announces level-ups.
 
 House rules will be presented as self-contained sets.
 
-![](https://i.imgur.com/ndHiUp9.png)
+![](https://i.imgur.com/66a4VEK.png)
 
-![](https://i.imgur.com/jA1ygyD.png)
+![](https://i.imgur.com/lqFpGaM.png)
 
 # Equipment lists
 
 - Tbd
 
+
+# Game applications and links
+
+- Videoconferência pelo Discord
+- Battle maps pelo Owlbear Rodeo
+- Imagens e desenhos pelo Miro
+- Diretório com informações do jogo (esse arquivo)
+- Abridged com resumo das últimas sessões
