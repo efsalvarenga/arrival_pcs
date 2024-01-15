@@ -2,44 +2,37 @@
 ***Link to [View-only full book PDF](https://drive.google.com/file/d/1URcfPk1QZ9THsut93cAh1oE-LuC2SrhR/view?usp=drivesdk), [audiobook](https://drive.google.com/drive/folders/1gbu8fkHxuS4QtTdKzpWcG7nJI8Qs36nW?usp=sharing) and [quick start PDF](https://drive.google.com/open?id=1gZm7M3invVbja-GQB1VEybxdopLC5Mot&usp=drive_fs)***
 
 [![](https://img.youtube.com/vi/UBACC2zOlj8/0.jpg)](https://www.youtube.com/watch?v=UBACC2zOlj8)
+(Clique na imagem acima para ver o vídeo no YouTube)
 
-# Base system: Stars Without Number
-***Link to [View-only PDF](https://drive.google.com/file/d/1s9ThcGpnoimZm49370hdDDsfdPMftj-n/view?usp=drivesdk) or get for [free](https://www.drivethrurpg.com/product/230009/Stars-Without-Number-Revised-Edition-Free-Version)***
+# Base system: Best Left Buried
+***Link to [Free Ruleset Zines](https://drive.google.com/file/d/1gMvMcuhIFXWkvjqnP8e-XpcMVObmRVrY/view?usp=sharing)***
 
-Stars Without Numbers (**SWN**) is an OSR system with a simpler class system, with most of the customisation done through background, foci (i.e. feats) and a robust skill system. Additional flavour from other games are always welcomed (OSR compatible preferred, but anything can be discussed).
+Best Left Buried is a rules light OSR system with most of the customisation done through background and advancements.
 
 ## Character creation guidance
 
-- Character creation on the SWN book, pages 3 to 25.
-- Nós vamos, inicialmente, definir apenas atributos.
-- O resto da criação de personagens vai acontecer por meio das memórias recuperadas.
-- Classes available: warrior, expert or mix/adventurer warrior+expert
-- Everyone starts at level 1 with max HP (reduces hp jump from first to second level).
-- Character sheet: [fillable pdf](https://drive.google.com/file/d/1bM8pMgGjMKao6s-12BjnkQ9MzXhFJ8i2/view?usp=drivesdk), [Google sheets](https://docs.google.com/spreadsheets/d/19vw6EHrl_2-8BcHob2_bxvcpLnVbAHbW3StjrNEFoKg/edit#gid=1671565117) or [freebooter app](https://www.swnfreebooter.net/)
-	- Mas acho que não vamos precisar de ficha no começo. Basta uma folha de papel.
-- Personagens substitutos começam no level 1, com apenas atributos (da mesma forma que personagens iniciais).
+Para a criação de personagens para o Gautlet, onde os PCs são de nível 0, basta definir os atributos (Brawl, Wit, Will).
 
-## Character advancement
+## Regras da casa
 
-The GM announces level-ups.
+Para integrar o sistema de memórias, vamos fazer algumas alterações no sistema (que devem manter a estatística intacta):
 
-## House rules
+- Todos os **stat checks** serão modificados com -1
+- O **target** para sucesso em um **stat check** será modificado para **8+** 
+- A cada memória recuperada pelos PCs, **stat checks** que usem aquela perícia passam a ter modificador **0**. Se o PC continuar a recuperar aquela memória, a perícia pode continuar aumentando (**+1**, **+2**, etc.).
 
-House rules will be presented as self-contained sets.
+## Memory points & character advancement
 
-![](https://i.imgur.com/66a4VEK.png)
-
-![](https://i.imgur.com/lqFpGaM.png)
+TBD.
 
 # Equipment lists
 
-- Tbd
-
+TBD
 
 # Game applications and links
 
 - Videoconferência pelo Discord
-- Battle maps pelo Owlbear Rodeo
-- Imagens e desenhos pelo Miro
+- Battle maps pelo [Owlbear Rodeo](https://www.owlbear.rodeo/room/v2Qv-R8VSF1R/Nibiru)
+- Imagens e desenhos pelo [Miro](https://miro.com/welcomeonboard/d0wzRms2MGN5azJITUwxRFg1Tm4yeE45QUxobElyWXFBbm9Ba1BiNVRkMFhRUGwxMUVybnNaNkx5VkY4aW5qaXwzNDU4NzY0NTQ0OTA2ODU2MjgyfDI=?share_link_id=482489388486)
 - Diretório com informações do jogo (esse arquivo)
 - Abridged com resumo das últimas sessões
