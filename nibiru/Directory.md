@@ -4,26 +4,28 @@
 [![](https://img.youtube.com/vi/UBACC2zOlj8/0.jpg)](https://www.youtube.com/watch?v=UBACC2zOlj8)
 (Clique na imagem acima para ver o vídeo no YouTube)
 
-# Base system: Best Left Buried
-***Link to [Free Ruleset Zines](https://drive.google.com/file/d/1gMvMcuhIFXWkvjqnP8e-XpcMVObmRVrY/view?usp=sharing)***
+# System
 
-Best Left Buried is a rules light OSR system with most of the customisation done through background and advancements.
+***Best Left Buried [Free Ruleset Zines](https://drive.google.com/file/d/1gMvMcuhIFXWkvjqnP8e-XpcMVObmRVrY/view?usp=sharing)*** & ***Nibiru***
 
 ## Character creation guidance
+***BLB Zine 1***
 
-Para a criação de personagens para o Gautlet, onde os PCs são de nível 0, basta definir os atributos (Brawl, Wit, Will).
+Para a criação de personagens para o Gautlet, onde os PCs são de nível 0, basta definir os atributos (**Brawl**, **Wit**, **Will**) e calcular **Vigour** (HP) e **Grip**.
 
-## Regras da casa
+Se quiser descrever o personagem com um gerador aleatório, o [Cairn PC Generator](https://cairnrpg.com/tools/character-generator/) é uma boa opção.
 
-Para integrar o sistema de memórias, vamos fazer algumas alterações no sistema (que devem manter a estatística intacta):
+## Memos System
+***Nibiru 112-113***
 
-- Todos os **stat checks** serão modificados com -1
-- O **target** para sucesso em um **stat check** será modificado para **8+** 
-- A cada memória recuperada pelos PCs, **stat checks** que usem aquela perícia passam a ter modificador **0**. Se o PC continuar a recuperar aquela memória, a perícia pode continuar aumentando (**+1**, **+2**, etc.).
+A cada memória recuperada pelos PCs (**Memos System** do Nibiru), **stat checks** que usem aquele **Action Roll** passam a ter um modificador. O Rule of Threes do Nibiru será ignorado.
 
-## Memory points & character advancement
+Cada sessão concederá 2 **Memory Point** (**Nibiru**), como experiência. Grip Checks (**Best Left Buried**) bem sucedidos também concedem **1 Memory Point**.
 
-TBD.
+## Revelations
+***Nibiru 115-119***
+
+Ao ganhar um Revelation, os PCs também ganham 1 **Vigour** e **Grip** (efetivamente esse é o Level Up do **Best Left Buried** hackeado com o **Nibiru**). Alternativamente, o jogador pode escolher um **Advancement** do **Best Left Buried**.
 
 # Equipment lists
 
