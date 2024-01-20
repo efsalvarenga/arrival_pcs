@@ -313,3 +313,52 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 - The group ponders again, and decide that their travel will not end in Mystra's Temple, but will go further. And they will meet Ghuse again.
 
 ![](https://i.imgur.com/yFXeZ5j.png)
+
+## Chapter 22: Mystra's Temple
+
+**Parley with Prompt**
+- **Prompt** and his [turnskull](../factions/turnskull.md) ice constructs unit find themselves in the desert after a tremor.
+- The Glasrath Champions speak with them and learn that Prompt has lived for millions of years.
+- Prompt has battled outsiders and was one of heavens invaders.
+- The Turnskull follow Loquiroth
+
+![|400](https://i.imgur.com/HwUqtc9.png)
+
+![|400](https://i.imgur.com/S4VBMMG.png)
+
+**Enter the temple**
+- The [BookOfKnowledge](../objects/BookOfKnowledge.md) cannot enter [templeMystra](../locations/templeMystra.md)
+- Inside the temple a hundred humans live in famine
+- When the Champions entered, a stampede was caused - the survivors in panic
+- > Dolman: "Just eat the butt"
+- The priests lost trust in [amyria](../pcs/amyria.md)
+
+![|400](https://i.imgur.com/fofoMct.png)
+
+**The nightmare [Balhannoth**](../../_gm/statblocks/Balhannoth.md)
+- The [BookOfKnowledge](../objects/BookOfKnowledge.md) is lost to the ruined desert, but found by Amyria in a deep underground corridor
+- Dolman and Guilf are tricked by a Nightmare, who showed itself as a gargantuan brown dragon. Dolman asked the dragon to cure [Gaelira](../npcs/Gaelira.md)
+- Amyria sees the creature for what it is
+- The nightmare takes [Gaelira](../npcs/Gaelira.md) with it
+
+![|400](https://i.imgur.com/5OqQX4F.png)
+
+**Dolman speaks to the Celestial shard**
+- The shard was part of celestial engines, which were destroyed by human invasion of the heavens
+- Celestial engines run control on Terra
+- The destruction of heaven caused havoc on Terra, but powerful Sorcerers quicky learned how to use the celestial shards to build Terra Engines, which maintained the human reality. Called the Legacy.
+
+![|400](https://i.imgur.com/qgmi68N.png)
+
+**Meeting dwarves**
+- For the second time, a group of dwarfs is travelling, fleeing [khathadzig](../locations/khathadzig.md) and going to [durnum](../locations/durnum.md)
+
+**Amyria speaks with Mystra**
+- Mystra is still unaware of her role in the war and has no clear alliance.
+
+![|400](https://i.imgur.com/nihlKT4.png)
+
+**Meeting Ghuse**
+- Ghuse welcomes the Champions
+
+![](https://i.imgur.com/8cZ7CSJ.png)
