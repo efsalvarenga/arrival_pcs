@@ -58,3 +58,5 @@ Ao chegar em Altaruk, Mix encontra o Airsphistaneles (Preserver) e conta tudo qu
 | World      | Encontro                  | 1/4   |
 | Passado    | Descobrir história PPMM   | 0/8   |
 | World      | Veneno em Airsphistaneles | 0/8      |
+
+Descobrimos que o Bobo que envenenou e que precisamos de estatua de maria. Vamos na igreja.
