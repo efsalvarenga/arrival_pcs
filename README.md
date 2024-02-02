@@ -127,8 +127,8 @@ Alien tombs are found in the Hard Light system.
 ### Arrival
 > **Far Age | Early Final Age | Latter Earth (Maqqatba)**  
 > **Style**: Decadent high-fantasy, cosmic horror  
-> **Sources**: 5e Ravenloft, Atlas of the Later Earth, Godbound, Silent Legions  
-> Played in 2023  
+> **Sources**: 5e Ravenloft, Atlas of the Later Earth, WWN, Godbound, Silent Legions, Calamities  
+> Played in 2023-24  
 
 The Angels have started to arrive in the Latter Earth. They come to revenge the destruction laid out in Heaven by the Sorcerer-Kings and their Made-Gods, at the end of the previous age. In the cold lands of Maqqatba, the celestial beings will face the Sorcerer-King of Turnskull in the south, while the outsider god Ethux'zhur attempts to gain dominion in Earth again.
 
@@ -145,7 +145,7 @@ The Angels have started to arrive in the Latter Earth. They come to revenge the 
 > **Style**: Gothic horror  
 > **Sources**: Godbound (Bloodhound rules), Historica Arcanum, Kult  
 
-In the heart of the 19th-century Ottoman Empire lies the enigmatic Istanbul. A thriving hub of culture and commerce, this city now harbors a dark and hidden truth, a sinister awakening known as "Blood in the Veil". Chosen individuals, once human, are now cursed and blessed with supernatural powers and a ravenous hunger for blood, while they are exposed to the a dark truth about mankind.
+In the heart of the 19th-century Ottoman Empire lies the enigmatic Istanbul. A thriving hub of culture and commerce, this city now harbors a dark and hidden truth, a sinister awakening known as "Blood in the Veil". Chosen individuals, once human, are now cursed and blessed with supernatural powers and a ravenous hunger for blood, while they are exposed to the a dark truth about Humanity.
 
 ### Delta Green
 > **Modern Age | 1990 CE | Earth (USA)**  
@@ -158,10 +158,10 @@ In the heart of the 19th-century Ottoman Empire lies the enigmatic Istanbul. A t
 > **Sources**: SWN, CWN  
 > Prepared in 2023, halted game  
 
-### After, Mutant
+### Degenesis
 > **Post-Modern Age | 28th Century | Earth**  
 > **Style**: Post apocalyptic, scavenger world  
-> **Sources**: CWN, Other Dust, Fallout, Mutant Year Zero  
+> **Sources**: CWN, Other Dust, Fallout, Mutant Year Zero, Degenesis  
 
 ### Nibiru
 > **Post-Modern Age | Post Scream Isolated Sectors | Formahault**  

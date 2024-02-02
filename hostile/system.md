@@ -17,6 +17,10 @@ We will use the slower progression rules from WWN/CWN, instead of SWN's normal p
 
 Replacements (upon character death or retirement) will start at level 1.
 
+## Harm & violence
+
+If characters reach 0 HP, they must succeed a physical save. If fail they gain a maiming wound (CWN) when they recover.
+
 # Equipment lists
 
 - Equipment from the SWN book is considered the standard most common equipment available.
