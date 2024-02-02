@@ -11,21 +11,19 @@
 ## Character creation guidance
 ***BLB Zine 1***
 
-Para a criação de personagens para o Gauntlet, onde os PCs são de nível 0, basta definir os atributos (**Brawl**, **Wit**, **Will**) e calcular **Vigour** (HP) e **Grip**.
+Para a criação de personagens para o Gauntlet, onde os PCs são de nível 0, basta definir os atributos (**Brawl**, **Wit**, **Will**) e calcular **Vigour** (HP) e **Grip**. Os *Influence Points* do **Nibiru** serão substituídos pelo **Grip** do *Best Left Buried*.
 
 Se quiser descrever o personagem com um gerador aleatório, o [Cairn PC Generator](https://cairnrpg.com/tools/character-generator/) é uma boa opção.
 
 ## Memos System
 ***Nibiru 112-113***
 
-A cada memória recuperada pelos PCs (**Memos System** do Nibiru), **stat checks** que usem aquele **Action Roll** passam a ter um modificador. O Rule of Threes do Nibiru será ignorado.
-
-Cada sessão concederá de 1 a 3 **Memory Points** (**Nibiru**), como experiência.
+A cada memória recuperada pelos PCs (**Memos System** do Nibiru), **stat checks** que usem aquele **Action Roll** são feitos com **Upper Hand**. Uma nova memória custa **5 Memory Points (MP)**. Cada sessão concederá de 1 a 3 Memory Points (Nibiru), como experiência. Memórias negativas também são possíveis (**Against The Odds**), concedendo MPs adicionais.
 
 ## Revelations
 ***Nibiru 115-119***
 
-Ao ganhar um Revelation, os PCs também ganham 1 **Vigour** e **Grip** (efetivamente esse é o Level Up do **Best Left Buried** hackeado com o **Nibiru**). Alternativamente, o jogador pode discutir com o GM e escolher um **Advancement** do **Best Left Buried**.
+Ao acumular 8 Memórias, o PC ganha um **Revelation**. Ao ganhar o **Revelation**, os PCs também ganham 1 **Vigour** e **Grip** (efetivamente esse é o Level Up do **Best Left Buried** hackeado com o **Nibiru**). Alternativamente, o jogador pode discutir com o GM e escolher um **Advancement** do **Best Left Buried**.
 
 # Equipment lists
 
