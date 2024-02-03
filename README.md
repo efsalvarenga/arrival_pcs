@@ -111,10 +111,15 @@ gitGraph:
 ### Hostile
 > **Post-Modern Age | Spike Drive Expansion (2225 CE) | Near Earth Zone**  
 > **Style**: Blue collar, gritty sci fi horror  
-> **Sources**: SWN, Hostile, Hard Light  
+> **Sources**: SWN, Hostile (and expansions), Hard Light  
 > Played in 2023  
 
 Valuable alien RNA is found in a debris field in the Perdurabo system. Tharsis Mining hires a crew to prospect the icy rocks and evaluate the commerciality of exploiting the RNA resource.
+
+### Nibiru
+> **Post-Modern Age | Post Scream Isolated Sectors | Formahault**  
+> **Style**: Techno Fantasy  
+> **Sources**: Nibiru, BLB Zines, WWN, CWN  
 
 ### BenooedeNova
 > **Post-Modern Age | Post Scream Isolated Sectors (3234 CE) | Near Earth Zone**  
@@ -127,7 +132,7 @@ Alien tombs are found in the Hard Light system.
 ### Arrival
 > **Far Age | Early Final Age | Latter Earth (Maqqatba)**  
 > **Style**: Decadent high-fantasy, cosmic horror  
-> **Sources**: 5e Ravenloft, Atlas of the Later Earth, WWN, Godbound, Silent Legions, Calamities  
+> **Sources**: 5e Ravenloft, Godbound, Silent Legions, Calamities  
 > Played in 2023-24  
 
 The Angels have started to arrive in the Latter Earth. They come to revenge the destruction laid out in Heaven by the Sorcerer-Kings and their Made-Gods, at the end of the previous age. In the cold lands of Maqqatba, the celestial beings will face the Sorcerer-King of Turnskull in the south, while the outsider god Ethux'zhur attempts to gain dominion in Earth again.
@@ -143,14 +148,19 @@ The Angels have started to arrive in the Latter Earth. They come to revenge the 
 ### The City of Crescent
 > **Modern Age | 19th Century | Earth (Istanbul)**  
 > **Style**: Gothic horror  
-> **Sources**: Godbound (Bloodhound rules), Historica Arcanum, Kult  
+> **Sources**: Historica Arcanum, Kult  
 
 In the heart of the 19th-century Ottoman Empire lies the enigmatic Istanbul. A thriving hub of culture and commerce, this city now harbors a dark and hidden truth, a sinister awakening known as "Blood in the Veil". Chosen individuals, once human, are now cursed and blessed with supernatural powers and a ravenous hunger for blood, while they are exposed to the a dark truth about Humanity.
 
 ### Delta Green
-> **Modern Age | 1990 CE | Earth (USA)**  
+> **Modern Age | 20th Century | Earth (USA)**  
 > **Style**: Cosmic horror, conspiracy  
 > **Sources**: SWN, Delta Green, Silent Legions  
+
+### Kult Scenarios
+> **Modern Age | 20th Century | Earth (Europe)**  
+> **Style**: Gnostic horror
+> **Sources**: Kult
 
 ### Silicon Samba
 > **Post-Modern Age | 2105 CE | Earth (Rio de Janeiro)**  
@@ -158,15 +168,10 @@ In the heart of the 19th-century Ottoman Empire lies the enigmatic Istanbul. A t
 > **Sources**: SWN, CWN  
 > Prepared in 2023, halted game  
 
-### Degenesis
+### *Homo Degenesis*
 > **Post-Modern Age | 28th Century | Earth**  
 > **Style**: Post apocalyptic, scavenger world  
-> **Sources**: CWN, Other Dust, Fallout, Mutant Year Zero, Degenesis  
-
-### Nibiru
-> **Post-Modern Age | Post Scream Isolated Sectors | Formahault**  
-> **Style**: Techno Fantasy  
-> **Sources**: SWN, Codex, Nibiru  
+> **Sources**: CWN, Other Dust, Fallout, Mutant Year Zero, Degenesis, Apocalypse World  
 
 ### Dark Sun
 > **Far Age | Era of Dragon Kings | Earth**  

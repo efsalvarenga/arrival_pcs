@@ -13,6 +13,8 @@
 
 Para a criação de personagens para o Gauntlet, onde os PCs são de nível 0, basta definir os atributos (**Brawl**, **Wit**, **Will**) e calcular **Vigour** (HP) e **Grip**. Os *Influence Points* do **Nibiru** serão substituídos pelo **Grip** do *Best Left Buried*.
 
+Escolha um Habitat (Nibiru 127-147).
+
 Se quiser descrever o personagem com um gerador aleatório, o [Cairn PC Generator](https://cairnrpg.com/tools/character-generator/) é uma boa opção.
 
 ## Memos System
