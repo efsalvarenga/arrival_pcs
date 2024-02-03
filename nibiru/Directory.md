@@ -34,6 +34,8 @@ TBD
 # Game applications and links
 
 - Videoconferência pelo Discord
+- [Character sheet](https://drive.google.com/open?id=1gZOa5oMj2DRbGRbTCSxpB_Jm4CMlm1mQ&usp=drive_fs)
+	- Adicionar os atributos do BLB: Brawl, Wit, Will, e os calculados Vigour = 6+Brawl e Grip = 4+Will
 - Battle maps pelo [Owlbear Rodeo](https://www.owlbear.rodeo/room/v2Qv-R8VSF1R/Nibiru)
 - Imagens e desenhos pelo [Miro](https://miro.com/welcomeonboard/d0wzRms2MGN5azJITUwxRFg1Tm4yeE45QUxobElyWXFBbm9Ba1BiNVRkMFhRUGwxMUVybnNaNkx5VkY4aW5qaXwzNDU4NzY0NTQ0OTA2ODU2MjgyfDI=?share_link_id=482489388486)
 - Diretório com informações do jogo (esse arquivo)
