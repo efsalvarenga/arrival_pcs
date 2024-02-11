@@ -59,7 +59,7 @@ On the next day they finally meet with John McLeod, and preparations for the tra
 
 ![](https://i.imgur.com/agivvC9.png)
 
-## Chapter 03 The Boxer
+## Chapter 03 Defiance and Back
 
 - The Doomborgs crew travel to the neighbour system: the Teegarden's Star. During the spike drill, Bennet used the time to execute a biopsy on one of the crab creatures that infested the starship previously. The doctor was very unlucky when a splash of acid hits his eyes, blinding him.
 - Upon arriving on Teegarden's Star, the captain makes contact with the system control and gets redirected to the Tharsis Mining office on the [Defiance](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/planet/UBzrpfVGWXxJZq6C9ndC). A shuttle picks the crew from orbit and a truck and a car takes them and the corpse to the corporation estate.
@@ -74,3 +74,38 @@ On the next day they finally meet with John McLeod, and preparations for the tra
 - The Doomborg meets The Boxer and his crew, while they loot the Cold Tomb and move the valuables to the Brutomaker. The crew of the Leadbelly is tied up and gagged, and left in the Leadbelly for the Doomborgs to figure out.
 - Then, suddenly, while being playful with the new drone, cause an accident and an oxygen leak in the Brutomaker. The two crews start running, but most of The Boxer's crew was further in the aft of the starship, and are lost to space with everything in that part of the ship when it explodes.
 - Bennet and MadSpark are safe in the Frostbreaker, while Oni, Olaf and Sabaka - together with TheBoxer and his engineer and the hostages - are safe in the Leadbelly.
+
+## Chapter 04 MadSpark perishes
+
+
+- [TheBoxer](../npcs/TheBoxer.md) is **pissed off but also afraid**: *Were them send by the [ico](../factions/ico.md)? Are they here to kill us?! Who sent you? Who fucking sent you??!!*
+- [TheBoxer](../npcs/TheBoxer.md) mentions he will kill [MadSpark](../pcs/MadSpark.md), but [Olaf](../pcs/Olaf.md) asks him not to take any actions
+
+![](https://i.imgur.com/G8qPDTT.png)
+
+- The Doomborgs count their numbers, after the explosion of the Brutomaker. It seems [Sabaka](../pcs/Sabaka.md) is missing in action.
+- Most of [TheBoxer](../npcs/TheBoxer.md) 's crew has also perished.
+- There is a high stakes discussion between [TheBoxer](../npcs/TheBoxer.md) and [Olaf](../pcs/Olaf.md), where the boxer agrees to stay in the Leadbelly while the Doomborgs discuss.
+- [Oni](../pcs/Oni.md) communicates with [Oliver Bennet](../pcs/Oliver.md) and [MadSpark](../pcs/MadSpark.md) who are on the [Frostbreaker](../objects/Frostbreaker.md), and agree on a debris-free area to dock both ships.
+- [MadSpark](../pcs/MadSpark.md) does a fearsome flyby with the [Frostbreaker](../objects/Frostbreaker.md), scaring Oliver Bennet.
+- [Olaf](../pcs/Olaf.md) and [Oni](../pcs/Oni.md) try to convince [MadSpark](../pcs/MadSpark.md) to retire from the crew, after the unfortunate actions of [MadSpark](../pcs/MadSpark.md). They propose tying up the engineer to guarantee everyone's safety.
+- Madspark does not agree, and runs and locks himself in the workshop.
+- Olaf, afraid of what could happen in the workshop makes a tough decision and commands all crew to go to the bridge, while he flushes the air from the ship.
+- [MadSpark](../pcs/MadSpark.md) perishes trying to escape though a ventilation shaft.
+- [Oliver](../pcs/Oliver.md) questions the leadership of Olaf: "Sir, I don't think you are leading us for the successful completion of our contract. Now we don't have all required skills in the crew. We need those skills - I could't care less for the human lives lost."
+
+![|400](https://i.imgur.com/ghsOnYr.png)
+
+- Considering his remaining options, [TheBoxer](../npcs/TheBoxer.md) sees an opportunity to forge his own death and finally retire in a small farm in Defiance.
+- This setup is agreed with everyone, but it requires erasing the proofs of Boxer being alive - which includes killing the hostages from the Leadbelly.
+- The Boxer and Oliver coldly push [RanseHardlee](../npcs/RanseHardlee.md), [RandallBellows](../npcs/RandallBellows.md), [JaffaOkoye](../npcs/JaffaOkoye.md) from the airlock.
+
+![](https://i.imgur.com/9GTszYL.png)
+
+![](https://i.imgur.com/pWh5JDL.png)
+
+![](https://i.imgur.com/Tsa2Km7.png)
+
+- The Boxer parks the Leadbelly in a hidden coordinate in the asteroid field.
+- The crew takes the Frostbreaker to [BrightsideStation](../locations/BrightsideStation.md). An afraid [YashDutta](../npcs/YashDutta.md) greets them, and allow them to refuel, but not to enter the station.
+- [Oni](../pcs/Oni.md) skilfully uninstall the lead panels from the[Frostbreaker](../objects/Frostbreaker.md), so they can land the ship in [Defiance](../locations/Defiance.md) to drop the Boxer.
