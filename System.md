@@ -1,47 +1,50 @@
-# Terra
-***A hack system for playing Degenesis***
+# Introduction to Terra
+***A Best Left Buried hack for playing Degenesis***
 
-This hacked system is focused on playing **Degenesis** on the chassis of **Best Left Buried**. A few reference documents are required to play, as this system is not intended to be self-contained. These are all free to download, and will be refereed to when necessary.
+This hacked system is focused on playing **Degenesis** on the chassis of **Best Left Buried**. A few reference documents are required to play, as this system is not intended to be self-contained. These are all free to download.
 
-- Degenesis: Rebirth
-- Best Left Buried Zine Edition
-- Cities Without Number SRD
+- Setting: **Degenesis Rebirth** (DEG)
+- Chassis: **Best Left Buried Zine Edition** (BLB)
+- Skills: **Cities Without Number SRD** (CWN)
 
 # Character creation
 
 ## Attributes (passive)
-**Source: Best Left Buried**
+***Reference: Best Left Buried Zine 1***
 
-PCs have three passive **Attributes**: **Fortitude**, **Reflexes** and **Willpower**. These attributes are used to define resource pool stats and for saving throws in the game. They are **not** added to skill rolls.
+PCs have three passive **Attributes**: **Fortitude**, **Reflexes** and **Willpower**. These attributes are used to define resource pool stats and for saving throws in the game. They are **not** added to (active) skill rolls.
 
 - **Fortitude**: represents the PC's physical prowess and toughness. Related to resistance to **Injuries**.
 - **Reflexes**: represents the PC's gut brain reflexes. Related to avoiding **Injuries**.
 - **Willpower**: represents the PC's intellect and resolve. Related to resilience to **Afflictions**.
 
-**Attributes** start at -1, and the player can distribute 5 points in total, respecting a maximum of 2 on any **Attribute**.
+**Attributes** start at **-1**, and the player can distribute **5** points in total, respecting a maximum of **+2** on any **Attribute**.
 
 ## Resource pools
-**Source: Best Left Buried**
+***Reference: Best Left Buried Zine 1***
 
-PCs also have two resource pools: **Vigour** and **Stability**.
+PCs also have two resource pools: **Vigour** and **Grip**.
 
-- **Vigour** is, effectively, hit points (to be better written later). Its maximum is **5** + character **Advancement** + **Hard**. This can be recovered at the rate of 1/day.
-- **Savvy** is the ability to keep focused and acting decisively. It's maximum is **5** + character **Advancement** + **Edge**. This can be recovered at the rate of 1/day.
-- **Grip** is the distance from being lost in madness, corruption, inhumanity. It's starting value is **5** + **Will**. This can only be recovered by taking **Injuries** or **Afflictions**.
+- **Vigour** is, effectively, hit points (to be better written later). Its maximum is **5** + character **Advancements** + **Fortitude**. This can be recovered at the rate of 1/day.
+- **Grip** is how far your character is from becoming infected. It's starting value is **4** + **Will**. This can only be recovered by taking **Injuries** or **Infections** (afflictions in BLB).
 
 ## Skills (active)
-**Source: Cities Without Number**
+***Reference: Cities Without Number SRD***
 
-The following generic set of broad skills is a suggestion.
+The following generic set of broad skills is a suggestion. They are divided in 5 different contexts. Most of them are defined in CWN, and the ones which are not can be interpreted freeform.
 
-- List of 20 skills to be added. Contexts are: violence, exploration, social, survival and vocational.
+- **Violence**: Brawl, Shoot, Melee, Exert
+- **Exploration**: Notice, Sneak, Pilot, Navigate
+- **Social**: Connect, Lead, Perform, Talk
+- **Survival**: Forage, Craft, Treat, Tame
+- **Vocational**: Administer, Program, Know, Trade
 
-The GM can change them if needed, respecting a few mathematical rules:
+**Skills** start at **-1**, and players can distribute points on them, respecting a maximum of **+2** on any **Skill**.
 
-- The sum of the total skill values divided by the number of skills should be between $1/3$ and $2/3$.
-- This proportion gives an average success rate (when rolling 2d6) of about 50%.
-- This gives the average effect roll the value of 1.75 (since half of them will be used to beat the target value of 8+)
-- When spending advancements to improve skills, the awarded skill points should be, roughly 1/6 of the total number of skills.
+- DEG's Culture, Cult and Concept define 15 points
+- PCs choose 10 skills to increase one point
+- PCs choose 2 skills that are at +1 and move them to +2
+
 
 # Unified mechanics
 
@@ -51,6 +54,9 @@ The GM can change them if needed, respecting a few mathematical rules:
 - The Player can pair any number of their dice to beat 8+, while the remainder die (or dice) defines the effect of the roll. The skill value is applied either to the success or to the effect - decided beforehand by the player.
 - The effect is subtracted from the Resistance die for the result.
 - A positive result subtracts that value from the level of the challenge. A negative result subtracts that value from the PCs Vigour, Savvy or Grip, depending on the action.
+
+
+
 
 # Challenges
 ## NPCs as challenges
@@ -67,3 +73,9 @@ The GM can change them if needed, respecting a few mathematical rules:
 - Unlike NPC, challenges from the world do not have attributes.
 - A resistance die is defined by the GM. This should reflect the risk of the challenge.
 - The progress clock is as big as the challenge is long. This is related to the length of the challenge, not it's risk.
+
+
+## Advancements
+
+
+- When spending advancements to improve skills, the awarded skill points should be, roughly 1/6 of the total number of skills.
