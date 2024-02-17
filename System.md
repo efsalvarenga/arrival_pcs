@@ -41,15 +41,66 @@ The following generic set of broad skills is a suggestion. They are divided in 5
 
 **Skills** start at **-1**, and players can distribute points on them, respecting a maximum of **+2** on any **Skill**.
 
-- **DEG**'s 3Cs (Culture, Cult and Concept) define 15 points. More on this below.
-- PCs choose 10 skills to increase one point.
-- PCs choose 2 skills that are at +1 and move them to +2.
+- Player distribute 10d4 on the five contexts and, after assigning the dice, rolls them to determine how many skill points to distribute on each context.
+	- Alternatively, **DEG**'s 3Cs (Culture, Cult and Concept) define the 10d4 allocation to contexts. More on this below.
+- After all the above have been distributed, PCs have a final 1d4 to assign to a final context.
 
 ### 3Cs Skills
 
+Culture (5d4)
+
+- Borca: Exploration (2d4), Survival, Vocational (2d4)
+- Franka: Social (2d4), Survival, Vocational, Exploration
+- Pollen: Violence (2d4), Survival, Social, Vocational
+- Bankhan: Violence (2d4), Social (3d4)
+- Hybrispania: Exploration (2d4, Vocational, Violence, Survival
+- Purgare: Social (3d4), Vocational, Survival
+- Africa: Vocational, Violence (3d4), Survival
+
+Concept (2d4)
+
+- The Adventurer: Violence, Exploration
+- The Creator: Vocational, Exploration
+- The Mentor: Vocational, Social
+- The Martyr: Violence, Social
+- The Ruler: Social, Exploration
+- The Seeker: Vocational (2d4)
+- The Healer: Survival, Vocational
+- The Traditionalist: Social, Vocational
+- The Mediator: Social, Survival
+- The Hermit: Survival, Exploration
+- The Heretic: Social (2d4)
+- The Conqueror: Violence (2d4)
+- The Abomination: Social, Violence
+- The Destroyer: Survival, Violence
+- The Chosen: Social (2d4)
+- The Defiler: Social (2d4)
+- The Protector: Violence, Social
+- The Visionary: Social (2d4)
+- The Zealot: Survival (2d4)
+- The Disciple: Social, Exploration
+- The Righteous: Vocational, Social
+- The Traveller: Exploration, Vocational
+
+Cult (3d4)
+
+- Spitalians: Violence, Survival, Vocational
+- Chroniclers: Vocational (2d4), Social
+- Hellvetics: Violence (2d4), Social
+- Judges: Violence, Exploration, Social
+- Clanners: Violence, Survival, Vocational
+- Scrappers: Violence, Survival, Vocational
+- Neolibyans: Social (2d4), Violence
+- Scourgers: Violence (2d4), Exploration
+- Anubians: Social, Vocational, Survival
+- Jahammedans: Exploration, Social, Vocational
+- Apocalyptics: Violence, Social (2d4)
+- Anabaptists: Violence, Vocational, Exploration
+- Palers: Violence, Exploration, Social
 
 
-# Unified mechanics
+
+# Unified resolution mechanics
 
 Resolution mechanics from **BLB** work well with this hack by reducing the target number (**DC**) from 9+ to 8+ to reflect the lower average attribute/skill values. **PbtA** degrees of success (6-, 7-9, 10+) also work reasonably well. DC bands from **CWN** can also be used. The below is a suggestion of unified mechanics based on **BLB** combat resolution, expanded to all actions in the game.
 
@@ -66,15 +117,12 @@ Resolution mechanics from **BLB** work well with this hack by reducing the targe
 
 In **Combat** situations, **Armour** defines the **DC**. Effect is deducted from NPCs' Vigour. And NPCs would have their own rounds, attacking back against PCs - i.e. GM rolls dice for NPCs in combat. In other skill applications, the Player rolling dice is sufficient to adjudicate consequences to both PCs and NPCs.
 
-# Challenges
+# Challenges (DC)
 ## NPCs as challenges
 
-- NPCs have 3 attributes, just like PCs: Hard, Edge and Grip.
+- NPCs have 3 attributes, just like PCs. These attributes are, however, also used actively.
 - Their Level is equal to the sum of the 3 attributes.
-- Their Resistance die equals the die with twice as many sizes as the attribute.
-- They don't, however, have three separate resource pools.
-- A single resource pool (progress clock) is tracked, and it's value is 5 + Level.
-- Once the progress clock is depleted, the NPC is defeated - with swords or tongs or both.
+- Their challenge die equals the die as many sizes as their attribute (scaled down).
 
 ## World as challenges
 
