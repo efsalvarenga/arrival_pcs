@@ -262,7 +262,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 - With true sight teas in a canteen, they venture into the abyss of a nightmare.
 - In the dark cave below, they see a river and a boatman. The boatman requires payment to take them in other locations in the river, and they promptly ask to be taken to Gellert.
 - The boats starts navigating but finds a rocky area. Dolman, Amyria and Guilf have to cross the rocks on foot. Joyfully trying to copy Dolman's athletics aptitude in the jumps, Guilf falls into the river, awakening dark souls around them.
-- After fighting a [lady_scurvy](../../_gm/statblocks/lady_scurvy.md) and evourecs' attempts to grapple and connect to the broken heroes intellects, the group safely resumes the navigation on the river, with the boatman that now waiting them after the rocks.
+- After fighting a [lady_scurvy](../statblocks/lady_scurvy.md) and evourecs' attempts to grapple and connect to the broken heroes intellects, the group safely resumes the navigation on the river, with the boatman that now waiting them after the rocks.
 - From the river, a nightmarish humanoid-experiment (Wilbur Whateley) starts talking with the group, explaining that all the rooms in the river are laboratories used by the Ngar'tho. He also tells the sad story of his wife, who has been deconstructed and made into the walls of one of the rooms.
 - The group finally arrives in a stone landing, with a small construction attached in one of the cavern walls and a staircase on the other side. Dolman and Guilf climb up the stairs, and find themselves on different places, so they retract. Looking through the construction's door keyhole, Guilf sees a shadow servant organising the "house".
 - After asking the boatman again to be taken to Gellert, the vessel starts navigating in the opposite direction, and the group find themselves repeating what they had just experienced backwards.
@@ -275,7 +275,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 - The broken heroes continued their journey through the nightmare. Amyria decided to explore the caverns with her spiritual eye and found they are locked in a loop of dual realities, with rooms cycling back to other rooms.
 - They find [Gellert](../../arrival/npcs/Gellert.md) and a long friendly conversation happens. Gellert shares about the accident that created a sphere of annihilation, and how the Angel Hound was lost to it. Gellert also proposes riches to Amyria, Dolman and Guilf if they were to destroy the sphere.
 - The group debates a plan again, and after what seems to have been months locked in the nightmare, they decide to go downstairs.
-- As part of the nightmares, the group helps Wilbur Whateley's desire to finish the life of his wife (Mary) and his own. While the heroes execute it, a [ngar-tho](../../_gm/statblocks/ngar-tho.md) observes.
+- As part of the nightmares, the group helps Wilbur Whateley's desire to finish the life of his wife (Mary) and his own. While the heroes execute it, a [ngar-tho](../statblocks/ngar-tho.md) observes.
 - Upon encountering the sphere, the group is prepared to face it, and after a short but dangerous exchange, they manage to break up the sphere. The Angel Hound was locked inside, but now not just what it was - it seems to be part of the Ngar'tho shared intellect.
 
 ![](https://i.imgur.com/KfUQvyO.png)
@@ -284,7 +284,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 - After resting for what felt like years, Amyria, Guilf and Dolman decide to leave Gellert's dwelling with a plan to rescue [Gaelira](../../arrival/npcs/Gaelira.md). They are older and look dirtier and meaner. Guilf is now an adult. They seem more and more under the control of their ancestral spirits: Kimbarak, The Void and Thalia - and that scared the group.
 - Before they leave, [Gellert](../../arrival/npcs/Gellert.md) pays his part of the agreement and hands over three powerful rings: Ring of Earth, Ring of Sun and Ring of Command.
-- The three heroes go upstairs and explain to the [ngar-tho](../../_gm/statblocks/ngar-tho.md) that a part of the ritual requires them to take Gaelira out of the castle. The Ngar'tho seems uncertain, and shares that coming back to the castle might be difficult once they leave.
+- The three heroes go upstairs and explain to the [ngar-tho](../statblocks/ngar-tho.md) that a part of the ritual requires them to take Gaelira out of the castle. The Ngar'tho seems uncertain, and shares that coming back to the castle might be difficult once they leave.
 - The group is not deterred, and they climb up to the third level, where the Imortra's Deepfolk reside. On that level, a very short exchange of words teaches the Deepfolk that this group is not to be messed with, and the soldiers back off.
 - The original path they descended to this level of the castle, when they first came in, is now blocked, but they quickly learn from the Deepfolk that the stables tunnel can also be used to leave directly to the desert.
 - Once in the tunnel, Amyria is the first one to use her ring, and conjured a sun's light from her eyes to observer the world beyond sand and stone. She sees a [camp](../../arrival/locations/banditCamp.md) a mile from their current location, and the group decides to travel there.
@@ -319,6 +319,9 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 **Parley with Prompt**
 - **Prompt** and his [turnskull](../factions/turnskull.md) ice constructs unit find themselves in the desert after a tremor.
 - The Glasrath Champions speak with them and learn that Prompt has lived for millions of years.
+- Prompt was around millions of years ago, and fought and defeated Mr Void
+- It was because of Mr Void that humanity went to the Ammoinouth
+- Prompt was also in the war in heaven
 - Prompt has battled outsiders and was one of heavens invaders.
 - The Turnskull follow Loquiroth
 - They have their advanced post in the Forge, to the west
@@ -336,7 +339,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![|400](https://i.imgur.com/fofoMct.png)
 
-**The nightmare [Balhannoth**](../../_gm/statblocks/Balhannoth.md)
+**The nightmare [Balhannoth**](../statblocks/Balhannoth.md)
 - The [BookOfKnowledge](../objects/BookOfKnowledge.md) is lost to the ruined desert, but found by Amyria in a deep underground corridor
 - Dolman and Guilf are tricked by a Nightmare, who showed itself as a gargantuan brown dragon. Dolman asked the dragon to cure [Gaelira](../npcs/Gaelira.md)
 - Amyria sees the creature for what it is
@@ -363,3 +366,44 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 - Ghuse welcomes the Champions
 
 ![](https://i.imgur.com/8cZ7CSJ.png)
+
+## Chapter 23: Ghuse
+
+**Parlay with Ghuse ([aivridyt](../npcs/aivridyt.md))**
+- Ghuse explains that he has killed the champions' friends: Miraak, Kethra, Gulthas and Weldon. And they work as mindless machines in his industry.
+- Ghuse appreciates the champions changed. More mature, less dreaming of fairy tales.
+- Guilf suggest that Ghuse revises his strategy and the support he is given to the Angels, if he is to continue seeing cycles of Life and Death on Earth.
+- Guilf also approximates himself to [whursock](../npcs/whursock.md), who becomes very loyal to the bard. Whursock reinforces the opinion that Ghuse might want to abandon the contract with the Angels.
+
+![|400](https://i.imgur.com/exwvDQ9.png)
+
+**Parlay with [Fuko](../npcs/Fuko.md)**
+- Fuko is the Trade Minister of Ghuse, operating from the [intermine](../locations/intermine.md)
+- She knows when and when every piece of manufacture is or must be
+- She administer the entire weapons trade for [glasrath](../factions/glasrath.md)
+
+![|400](https://i.imgur.com/V9mqrQF.png)
+
+**Visiting [khathadzig](../locations/khathadzig.md)**
+- Where people who lives, live. Schools, churches, etc. Peaceful and mostly unbeknownst of the mining business that enriches the city. 
+- Amyria's father has his office here, as Minister of Internal Affairs. Amyria's mother owns a small hotel.
+- Population see the PCs as cursed. Hardly any magic is practiced in Glasrath now. They are a "peaceful" arms dealers, ignorant to the outside on the last decades.
+
+**Dinner with Amyria's parents**
+- The dinner turned out to be conflictuous
+- Amyria's father was impolite with her mother, and Amyria picked up something in the air: they were hiding some history.
+- After confronting both in different moments during the dinner, Amyria learns she was "sold" to Ghuse during the trade agreement decades ago.
+- Amyria's father mentions that the people in the city thinks the champions are cursed because of their rings. The group notice the rings are creating some dark and hard carapace on their fingers. Dolman, bravely, takes out his ring, bleeding the entire table.
+
+**Reading the book of Knowledge**
+- Amyria continues to read the book of knowledge.
+- She learns that the Heaves, when destroyed, became a set of collapsed pocket dimensions, with uncreation between them - impossible to navigate.
+- She also learns that the celestial engines were used to keep these pocket dimensions as one single "heaven"
+- Amyria starts to hallucinating looking at the book, and sees again the Nightmare ([Balhannoth](../npcs/Balhannoth.md)) that took [Gaelira](../npcs/Gaelira.md) - it just observes Amyria.
+
+**Ambushed delivery**
+- A group of 7 dwarves were delivering the left leg of the Mercian Made God, but were ambushed by FFKA.
+- The leg was destroyed, and the dwarves were harassed: "You fucking dwarves and elves". 
+- The group carried a "wanted" poster, with a dark image of the Glasrath champions carrying Gaelira
+
+![|400](https://i.imgur.com/Axsw6qj.png)
