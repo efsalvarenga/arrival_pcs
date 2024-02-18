@@ -123,8 +123,13 @@ Every time PCs accumulate 8 xp, they gain an advancement. Alongside an advanceme
 
 ## Cult-specific advancements
 
+### Spitalians
 
+**Splaying** (DEG Katharsys 49)
+- Spend 1 Grip to gain +1 armour for one round. This advancement can be used as many times as desired in the same round, granting a higher armour modifier.
 
+**Phalanx** (DEG Katharsys 49)
+- When enemies **Gang Up** on the character, negate the first two instances of the **Upper Hand**.
 # Rules
 ***Reference: Best Left Buried Zine 4***
 
