@@ -31,7 +31,7 @@ PCs also have two resource pools: **Vigour** and **Grip**.
 ## Skills (active)
 ***Reference: Cities Without Number SRD***
 
-The following generic set of broad skills is a suggestion. They are divided in 5 different contexts. Most of them are defined in CWN, and the ones which are not can be interpreted freeform.
+The following generic set of broad skills is a suggestion. They are divided in 5 skill groups . Most of them are defined in **CWN**, and the ones which are not can be interpreted freeform.
 
 - **Violence**: Brawl, Shoot, Melee, Exert
 - **Exploration**: Notice, Sneak, Pilot, Navigate
@@ -39,66 +39,64 @@ The following generic set of broad skills is a suggestion. They are divided in 5
 - **Survival**: Forage, Craft, Treat, Tame
 - **Vocational**: Administer, Program, Know, Trade
 
-**Skills** start at **-1**, and players can distribute points on them, respecting a maximum of **+2** on any **Skill**.
+**Skills** start at **-1**, and players can distribute points on them, respecting a maximum of **+2** on any **Skill** during character creation.
 
-- Player distribute 10d4 on the five contexts and, after assigning the dice, rolls them to determine how many skill points to distribute on each context.
-	- Alternatively, **DEG**'s 3Cs (Culture, Cult and Concept) define the 10d4 allocation to contexts. More on this below.
-- After all the above have been distributed, PCs have a final 1d4 to assign to a final context.
+- **Option 1**: Distribute 8d6 on the five skill groups and, after assigning the dice, rolls them to determine how many skill points to distribute on each skill group. Overflow points (if lucky) can be assigned to any skills, regardless of skill groups.
+- **Option 2:** Alternatively, **DEG**'s 3Cs (Culture, Cult and Concept) suggests skill groups. Overflow points (if lucky) can be assigned to any skills, regardless of skill groups.
+- **Option 3 (fast assignment)**: start every skill at 0, and distribute 2d6 + 1 skill points, regardless of skill groups.
 
-### 3Cs Skills
+### DEG's 3Cs (Culture, Cult and Concept) skills
 
-Culture (5d4)
+**Preferred skill groups by Culture.** Consider assigning 3 to 4 d6s on the skill groups below.
 
-- Borca: Exploration (2d4), Survival, Vocational (2d4)
-- Franka: Social (2d4), Survival, Vocational, Exploration
-- Pollen: Violence (2d4), Survival, Social, Vocational
-- Bankhan: Violence (2d4), Social (3d4)
-- Hybrispania: Exploration (2d4, Vocational, Violence, Survival
-- Purgare: Social (3d4), Vocational, Survival
-- Africa: Vocational, Violence (3d4), Survival
+- **Borca**: Exploration, Survival, Vocational
+- **Franka**: Social, Survival, Exploration
+- **Pollen**: Violence, Survival, Social, Vocational
+- **Bankhan**: Violence, Social
+- **Hybrispania**: Exploration, Vocational, Violence
+- **Purgare**: Social, Vocational, Survival
+- **Africa**: Vocational, Violence , Survival
 
-Concept (2d4)
+**Preferred skill groups by Concept.** Consider assigning 2 to 3 d6s on the skill groups below.
 
-- The Adventurer: Violence, Exploration
-- The Creator: Vocational, Exploration
-- The Mentor: Vocational, Social
-- The Martyr: Violence, Social
-- The Ruler: Social, Exploration
-- The Seeker: Vocational (2d4)
-- The Healer: Survival, Vocational
-- The Traditionalist: Social, Vocational
-- The Mediator: Social, Survival
-- The Hermit: Survival, Exploration
-- The Heretic: Social (2d4)
-- The Conqueror: Violence (2d4)
-- The Abomination: Social, Violence
-- The Destroyer: Survival, Violence
-- The Chosen: Social (2d4)
-- The Defiler: Social (2d4)
-- The Protector: Violence, Social
-- The Visionary: Social (2d4)
-- The Zealot: Survival (2d4)
-- The Disciple: Social, Exploration
-- The Righteous: Vocational, Social
-- The Traveller: Exploration, Vocational
+* The **Adventurer**: Violence, Exploration
+* The **Creator**: Social, Vocational, Exploration, Survival
+* The **Mentor**: Vocational, Social
+* The **Martyr**: Violence, Social, Vocational
+* The **Ruler**: Exploration, Social, Vocational, Social
+* The **Seeker**: Vocational
+* The **Healer**: Survival
+* The **Traditionalist**: Exploration, Vocational, Exploration, Vocational
+* The **Mediator**: Social, Exploration, Social, Survival
+* The **Hermit**: Survival, Exploration, Exploration, Survival
+* The **Heretic**: Social
+* The **Conqueror**: Violence
+* The **Abomination**: Violence, Social
+* The **Destroyer**: Survival, Violence
+* The **Chosen**: Social, Violence, Exploration
+* The **Defiler**: Social, Survival
+* The **Protector**: Violence, Exploration
+* The **Visionary**: Social, Exploration
+* The **Zealot**: Survival, Exploration
+* The **Disciple**: Exploration, Social
+* The **Righteous**: Vocational, Social
+* The **Traveller**: Exploration, Vocational
 
-Cult (3d4)
+**Preferred skill groups by Cult.** Consider assigning 2 to 3 d6s on the skill groups below.
 
-- Spitalians: Violence, Survival, Vocational
-- Chroniclers: Vocational (2d4), Social
-- Hellvetics: Violence (2d4), Social
-- Judges: Violence, Exploration, Social
-- Clanners: Violence, Survival, Vocational
-- Scrappers: Violence, Survival, Vocational
-- Neolibyans: Social (2d4), Violence
-- Scourgers: Violence (2d4), Exploration
-- Anubians: Social, Vocational, Survival
-- Jahammedans: Exploration, Social, Vocational
-- Apocalyptics: Violence, Social (2d4)
-- Anabaptists: Violence, Vocational, Exploration
-- Palers: Violence, Exploration, Social
-
-
+- **Spitalians**: Violence, Survival, Vocational
+* **Chroniclers**: Social, Vocational (2d4)
+* **Hellvetics**: Violence, Social
+* **Judges**: Violence, Exploration, Social
+* **Clanners**: Violence, Survival
+* **Scrappers**: Violence, Survival
+* **Neolibyans**: Social, Violence, Vocational
+* **Scourgers**: Violence, Exploration
+* **Anubians**: Social, Vocational, Survival
+* **Jahammedans**: Exploration, Social, Vocational
+* **Apocalyptics**: Violence, Social
+* **Anabaptists**: Violence, Vocational, Exploration
+* **Palers**: Exploration, Vocational
 
 # Unified resolution mechanics
 
