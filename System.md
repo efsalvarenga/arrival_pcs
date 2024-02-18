@@ -14,9 +14,9 @@ This hacked system is focused on playing **Degenesis** on the chassis of **Best 
 
 PCs have three passive **Attributes**: **Fortitude**, **Reflexes** and **Willpower**. These attributes are used to define resource pool stats and for saving throws in the game. They are **not** added to (active) skill rolls.
 
-- **Fortitude**: represents the PC's physical prowess and toughness. Related to resistance to **Injuries**.
-- **Reflexes**: represents the PC's gut brain reflexes. Related to avoiding **Injuries**.
-- **Willpower**: represents the PC's intellect and resolve. Related to resilience to **Afflictions**.
+- **Fortitude**: represents the PC's physical prowess and toughness.
+- **Reflexes**: represents the PC's gut brain reflexes.
+- **Willpower**: represents the PC's intellect and resolve.
 
 **Attributes** start at **-1**, and the player can distribute **5** points in total, respecting a maximum of **+2** on any **Attribute**.
 
@@ -39,15 +39,18 @@ The following generic set of broad skills is a suggestion. They are divided in 5
 - **Survival**: Forage, Craft, Treat, Tame
 - **Vocational**: Administer, Program, Know, Trade
 
-**Skills** start at **-1**, and players can distribute points on them, respecting a maximum of **+2** on any **Skill** during character creation.
+**Skills** start at **-1**. Players can distribute 8d6 on the five skill groups and, after assigning the dice, rolls them to determine how many skill points to distribute on each skill group. Overflow points (if lucky) can be assigned to any skills, regardless of skill groups. The maximum on any **Skill** during character creation is **+2**.
 
-- **Option 1**: Distribute 8d6 on the five skill groups and, after assigning the dice, rolls them to determine how many skill points to distribute on each skill group. Overflow points (if lucky) can be assigned to any skills, regardless of skill groups.
-- **Option 2:** Alternatively, **DEG**'s 3Cs (Culture, Cult and Concept) suggests skill groups. Overflow points (if lucky) can be assigned to any skills, regardless of skill groups.
-- **Option 3 (fast assignment)**: start every skill at 0, and distribute 2d6 + 1 skill points, regardless of skill groups.
+See **Character Archetypes** for suggestions on dice assignment based on Culture, Cult and Concepts.
 
-### DEG's 3Cs (Culture, Cult and Concept) skills
+Alternatively, a fast assignment can be achieved by starting every skill at 0 and distributing 2d6 + 1 skill points, regardless of skill groups.
 
-**Preferred skill groups by Culture.** Consider assigning 3 to 4 d6s on the skill groups below.
+# Character archetypes
+***Reference: Degenesis Rebirth Katharsys***
+
+## Culture
+
+Preferred skill groups by Culture. Consider assigning 3 to 4 d6s on the skill groups below.
 
 - **Borca**: Exploration, Survival, Vocational
 - **Franka**: Social, Survival, Exploration
@@ -57,7 +60,9 @@ The following generic set of broad skills is a suggestion. They are divided in 5
 - **Purgare**: Social, Vocational, Survival
 - **Africa**: Vocational, Violence , Survival
 
-**Preferred skill groups by Concept.** Consider assigning 2 to 3 d6s on the skill groups below.
+## Concept
+
+Preferred skill groups by Concept. Consider assigning 2 to 3 d6s on the skill groups below.
 
 * The **Adventurer**: Violence, Exploration
 * The **Creator**: Social, Vocational, Exploration, Survival
@@ -82,7 +87,9 @@ The following generic set of broad skills is a suggestion. They are divided in 5
 * The **Righteous**: Vocational, Social
 * The **Traveller**: Exploration, Vocational
 
-**Preferred skill groups by Cult.** Consider assigning 2 to 3 d6s on the skill groups below.
+## Cult
+
+Preferred skill groups by Cult. Consider assigning 2 to 3 d6s on the skill groups below.
 
 - **Spitalians**: Violence, Survival, Vocational
 * **Chroniclers**: Social, Vocational (2d4)
@@ -98,9 +105,34 @@ The following generic set of broad skills is a suggestion. They are divided in 5
 * **Anabaptists**: Violence, Vocational, Exploration
 * **Palers**: Exploration, Vocational
 
-# Unified resolution mechanics
+# Advancements
 
-Resolution mechanics from **BLB** work well with this hack by reducing the target number (**DC**) from 9+ to 8+ to reflect the lower average attribute/skill values. **PbtA** degrees of success (6-, 7-9, 10+) also work reasonably well. DC bands from **CWN** can also be used. The below is a suggestion of unified mechanics based on **BLB** combat resolution, expanded to all actions in the game.
+Every time PCs accumulate 8 xp, they gain an advancement. Alongside an advancement, a PC also gains +1 Vigour and +1 Grip.
+
+## General advancements
+
+**Gain +1 in one chosen attribute.**
+- Limit is +2 in the first 5 advancements
+- Limit is +3 in the first 10 advancements
+- Limit is +4 thereafter
+
+**Gain 1d6 skill points to distribute in skills.**
+- Limit is +2 in the first 5 advancements
+- Limit is +3 in the first 10 advancements
+- Limit is +4 thereafter
+
+## Cult-specific advancements
+
+
+
+# Rules
+***Reference: Best Left Buried Zine 4***
+
+The resolution mechanics of BLB are used, when not stated differently. For general stat checks, the target number is **reduced from 9+ to 8+**. For combat, basic armour number is **reduced from 8 to 7**.
+
+## Variant: Unified resolution mechanics
+
+The below is a suggestion of unified mechanics based on **BLB** combat resolution, expanded to all actions in the game.
 
 1. **Player** describes the action and agrees with the GM what **Skill** is relevant for the roll.
 2. **GM** defines the **DC** and the **Level** of the challenge
@@ -115,21 +147,22 @@ Resolution mechanics from **BLB** work well with this hack by reducing the targe
 
 In **Combat** situations, **Armour** defines the **DC**. Effect is deducted from NPCs' Vigour. And NPCs would have their own rounds, attacking back against PCs - i.e. GM rolls dice for NPCs in combat. In other skill applications, the Player rolling dice is sufficient to adjudicate consequences to both PCs and NPCs.
 
-# Challenges (DC)
-## NPCs as challenges
+# Consequences
+***Reference: Best Left Buried Zine 5***
 
-- NPCs have 3 attributes, just like PCs. These attributes are, however, also used actively.
-- Their Level is equal to the sum of the 3 attributes.
-- Their challenge die equals the die as many sizes as their attribute (scaled down).
+## Injuries
 
-## World as challenges
+Differently from BLB, injuries are not definite consequences. They are, however, medium term consequences.
 
-- Unlike NPC, challenges from the world do not have attributes.
-- A resistance die is defined by the GM. This should reflect the risk of the challenge.
-- The progress clock is as big as the challenge is long. This is related to the length of the challenge, not it's risk.
+- For each injury a PC suffers a -1 penalty in all Attribute and Skill checks.
+- A PC can sustain any number of injuries, and their penalties are cumulative.
+- Recovering from each injury requires 5 successful Heal checks. One check can be performed per day.
+	- If within a medical centre, the check is done with the Upper Hand.
+	- In the absence of a first aid kit, the check is done Against The Odds.
+- While injured PCs recover HP normally.
+
+## Infections (afflictions)
 
 
-## Advancements
 
 
-- When spending advancements to improve skills, the awarded skill points should be, roughly 1/6 of the total number of skills.
