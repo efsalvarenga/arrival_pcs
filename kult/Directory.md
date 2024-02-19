@@ -69,7 +69,7 @@ For each of the Advancements after the 10th, choose one:
 - End your PC's story and start a new PC with 4 **Advancements**.
 - Advance your character to an Enlightened Archetype.
 
-# Rules
+## Rules
 ***Reference: Best Left Buried Zine 4***
 
 The resolution mechanics of BLB are used, when not stated differently. For general stat checks, the target number is **reduced from 9+ to 8+**.
@@ -81,7 +81,7 @@ When **KDL** asks for a passive attribute check for Fortitude, Willpower or Refl
 - It a PC does not have appropriate shelter, food or water, recovery is not possible.
 - If someone is treating the PC, one additional Vigour is recovered per day upon a successful **Will** check. The check is **Against The Odds** it there are no appropriate supplies and equipment.
 
-# Consequences
+## Consequences
 ***Reference: Best Left Buried Zine 5 & Kult Divinity Lost***
 
 Gaining consequences work the same way the do on **BLB**. For thematic coherence, afflictions should be chosen from the list of Disadvantages from **KDL** 89.
