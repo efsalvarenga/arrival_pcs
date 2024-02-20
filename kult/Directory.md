@@ -3,7 +3,7 @@
 This reference document is focused on playing **Kult: Divinity Lost** on the chassis of **Best Left Buried**. This document is **not** intended to be self-contained, and requires other books.
 
 - **KDL**: Kult: Divinity Lost 4th Edition (link to [view-only pdf](https://drive.google.com/open?id=1gPczGPNEelkE9i1ghwD9T7i7nLX9pnSx&usp=drive_fs) and [purchase](https://helmgast.se/en/kult/))
-- **BLB**: Best Left Buried Zine Edition (link to [view-only pdf](https://drive.google.com/open?id=1gMvMcuhIFXWkvjqnP8e-XpcMVObmRVrY&usp=drive_fs) and [download](https://soulmuppet-store.co.uk/products/best-left-buried-zini-edition))
+- **BLB**: Best Left Buried Zine Edition (link to [download](https://soulmuppet-store.co.uk/products/best-left-buried-zini-edition))
 
 # Context: Kult Divinity Lost
 
@@ -30,41 +30,36 @@ This reference document is focused on playing **Kult: Divinity Lost** on the cha
 ***Reference: Kult Divinity Lost***
 
 PCs have an archetype. Each archetype defines Dark Secrets, Disadvantages, Advantages, and Relations. Consult **KDL** for a description of each archetype.
+### Attributes
+***Reference: Best Left Buried Zine 1 & Kult Divinity Lost***
 
-### Stats
-***Reference: Best Left Buried Zine 1***
+PCs have three **Passive Attributes**: **Fortitude**, **Reflexes** and **Willpower**.
+- Sum of all starting **Passive Attributes** is `+2`
+- Each **Passive Attribute** is between `-2` and `+2`
 
-PCs have three **Stats**: **Brawl**, **Wit** and **Will**. The rules are the same as **BLB**, except the starting values.
+PCs have seven **Active Attributes**: **Reason**, **Intuition**, **Perception**, **Coolness**, **Violence**, **Charisma**, **Soul**.
+- Sum of all starting **Active Attributes** is `+2`
+- Each **Active Attributes** is between `-2` and `+2`
 
-**Stats** values can be assigned in any distribution respecting:  
-- Sum of all starting **Stats** is `2`
-- Each **Stat** is between `-2` and `+2`
-
-**Active attributes from KDL (Reason, Intuition, Perception, Coolness, Violence, Charisma, Soul)**
-- Choose 2 attributes to be good at - **Stat** checks have **The Upper Hand** (**TUH**)
-- Choose 3 attributes to be bad at - **Stat** checks are **Against The Odds** (**ATO**)
-- The remaining 2 attributes are neither **TUH** nor **ATO**.
-
-PCs have two resource pools: **Vigour** and **Grip**. These are fully detailed in **BLB**.
+PCs have two resource pools: **Vigour** and **Grip**.
+- Max **Vigour** is 6 + **Fortitude**
+- Starting Grip is 4 + **Willpower**
 
 ## Advancements
 
 Every time PCs accumulate 8 **Experience**, they add a new **Advancement** and gain +1 **Vigour** and **Grip**.
 
 For each of the first 5 **Advancements**, choose one:  
-- Increase one **Stat** in +1 (up to +2)
-- Gain +1 **TUH** in an Attribute
+- Increase one **Attribute** in +1 (up to +2)
 - Gain a new Advantage from your Archetype
 
 For each of the **Advancements** between the 6th and the 10th, choose one:  
-- Increase one **Stat** in +1 (one stat up to +3, the others up to +2)
-- Gain +1 **TUH** in an Attribute
+- Increase one **Attribute** in +1 (up to +3)
 - Gain a new Advantage from any Archetype
 - End your PC's story and start a new PC with 2 **Advancements**.
 
 For each of the Advancements after the 10th, choose one:  
-- Increase one **Stat** in +1 (one stat up to +4, the others up to +3)
-- Gain +1 **TUH** in an Attribute
+- Increase one **Attribute** in +1 (up to +3)
 - Gain a new Advantage from any Archetype
 - End your PC's story and start a new PC with 4 **Advancements**.
 - Advance your character to an Enlightened Archetype.
@@ -72,9 +67,9 @@ For each of the Advancements after the 10th, choose one:
 ## Rules
 ***Reference: Best Left Buried Zine 4***
 
-The resolution mechanics of BLB are used, when not stated differently. For general stat checks, the target number is **reduced from 9+ to 8+**.
-
-When **KDL** asks for a passive attribute check for Fortitude, Willpower or Reflexes, roll with the **Stats** **Brawl**, **Will** or **Wit** - respectively. When **KDL** asks for an active attribute check, roll a relevant **Stat** and use **the Upper Hand (TUH)** or **Against The Odds (ATO)**, if appropriate.
+The resolution mechanics of **BLB** is used, when not stated differently.
+- **Attribute** checks use **PbtA** ranges (6- for **Failure**, 7-9 for **Weak Success**, 10+ for **Strong Success**)
+- **Combat** uses **BLB** 3d6 rolls against **Armour**.
 
 **Vigour recovery**
 - Base rate of one recovered **Vigour** per day.
@@ -84,4 +79,8 @@ When **KDL** asks for a passive attribute check for Fortitude, Willpower or Refl
 ## Consequences
 ***Reference: Best Left Buried Zine 5 & Kult Divinity Lost***
 
-Gaining consequences work the same way the do on **BLB**. For thematic coherence, afflictions should be chosen from the list of Disadvantages from **KDL** 89.
+Gaining consequences work the same way the do on **BLB**.  
+- For thematic coherence, **Afflictions** should be chosen from the list of Disadvantages from **KDL** 89.
+- For **Injuries**
+	- **3 on d6**: For any **Attribute** Loss, roll a d10 and count **Attributes** from top-left to bottom-right
+	- **5 on d6**: For any penalty on checks, roll a d10 and count **Attributes** from top-left to bottom-right
