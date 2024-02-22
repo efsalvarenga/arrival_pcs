@@ -5,7 +5,7 @@ This reference document is focused on playing **Kult: Divinity Lost** on the cha
 - **KDL**: Kult: Divinity Lost 4th Edition (link to [view-only pdf](https://drive.google.com/open?id=1gPczGPNEelkE9i1ghwD9T7i7nLX9pnSx&usp=drive_fs) and [purchase](https://helmgast.se/en/kult/))
 - **BLB**: Best Left Buried Zine Edition (link to [download](https://soulmuppet-store.co.uk/products/best-left-buried-zini-edition))
 
-# Context: Kult Divinity Lost
+# Context
 
 **Kult: Divinity Lost** ([video review](https://www.youtube.com/watch?v=78jZImSiTgc)) is an RPG that explores themes of horror, mysticism, and the hidden truths of reality. It is known for its mature and often unsettling content, diving deep into psychological horror and existential dread.
 
@@ -17,12 +17,12 @@ This reference document is focused on playing **Kult: Divinity Lost** on the cha
 - **Moral Ambiguity and Personal Horror**: Players are challenged with moral dilemmas and personal horror, forcing them to confront their characters' darkest aspects. It questions notions of good and evil, often placing characters in situations where moral choices are not clear-cut.
 - **Control and Freedom**: It examines themes of control, freedom, and the fight against oppressive structures, both metaphysical and societal. Characters might struggle against fate, divine plans, or the machinations of powerful entities that seek to control the human race.
 
-# System: Best Left Buried
+# System
 
 **Best Left Buried** ([video review](https://www.youtube.com/watch?v=H3RFTmq4L1U)) emphasises a minimalist rule system designed to foster atmospheric horror and survival tension, prioritising player skill and strategic resource management over character abilities. The game stands out for its focus on the psychological impact of uncanny consequences, where the true enemy is often the fear and madness that comes from uncovering things that are, perhaps, **Best Left Buried**.
 
 ## Character creation
-
+***Reference: Best Left Buried Zine 1***
 ### Archetypes
 ***Reference: Kult Divinity Lost***
 
@@ -30,7 +30,6 @@ PCs have an archetype. Each archetype stablish Dark Secrets, Disadvantages, Adva
 
 Archetypes and Advancements from **BLB** will not be used directly, but can be used to draw inspiration for **KDL**'s Disadvantages and Advantages.
 ### Stats
-***Reference: Best Left Buried Zine 1***
 
 PCs have three **Stats**. They are mapped to **KDL**'s ten Attributes.  
 - **Brawl**
@@ -82,6 +81,13 @@ Experience is accumulated by:
 ***Reference: Best Left Buried Zine 4***
 
 The resolution mechanics of **BLB** is used, when not stated differently.
+
+Target numbers (**TN**) for non-combat checks are changed, to align with the PbtA framework:  
+- **6- Failure**: the GM makes a **move** against the PCs.
+- **7-9 Minor success**: the GM takes a **hold** against the PCs.
+- **10+ Major success**: the action succeed as planned.
+
+Because **KDL**'s moves have a pace mechanic intrinsic to them, the **Tension Pool** will not be used.
 
 **Vigour** recovery:  
 - Base rate of one recovered **Vigour** per day.
