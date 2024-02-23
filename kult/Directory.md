@@ -26,7 +26,7 @@ This reference document is focused on playing **Kult: Divinity Lost** on the cha
 ### Archetypes
 ***Reference: Kult Divinity Lost***
 
-PCs have an archetype. Each archetype stablish Dark Secrets, Disadvantages, Advantages, and Relations. Consult **KDL** for a description of each archetype.
+PCs have an archetype. Each archetype establish Dark Secrets, Disadvantages, Advantages, and Relations. Consult **KDL** for a description of each archetype.
 
 Archetypes and Advancements from **BLB** will not be used directly, but can be used to draw inspiration for **KDL**'s Disadvantages and Advantages.
 ### Stats
@@ -56,6 +56,12 @@ PCs have two resource pools: **Vigour** and **Grip**.
 
 Every time PCs accumulate 8 **Experience**, they add a new **Advancement** and gain +1 **Vigour** and **Grip**.
 
+Experience is accumulated by:
+- `+1` base point per session
+- `+1` if your PC has faced a dangerous situation
+- `+1` if your PC succeeded in 1+ **Grip** checks
+- `+1` if your PC has raised or lowered one Relation
+
 For each of the first 5 **Advancements**, choose one:  
 - Increase one **Attribute** in +1 (max +2)
 - Gain a new Advantage from your Archetype
@@ -70,12 +76,6 @@ For each of the Advancements after the 10th, choose one:
 - Gain a new Advantage from any Archetype
 - End your PC's story and start a new PC with 4 **Advancements**.
 - Advance your character to an Enlightened Archetype.
-
-Experience is accumulated by:
-- `+1` base point per session
-- `+1` if your PC has faced a dangerous situation
-- `+1` if your PC succeeded in 1+ **Grip** checks
-- `+1` if your PC has raised or lowered one Relation
 
 ## Rules
 ***Reference: Best Left Buried Zine 4***
@@ -97,7 +97,7 @@ Because **KDL**'s moves have a pace mechanic intrinsic to them, the **Tension Po
 Any action executed by a PC that has no reason to have ability with it, is rolled **Against The Odds**.
 ### Relations
 
-As per **KDL** 135. **Grip** loss are half (rounded up) from **KDL**'s stability, **Grip** gain is not possible.
+As per **KDL** 135. Interpret **Grip** as Stability, and require a Will check in all 3 cases. **Grip** gain is only possible once per game month.
 
 ## Consequences
 ***Reference: Best Left Buried Zine 5***
