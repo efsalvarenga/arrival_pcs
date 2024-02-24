@@ -81,14 +81,35 @@ Implicações:
 - **Regain Grip**: In a scene where you feel completely safe, and experience closeness, assurance, and affirmation from a Relation, you can make a **Will** check and, if succeeded, your **Grip** is improved a number equal to the strength of the Relation value. This cannot be repeated again in the same game month.
 - **Lose Grip**: If a Relation of yours is seriously injured, your must make a **Grip** check. If unsuccessful, **Grip** is decreased a number equal to the strength of the Relation value. Double that number if the Relation dies.
 
+### Combate
+
+Distâncias:  
+- **Close**: distância de melee. Reach significa que a arma ataca mesmo atrás de outra pessoa.
+- **Near**: uma pequena sala.
+- **Far**: mais de 20 metros.
+- **Remote**: longe.
+
+Ataques com distância menor ou maior que o Range de cada arma é feito **Against The Odds**.
+
 ## Consequences
 ***Reference: Best Left Buried Zine 5***
 
 Gaining consequences work the same way the do on **BLB**. For thematic coherence, **Afflictions** might be chosen from the list of **Becoming Broken** from **NBR** 110.
 
-# Equipment lists
+## Equipment list#
 
-TBD
+### Weapons
+
+| Weapon       | Stat  | Damage | Range         | Hands  | Notes                    |
+| ------------ | ----- | ------ | ------------- | ------ | ------------------------ |
+| Improvised   | Brawl | 1d3    |               |        |                          |
+| Knife        | Wit   | 1d6    | Close         | 1      | Act first                |
+| Sword        | Brawl | 1d6    | Close         | 1 or 2 | 1H: act first; 2H +1 dmg |
+| Pistol       | Wit   | 1d6    | Close or near | 1      |                          |
+| Shotgun      | Wit   | 1d6+1  | Near          | 2      | Slaughter                |
+| Sledgehammer | Brawl | 1d6+1  | Close         | 2      | Slaughter                |
+| Spear        | Brawl | 1d6    | Close (reach) | 1      |                          |
+| Halberd      | Brawl | 1d6+1  | Close (reach) | 2      |                          |
 
 # Game applications and links
 

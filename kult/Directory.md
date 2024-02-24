@@ -29,24 +29,23 @@ This reference document is focused on playing **Kult: Divinity Lost** on the cha
 PCs have an archetype. Each archetype establish Dark Secrets, Disadvantages, Advantages, and Relations. Consult **KDL** for a description of each archetype.
 
 Archetypes and Advancements from **BLB** will not be used directly, but can be used to draw inspiration for **KDL**'s Disadvantages and Advantages.
-### Stats
+### Attributes
 
-PCs have three **Stats**. They are mapped to **KDL**'s ten Attributes.  
-- **Brawl**
+PCs have ten **Attributes**.  
+- **Passive** (`+2` in total)  
 	- **Fortitude**: physical resistance, pain threshold, ability to exert himself and apply physical force.
-	- **Violence**: measures the character’s raw strength, short range fighting expertise, and viciousness.
-- **Wit**
+	- **Willpower**: mental resilience, composure, faith, and capacity for working through trauma.
 	- **Reflexes**: quickness, responsiveness, agility, mobility and marksmanship.
+- **Active** (`+3` in total)  
+	- **Reason**: measures the character’s analytical ability, information gathering and rationalisation.
 	- **Intuition**: survival, gut feeling, orienteering, empathy, reading intentions and motives.
 	- **Perception**: alertness, scanning environments and taking notice of what others overlook.
 	- **Coolness**: grace under pressure, stealth, theft, and other situations demanding quick decisions under stress.
+	- **Violence**: measures the character’s raw strength, short range fighting expertise, and viciousness.
 	- **Charisma**: charm, leadership, rhetorical talent and manipulation.
-- **Will**
-	- **Willpower**: mental resilience, composure, faith, and capacity for working through trauma.
-	- **Reason**: measures the character’s analytical ability, information gathering and rationalisation.
 	- **Soul**: sensitivity to *primal* forces, ability to attune and *focus* on the true reality.
 
-PCs start with: `+2` in one stat, `+1` to another and `+0` to the last.
+Each **Attribute** must be between `-2` and `+2`
 
 PCs have two resource pools: **Vigour** and **Grip**.
 - Max **Vigour** is 6 + **Fortitude**
@@ -103,3 +102,7 @@ As per **KDL** 135. Interpret **Grip** as Stability, and require a Will check in
 ***Reference: Best Left Buried Zine 5***
 
 Gaining consequences work the same way the do on **BLB**. For thematic coherence, **Afflictions** should be chosen from the list of **Disadvantages** from **KDL** 89.
+
+For **Injuries**  
+- **3 on d6**: For any **Attribute** Loss, roll a d10 and count **Attributes** from top-left to bottom-right
+- **5 on d6**: For any penalty on checks, roll a d10 and count **Attributes** from top-left to bottom-right
