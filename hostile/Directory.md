@@ -142,19 +142,27 @@ Date: September 20, 2225
 
 # System
 
-## Rules
+**Stars Without Number** is a sandbox-style science fiction tabletop RPG that embraces an "old-school renaissance" gaming philosophy, drawing mechanical inspiration from classic RPGs of the 1970s. It's designed to support a wide range of sci-fi adventures, from gritty mercenary actions to space opera, allowing players and game masters significant freedom to shape the game to their interests. Different than old school D&D, SWN has a much simpler class system, with most of the customisation done through background, foci (i.e. feats) and a robust skill system (based on classic Traveler - which is the skill system of the Hostile game too). Additional flavour from other games are always welcomed (OSR compatible preferred, but anything can be discussed): Any rule, class, foci, etc from any OSR game can be considered. [Sine Nomine](https://preview.drivethrurpg.com/en/publisher/3482/Sine-Nomine-Publishing) books are very easy to integrate with each other. I have a few of them if someone is interested.
 
+## Character creation
+***Stars Without Number 3-25***
 
+- Classes available: warrior, expert or mix/adventurer (i.e. no magic or psionic powers)
+- Everyone starts at level 1 with max HP (reduces hp jump at first level).
+- Character sheet: [fillable pdf](https://drive.google.com/file/d/1bM8pMgGjMKao6s-12BjnkQ9MzXhFJ8i2/view?usp=drivesdk), [Google sheets](https://docs.google.com/spreadsheets/d/19vw6EHrl_2-8BcHob2_bxvcpLnVbAHbW3StjrNEFoKg/edit#gid=1671565117) or [freebooter app](https://www.swnfreebooter.net/)
+- Replacements:
+	- Upon character death: start at level 1.
+	- Upon character retirement: start at half the level of the retired character.
 
 ## Character development
 
 ### Advancements
+***Stars Without Number 56***
 
-Experience gain:
-- session
-- ...
+We will use the slower progression rules from WWN/CWN, instead of SWN's normal progression. Each session grants 1 to 3 XP.
 
-As per **SWN** 56.
+![|400](https://i.imgur.com/Q8I5o35.png)
+
 ### Mental decay
 
 **Short term (stress)**
@@ -166,6 +174,7 @@ PC's individual (short term) stress is abstracted to a game pace mechanics: **Te
 Long term mental decay (i.e. **Afflictions**) happens when it is narratively coherent. Long term mental decay is not a major theme of Hostile, so it will be used sparingly. The GM will ask for a Mental Save when there is a chance to develop an **Affliction** and they will be randomly rolled on the following **MMR** table.
 
 ![](https://i.imgur.com/fzOmsRr.png)
+
 ### Physical decay
 
 **Short term (criticals)**
@@ -174,7 +183,7 @@ Upon rolling a natural 20 on an **Attack** roll, deal damage with **3x** the nor
 
 **Long term (injuries)**
 
-When PCs are **Mortally Wounded**, they suffer a serious, long lasting injury. The following table is derived from **Cities Without Number**, for thematic coherence with **Hostile**.
+When PCs are **Mortally Wounded**, they must succeed a **Physical Save** or suffer a serious, long lasting injury. The following table is derived from **Cities Without Number**, for thematic coherence with **Hostile**.
 
 | d12   | Injury                                                              |
 | ----- | ------------------------------------------------------------------- |
@@ -186,13 +195,20 @@ When PCs are **Mortally Wounded**, they suffer a serious, long lasting injury. T
 | 7-8   | Left (7) or right (8) **arm is ruined**.                            |
 | 9-10  | **System damage**: Gain +1 permanent **System Strain**.             |
 | 11-12 | **Just a flesh wound**: It's not that bad of a hit after all.       |
-### Relations
 
-Relations development will not be used for Hostile.
+# Equipment lists
+
+- Equipment from the SWN book is considered the standard most common equipment available.
+	- We are in year 2225, which means the maximum available technology is TL4 (SWN 63)
+- More specific items, such as those from Hostile books, will cost their $ value in credits, sometimes being significantly more expensive than common equipment.
+	- [Hostile Setting](https://drive.google.com/open?id=1fJPqFVlO9pqcjg7lMVgE9lAy4_vml6pW&usp=drive_fs) for generic equipment and base weapons (damage conversion: SWN dmg = Hostile dmg / 2)
+	- [Hostile Toolkits](https://drive.google.com/open?id=1fL8DRXAaHosQ6aXeTCiIC1YKSVjhVCgk&usp=drive_fs) for specific equipment (includes explosives)
+	- [Hostile Gun Locker](https://drive.google.com/open?id=1fKPO19H1ZY4RAQoknhycMyO8sL4MN02V&usp=drive_fs) for advanced weapons
 
 # Game applications and links
 
-- [Near Earth Zone (NEZ) Sector](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)
+- Owlbear Rodeo [Hostile](https://www.owlbear.rodeo/room/9EODf1G37IDr/Hostile)
+- Abridged [Hostile](https://github.com/efsalvarenga/terraCampaigns_published/blob/main/hostile/abridged.md)
+- Sector [Map](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)
 - [ECS Starbounder Frostbreaker GSV-112578](https://www.swnfreebooter.net/starshipShare/DOefjLYWNp812UH0Tqic)
 - [Miro for sharing images and drawings](https://miro.com/welcomeonboard/bjZPcHNLV3Z6NVMwN2JyaDR1U0Rrc2VOZnM1bTJnSjFPVG9BT3lNUDVrOE1EdVpCU2ZoMjZLZ3BrUGs5WFdhbnwzNDU4NzY0NTQ0OTA2ODU2MjgyfDI=?share_link_id=827183981565)
-- [Owlbear rodeo for battle maps](https://www.owlbear.rodeo/room/bEBXAYnWwWR0/TheBusyQuest)
