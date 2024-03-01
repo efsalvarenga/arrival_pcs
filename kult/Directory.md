@@ -32,24 +32,24 @@ Archetypes and Advancements from **BLB** will not be used directly, but can be u
 ### Attributes
 
 PCs have ten **Attributes**.  
-- **Passive** (`+2` in total)  
+- **Passive**  
 	- **Fortitude**: physical resistance, pain threshold, ability to exert himself and apply physical force.
 	- **Willpower**: mental resilience, composure, faith, and capacity for working through trauma.
 	- **Reflexes**: quickness, responsiveness, agility, mobility and marksmanship.
-- **Active** (`+3` in total)  
+- **Active**  
 	- **Reason**: measures the character’s analytical ability, information gathering and rationalisation.
 	- **Intuition**: survival, gut feeling, orienteering, empathy, reading intentions and motives.
 	- **Perception**: alertness, scanning environments and taking notice of what others overlook.
 	- **Coolness**: grace under pressure, stealth, theft, and other situations demanding quick decisions under stress.
 	- **Violence**: measures the character’s raw strength, short range fighting expertise, and viciousness.
 	- **Charisma**: charm, leadership, rhetorical talent and manipulation.
-	- **Soul**: sensitivity to *primal* forces, ability to attune and *focus* on the true reality.
+	- **Soul**: sensitivity to primal forces, ability to attune and focus on the true reality.
 
-Each **Attribute** must be between `-2` and `+2`
+Roll **1d4 - 2** for each **Attribute** and choose **2** **Attribute** values to swap. Alternatively, roll **1d3 - 2** for each **Attribute** and then choose **5** **Attributes** to increase in **+1**.
 
 PCs have two resource pools: **Vigour** and **Grip**.
 - Max **Vigour** is 6 + **Fortitude**
-- Starting Grip is 4 + **Willpower**
+- Starting **Grip** is 4 + **Willpower**
 
 ## Advancements
 
