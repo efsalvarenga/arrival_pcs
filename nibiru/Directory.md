@@ -78,8 +78,8 @@ A Relation’s strength might be raised or lowered due to events occurring in pl
 
 Implicações:  
 - **Wish no harm**: If you intend on harming or killing your Relation, whether directly or indirectly, you must pass a **Will** check.
-- **Regain Grip**: In a scene where you feel completely safe, and experience closeness, assurance, and affirmation from a Relation, you can make a **Will** check and, if succeeded, your **Grip** is improved a number equal to the strength of the Relation value. This cannot be repeated again in the same game month.
-- **Lose Grip**: If a Relation of yours is seriously injured, your must make a **Grip** check. If unsuccessful, **Grip** is decreased a number equal to the strength of the Relation value. Double that number if the Relation dies.
+- **Regain Grip**: In a scene where you experience closeness, assurance, and affirmation from a Relation, you can make a **Will** check. If successful, your **Grip** is improved a number equal to the strength of the Relation value. This cannot be repeated again in the same game month.
+- **Lose Grip**: If a Relation of yours is seriously injured, your must make a **Will** check. If unsuccessful, **Grip** is decreased a number equal to the strength of the Relation value. Double that number if the Relation dies.
 
 ### Combate
 

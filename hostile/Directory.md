@@ -183,7 +183,7 @@ Upon rolling a natural 20 on an **Attack** roll, deal damage with **3x** the nor
 
 **Long term (injuries)**
 
-When PCs are **Mortally Wounded**, they must succeed a **Physical Save** or suffer a serious, long lasting injury. The following table is derived from **Cities Without Number**, for thematic coherence with **Hostile**.
+When PCs are **Mortally Wounded**, they gain an injury. When their **Frailty** is over, they can make a **Physical Save**. If successful their injury is also recovered, otherwise their injury becomes a permanent one. The following table is derived from **Cities Without Number**, for thematic coherence with **Hostile**.
 
 | d12   | Injury                                                              |
 | ----- | ------------------------------------------------------------------- |
