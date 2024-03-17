@@ -56,12 +56,12 @@ Infectious environments. To determine your character's starting **Grip**, take t
 
 ![](https://i.imgur.com/m3VdTDL.png)
 
-The mechanics implementation of character archetypes will follow the Everyman Archetype (**BLB** Zine 2). Choose one action type your character is good at, and one they are bad at. Action types are specific applications of generic skills. For an action type the PC is good at, roll the **Stat Check** with the **Upper Hand**. Conversely, for an action type the PC is bad at, roll the **Stat Check** **Against the Odds**.
+The mechanics implementation of character concepts will follow **BLB**'s Everyman Archetype (**BLB** Zine 2). Choose one action type your character is good at, and one they are bad at. Action types are specific applications of generic skills. For an action type the PC is good at, roll the **Stat Check** with the **Upper Hand**. Conversely, for an action type the PC is bad at, roll the **Stat Check** **Against the Odds**.
 ## Character development
 
 ### Advancements
 
-Every time PCs accumulate 8 xp, they gain an advancement. Alongside an advancement, a PC also gains +1 **Vigour** and +1 **Grip**.
+Every time PCs accumulate 8 XP, they gain an advancement. Alongside an advancement, a PC also gains +1 **Vigour** and +1 **Grip**.
 #### General advancements
 
 - **Extra Stat** (**BLB** Zine 2): Gain +1 in one chosen stat. Limit is +2 in the first 10 advancements Limit is +3 thereafter.
@@ -103,60 +103,39 @@ To define what is the gained infestation, roll 1d200 and consult **MMR** 146-147
 
 ![](https://i.imgur.com/5iTqcjB.png)
 
-
-
-
-
-
-
-# Rules
-***Reference: Best Left Buried Zine 4***
-
-The resolution mechanics of BLB are used, when not stated differently. For general stat checks, the target number is **reduced from 9+ to 8+**. For combat, basic armour number is **reduced from 8 to 7**.
-
-**Vigour recovery**
-- Base rate of one recovered **Vigour** per day.
-- It a PC does not have appropriate shelter, food or water, recovery is not possible.
-- If someone is treating the PC, one additional Vigour is recovered per day upon a successful **Will** check. The check is **Against The Odds** it there are no appropriate supplies and equipment.
-
-## Advancements
-
-Every time PCs accumulate 8 **Experience**, they add a new **Advancement** and gain +1 **Vigour** and **Grip**.
-
-For each of the first 5 **Advancements**, choose one:  
-- Increase one **Stat** in +1 (up to +2)
-- Gain +1 **TUH** in an Attribute
-- Gain a new Advantage from your Archetype
-
-For each of the **Advancements** between the 6th and the 10th, choose one:  
-- Increase one **Stat** in +1 (one stat up to +3, the others up to +2)
-- Gain +1 **TUH** in an Attribute
-- Gain a new Advantage from any Archetype
-- End your PC's story and start a new PC with 2 **Advancements**.
-
-For each of the Advancements after the 10th, choose one:  
-- Increase one **Stat** in +1 (one stat up to +4, the others up to +3)
-- Gain +1 **TUH** in an Attribute
-- Gain a new Advantage from any Archetype
-- End your PC's story and start a new PC with 4 **Advancements**.
-- Advance your character to an Enlightened Archetype.
-
 ## Rules
-***Reference: Best Left Buried Zine 4***
+***Reference: Best Left Buried Zine 4 and World of Dungeons***
 
-The resolution mechanics of BLB are used, when not stated differently. For general **Stat** checks, the target number is **reduced from 9+ to 8+**.
+### Rolling the dice
 
-When **KDL** asks for a passive attribute check for Fortitude, Willpower or Reflexes, roll with the **Stats** **Brawn**, **Will** or **Wit** - respectively. When **KDL** asks for an active attribute check, roll a relevant **Stat** and use **the Upper Hand (TUH)** or **Against The Odds (ATO)**, if appropriate.
+**When you attempt something risky**, roll 2d6 and add one of your **Stats**, based on the action you’re taking - this is called a **Stat Check**. **Observation Checks** are unmodified by **Stats**. ***6- is a failure***; things don’t go well and the risk turns out badly. ***7-9 is a minor success***; you do it, but there’s some cost, compromise, retribution, harm, etc. ***10+ is a major success***; you do it without complications.
 
-**Vigour recovery**
-- Base rate of one recovered **Vigour** per day.
-- It a PC does not have appropriate shelter, food or water, recovery is not possible.
-- If someone is treating the PC, one additional Vigour is recovered per day upon a successful **Will** check. The check is **Against The Odds** it there are no appropriate supplies and equipment.
+The **Target Numbers** never change. If the GM wishes to make the situation harder or easier, apply the **Upper Hand** or **Against The Odds**. With the **Upper Hand**, roll 3d6 and discard the lowest die before adding the appropriate **Stat**. Conversely, when **Against The Odds**, roll 3d6 and discard the highest die before adding the appropriate **Stat**.
 
-## Consequences
-***Reference: Best Left Buried Zine 5 & Kult Divinity Lost***
+For **Attacks** roll 3d6. Choose two of the dice and add the appropriate **Stat** for this type of **Attack**. ***6- is a failure***; you miss your enemy while they hurt you, or something else bad happens. ***7-9 is a partial success***; you hit an enemy that counter attacks you, or you hit and something else bad happens. ***10+ is a full success***; you hit the enemy and avoid counter attacks.
 
-Gaining consequences work the same way the do on **BLB**. For thematic coherence, afflictions should be chosen from the list of Disadvantages from **KDL** 89.
+On a hit, the remaining die serves as damage. The attacker's weapon modifiers are added, while the enemy's armour rating is subtracted from the damage die, before applying it to the target's **Vigour**. When the damage die is a 6, the target must roll on the **Injury** table.
 
+### Recovery
 
+The base rate of one recovered **Vigour** per day. If a PC does not have appropriate shelter, food or water, recovery is not possible. If someone is treating the PC, one additional Vigour is recovered per day upon a successful **Will** check. The check is **Against The Odds** it there are no appropriate supplies and equipment.
 
+# Equipment
+
+## Weapons and armour
+
+| Weapon        | Stat  | Damage  | Range         | Hands  | Notes                                                                                |
+| ------------- | ----- | ------- | ------------- | ------ | ------------------------------------------------------------------------------------ |
+| Improvised    | Brawl | 1d6     |               |        | Attacks are **Against the Odds**                                                     |
+| Light melee   | Wit   | 1d6     | Close         | 1      |                                                                                      |
+| Medium melee  | Brawl | 1d6     | Close         | 1 or 2 | If wielded with 2 hands, deals +1 damage                                             |
+| Heavy melee   | Brawl | 1d6 + 1 | Close         | 2      | Slaughter: Injury on 5 or 6                                                          |
+| Light ranged  | Wit   | 1d6     | Close or near | 1      |                                                                                      |
+| Medium ranged | Wit   | 1d6 + 1 | Near          | 2      | Slaughter: Injury on 5 or 6<br>Attacks are **Against the Odds** for different ranges |
+| Heavy ranged  | Wit   | 1d6 + 2 | Near or Far   | 2      | Slaughter: Injury on 5 or 6<br>Attacks are **Against the Odds** for different ranges |
+
+| Armour | Rating | Notes                                                              |
+| ------ | ------ | ------------------------------------------------------------------ |
+| Light  | 1      |                                                                    |
+| Heavy  | 2      | **Heavy**: **Against the Odds** to run, observe, sneak, swim, etc. |
+| Shield | +1     | Can be sacrificed to avoid a hit                                   |
