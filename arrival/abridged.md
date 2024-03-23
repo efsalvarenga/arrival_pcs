@@ -299,6 +299,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![](https://i.imgur.com/2ShVTlA.png)
 
+# Part 3 Wars
 ## Chapter 21 Underground Travel
 
 - As the party camps for the first night of travel, Brilhorte wakes up. But this time the robot is different - stronger, larger and darker. A few minutes later a swarm of Evourec's attack the Glasrath Champions. The fight is easy, unlike comprehending how and why these creatures of water are moving around in the desert.
@@ -387,7 +388,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 **Visiting [khathadzig](../locations/khathadzig.md)**
 - Where people who lives, live. Schools, churches, etc. Peaceful and mostly unbeknownst of the mining business that enriches the city. 
 - Amyria's father has his office here, as Minister of Internal Affairs. Amyria's mother owns a small hotel.
-- Population see the PCs as cursed. Hardly any magic is practiced in Glasrath now. They are a "peaceful" arms dealers, ignorant to the outside on the last decades.
+- Population see the PCs as cursed. Hardly any magic is practiced in Khathadzig now. They are a "peaceful" arms dealers, ignorant to the outside on the last decades.
 
 **Dinner with Amyria's parents**
 - The dinner turned out to be conflictuous
@@ -407,3 +408,52 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 - The group carried a "wanted" poster, with a dark image of the Glasrath champions carrying Gaelira
 
 ![|400](https://i.imgur.com/Axsw6qj.png)
+
+## Chapter 24: Arriving at The Forge
+
+**Meet Bravhar, the annealing dragon**
+- [Bravhar](../npcs/Bravhar.md), the wyrmling golden dragon that perished in the Battle from the Ammouinoth three decades ago, is now ressurected.
+- Bravhar has an agreement with Ghuse ([aivridyt](../npcs/aivridyt.md)) and will work as the annealing process for the mines for 145 year. This is the payback price to be brought back.
+- Bravhar wants to spend time thinking on the process so that he can inject a systematic failure on each metal part at its molecular level. This can be Glasrath's backup plan in case they find themselves in war with their customers.
+- Ghuse is convinced by [guilf](../pcs/guilf.md) to allow the dragon the required time.
+
+**Ghostly convoy** 
+- [dolman](../pcs/dolman.md) puts his ring again, and feels complete.
+- The champions start travelling towards [TheForge](../locations/TheForge.md), using Dolman's earth ring, travelling through soil.
+- On the end of the first week, during a resting period, [guilf](../pcs/guilf.md) sees a group of 4 smoke creatures take form from his pipe week smoke
+- These ghostly nightmares explain they came from Earth, that was shattered and lost its smoke construction. As Earth broke, it started to be re-made in matter.
+- The nightmares start to take shape of the champions.
+- The conversation feel like a nightmare, and the convoy goes their way after a while.
+- [Thirteen](../npcs/Thirteen.md), at the same time, wakes up from a nightmare where he sees his little sister die again.
+
+**Hurt angel and sand warriors**
+- A few days later, as the champions progress their journey, [amyria](../pcs/amyria.md) sees through stone an angel, inside a large ruined atrium, laying on the floor. The Angel seems hurt.
+- In a neighbour atrium, a group of 20 sand warriors come to meet the angel - they seem allied. Sand warriors are Dust Elven mercenaries, not always welcomed amongst their own people.
+- The Glasrath champions decide to go through the last wall that separates them from the angel and sand warriors.
+- They are met with caution, and the angel speak with them. The angel in clearly hurt, limping.
+- [amyria](../pcs/amyria.md) mentions she knows about the never ending war of angels and humanity, and that she learned this from the [BookOfKnowledge](../objects/BookOfKnowledge.md). After mentioning the book, the angel becomes interested.
+- [dolman](../pcs/dolman.md) acts fast and pull all his companions through the rocks again. The angel is incredibly fast, and is almost able to reach to Amyria, but for a few centimetres it does not happen, and the champions find themselves safe inside the walls of the ruins.
+
+![|500](https://i.imgur.com/gwrWnoz.png)
+
+![](https://i.imgur.com/tHZYdHS.png)
+
+**Arriving at [TheForge](../locations/TheForge.md)**
+- Surroundings (and their underground) are camps and villages of Anaks and humans allied.
+- The location terrible place, with a terrible smell.
+- The champions are offered twice dead sandwich, which they learn is made of the bodies of undead they hunt in the ruins. More tasty, and also less frequent, is the once dead sandwich, made with the bodies of dead friends and enemies.
+- An anak sergeant finds it wrong that the champions are so deep into the camp, without being part of their army. He suggest he will have to deal with the situation but [guilf](../pcs/guilf.md), using his command ring, convinces him to bring the champions to prompt.
+- The Inner Forge is the technology city where the commanding Anaks live amongst constructs.
+- Prompt explains that for the champions to be trusted and speak with [Loquiroth](../npcs/Loquiroth.md), they will need to complete one mission. They walk together to the mission backlog in a screen and see
+	- Retrieve the Supraxae found by Anaks and bring it here
+	- Retrieve the Supraxae detector, found in [gimorkoc](../locations/gimorkoc.md)
+	- Kill an Angel
+	- Find a way to get the Mercians and their Made God to formally enter the war, allied with Turnskull
+
+![](https://i.imgur.com/4QOJA4N.png)
+
+![](https://i.imgur.com/wl4Mzz5.png)
+
+![|400](https://i.imgur.com/HwUqtc9.png)
+
+The Glasrath champions decide to retrieve the Supraxae.
