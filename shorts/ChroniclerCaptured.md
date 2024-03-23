@@ -1,53 +1,27 @@
 # Chronicler Captured
 
-This reference document is focused on playing a short adventure on the **Degenesis: Rebirth** setting, on the chassis of **Best Left Buried** and **World of Dungeons**. This document is mostly self-contained. The following books can be used to expand understanding.
+This reference document is focused on playing a short adventure on the **Degenesis: Rebirth** setting on a homebrew system currently called **Terra**. This document is mostly self-contained. The Degenesis: Rebirth books (Primal Punk & Katharsys) add flavour to the setting (see appendices for reference links).
 
-- **DEG** Degenesis Rebirth Primal Punk and Katharsys (link to [download](https://degenesis.com/downloads/books/degenesis-rebirth-edition))
-- **BLB** Best Left Buried Zine Edition (link to [download](https://soulmuppet-store.co.uk/products/best-left-buried-zini-edition))
-- **WuDu** World of Dungeons (link to [download](https://johnharper.itch.io/world-of-dungeons))
-- **MMR** Metamorphica Revised (link to [view-only pdf](https://drive.google.com/open?id=1cCtMvrb1oJ2mssGv37M21AKMuPdntalV&usp=drive_fs) and [purchase](https://preview.drivethrurpg.com/en/product/198038/The-Metamorphica-Revised))
 
 # Context
 ***Reference: Defenesis Rebirth Primal Punk***
 
 [Chroniclers](https://youtu.be/8aZRkjvtaow?t=1070&si=oKga2q224Bxts8A-) are one of the cults in Degenesis. You are a member of this clan and, during a trade with a [Scavenger](https://youtu.be/8aZRkjvtaow?t=1505&si=rbZX7a_4gqETiMJq) in east [Borca](https://youtu.be/8aZRkjvtaow?t=385&si=6nA1LdZBrvom6fY9), you were captured. You wake up in a dark and humid room.
 
+
 # System
 
-The game will use a hybrid system between **BLB** and **WuDu**. 
+**Terra** is a rules light system focused on narrative, player agency and consequences. Only d6s are used, in two different colours.
+
 ## Character creation
-***Reference: Best Left Buried Zine 1***
 
-1. Always start with a **Name** and a **Concept** (see Character concepts below).
-2. Roll for **Stats** (**Brawn**, **Wit** and **Will**).
-3. Calculate **Vigour** (6 + **Brawn**) and **Grip** (4 + **Will**).
-3. Based on your **Concept**, choose one action type to be good at, and one to be bad at. Action types are specific applications of generic skills (see **BLB** Zine 2 for examples for each Archetype).
-4. Choose one **Advancement** (See Character advancements below).
-### Stats
-
-PCs have three **Stats**: **Brawn**, **Wit** and **Will**.
-
-- **Brawn** represents the character’s physical strength, endurance and vital force.
-- **Wit** represents a character’s physical, mental and social agility.
-- **Will** represents a character’s intellect and the power of their mind.
-
-To determine their values, roll 2d6 for each, and consult the table below. After rolling, you can swap two values.
-
-| Roll           | 2   | 3-6 | 7-9 | 10-11 | 12  |
-| -------------- | :-: | :-: | :-: | :---: | :-: |
-| **Stat Value** | -1  | 0   | +1  | +2    | +3  |
-
-If a **Stat** is positive, add it to any **Stat Checks** using it; conversely subtract a negative **Stat** from **Stat Checks** using it.
-### Vigour and Grip
-
-Your character has two measures of survival: **Vigour** and **Grip**.
-
-**Vigour** is like other games’ hit points, and represents their health disposition and fighting spirit. To determine your character's starting **Vigour**, take their **Brawn** and add 6.
-
-**Grip** combines stamina, sanity and protection from Sepsis. It is spent on re-rolls and used on character Advancements, and is depleted when facing psychologically damaging monsters or
-Infectious environments. To determine your character's starting **Grip**, take their Will **and** add 4.
-
-## Character concepts
+1. Always start with a **Name** and a **Concept** - see Concepts.
+2. Roll for **Attributes** (**Brawn**, **Wit** and **Will**) - see Attributes.
+3. Calculate **Vigour** and **Ego** - see Vigour and Ego.
+4. You are a **Chronicler**. Your initial skills are Crafting, Negotiation, Engineering, Artifact Lore and Deception.
+5. Based on your **Concept**, write down two additional skills you are good at.
+6. Choose one **Advancement** (See Character advancements below).
+### Concepts
 ***Reference: Degenesis Rebirth Katharsys***
 
 ![](https://i.imgur.com/llst2Fo.png)
@@ -56,86 +30,136 @@ Infectious environments. To determine your character's starting **Grip**, take t
 
 ![](https://i.imgur.com/m3VdTDL.png)
 
-The mechanics implementation of character concepts will follow **BLB**'s Everyman Archetype (**BLB** Zine 2). Choose one action type your character is good at, and one they are bad at. Action types are specific applications of generic skills. For an action type the PC is good at, roll the **Stat Check** with the **Upper Hand**. Conversely, for an action type the PC is bad at, roll the **Stat Check** **Against the Odds**.
+![](https://i.imgur.com/PV3TkAe.png)
+### Attributes
+
+PCs have three **Attributes**: **Brawn**, **Wit** and **Will**.
+
+- **Brawn** represents the character’s physical strength, endurance and vital force.
+- **Wit** represents a character’s physical, mental and social agility.
+- **Will** represents a character’s intellect and the power of their mind.
+
+To determine their values, roll 1d6 for each, and consult the table below. After rolling, you can swap two values.
+
+| Roll           | 1-3 | 4-5 |  6  |
+| -------------- | :-: | :-: | :-: |
+| **Stat Value** |  1  |  2  |  3  |
+
+Your **Attributes** define the initial size of your dice pool, **+1d** if you are using a relevant skill.
+
+### Vigour and Ego
+
+Your character has two measures of survival: **Vigour** and **Ego**.
+
+**Vigour** is like other games’ hit points, and represents their health, disposition and fighting spirit. To determine your character's starting **Vigour**, take their **Brawn** and add 5.
+
+**Ego** combines resolve, sanity and protection from Sepsis. It is spent to increase dice pools and used on character **Advancements**, and is depleted when facing psychologically damaging situations or infectious environments. To determine your character's starting **Ego**, take their **Will** and add 5.
+
 ## Character development
 
 ### Advancements
 
-Every time PCs accumulate 8 XP, they gain an advancement. Alongside an advancement, a PC also gains +1 **Vigour** and +1 **Grip**.
+Every time PCs accumulate 8 XP, they gain an advancement. Alongside an advancement, a PC also gains +1 **Vigour** and +1 **Ego**.
 #### General advancements
 
-- **Extra Stat** (**BLB** Zine 2): Gain +1 in one chosen stat. Limit is +2 in the first 10 advancements Limit is +3 thereafter.
-- **Extra Grip** (**BLB** Zine 2): Gain +3 **Grip**.
+- **Extra Attribute**: Gain +1 in one chosen **Attribute**. Limit is 2 in the first 10 advancements Limit is 3 thereafter.
+- **Extra Grip**: Gain +3 **Ego**.
 
 #### Cult-specific advancements
 
-**Chroniclers** (**DEG** KatharSys 53)
+**Chroniclers** (**DEGKS** 53)
 
 ![](https://i.imgur.com/5PiOTYa.png)
 
-- **Tesla** : Spend 1 to 3 **Grip** and an action to make a **Will** based Attack with the **Upper Hand** against an enemy within short range. Multiply the damage by the **Grip** cost.
-- **Nova**: For 1 **Grip** and an action in combat, the PC fogs a number of creatures up to their **Will**. The next roll of these creatures are made **Against the Odds**.
-- **Dead End**: When the PC **Attacks** an enemy who is unaware of them, they have the **Upper Hand** and deal double damage.
-- **Fractal Memory**: Roll with the **Upper Hand** on memory related actions.
-- **Download**: Roll with the Upper Hand when questioning a prisoner NPC.
-- **Upload**: Roll with the Upper Hand when trying to incept an idea on an NPC
+- **Tesla** : Spend 1 to 3 **Ego** and an action to make a **Will** based Attack. **+2d** for each **Ego** spent.
+- **Nova**: For 1 **Ego** and an action in combat, the PC fogs a number of creatures up to their **Will**. The next roll against these creatures are **+1d**.
+- **Dead End**: **+2d** when attacking an enemy who is unaware.
+- **Fractal Memory**: **+1d** on memory related actions.
+- **Download**: **+1d** when questioning a prisoner NPC.
+- **Upload**: **+1d** when trying to incept an idea on an NPC
 
 ### Consequences
-***Reference: Best Left Buried Zine 5 and Metamorphica Revised***
 
-Gaining consequences work the same way the do on **BLB**. Unlike in **BLB**, afflictions will be used to expose Sepsis infestation - as opposed to character flaws and insanity. 
 #### Injuries
 
-| d6    | 1 or 2                                                                                        | 3 or 4                                                                                                                        | 5 or 6                                                                                                            |
-| ----- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **1** | You are **Dead**                                                                              | You are **Unconscious**                                                                                                       | Take an **Sepsis infestation** without regaining any **Grip** (NPCs take another 2d6 damage)                      |
-| **2** | Loose an arm or hand: Two handed tasks are **Against the Odds** or **Impossible**             | Lose a foot or leg: Moving a **Zone** takes two rounds; Tasks requiring bipedalism are **Against the Odds** or **Impossible** | Lose an eye: **Observation Checks** relying on sight are **Against the Odds**.                                    |
-| **3** | -1 **Brawn**                                                                                  | -1 **Wit**                                                                                                                    | -1 **Will**                                                                                                       |
-| **4** | Lose 1d3 **Vigour**                                                                           | Lose 1d3 **Vigour**                                                                                                           | Lose 1d3 **Grip**                                                                                                 |
-| **5** | **Attacks** are **Against the Odds** for 5 minutes, or until Combat ends, whichever is sooner | **Stat Checks** are **Against the Odds**<br>for 5 minutes, or until Combat ends, whichever is sooner                          | **Observation Checks** are **Against<br>the Odds** for 5 minutes, or until<br>Combat ends, whichever is<br>sooner |
-| **6** | No effect                                                                                     | No effect                                                                                                                     | No effect                                                                                                         |
+Anytime an **Effect** die would explode, players can choose to take an injury instead of taking further damage. Injuries can be defined with the GM. They should be permanent conditions.
+
+- Loss of a body part: leg, arm or eye.
+- Loss of a random attribute
+- Take exploding die further damage to **Ego**, instead of **Vigour**.
 
 #### Sepsis infestation
+***Reference: Metamorphica Revised***
 
-To define what is the gained infestation, roll 1d200 and consult **MMR** 146-147. 
+If your PC develops a sepsis infestation, roll 1d200 and consult **MMR** 146-147. 
 
 ![](https://i.imgur.com/pIznl0D.png)
 
 ![](https://i.imgur.com/5iTqcjB.png)
 
 ## Rules
-***Reference: Best Left Buried Zine 4 and World of Dungeons***
 
 ### Rolling the dice
 
-**When you attempt something risky**, roll 2d6 and add one of your **Stats**, based on the action you’re taking - this is called a **Stat Check**. **Observation Checks** are unmodified by **Stats**. ***6- is a failure***; things don’t go well and the risk turns out badly. ***7-9 is a minor success***; you do it, but there’s some cost, compromise, retribution, harm, etc. ***10+ is a major success***; you do it without complications.
+*Whenever you try to overcome a challenge*, say what you intend to do and roll the **Dice Pool**.
 
-The **Target Numbers** never change. If the GM wishes to make the situation harder or easier, apply the **Upper Hand** or **Against The Odds**. With the **Upper Hand**, roll 3d6 and discard the lowest die before adding the appropriate **Stat**. Conversely, when **Against The Odds**, roll 3d6 and discard the highest die before adding the appropriate **Stat**.
+- The player with the GM define what affects the **Dice Pool** size (attributes, skills, environment, conditions, etc.).
+- The GM defines if the challenge would retribute (fight back, accidents, etc.) and the the **Retribution** dice pool. Use dice of a colour different from the PC's dice pool.
+- The GM defines the challenge **Disposition**. Most simple challenges have a **Disposition** of 1. Complex or long challenges may have a higher value, defined by the GM.
 
-For **Attacks** roll 3d6. Choose two of the dice and add the appropriate **Stat** for this type of **Attack**. ***6- is a failure***; you miss your enemy while they hurt you, or something else bad happens. ***7-9 is a partial success***; you hit an enemy that counter attacks you, or you hit and something else bad happens. ***10+ is a full success***; you hit the enemy and avoid counter attacks.
+After you roll, choose one die to be your **Success Die**.  
 
-On a hit, the remaining die serves as damage. The attacker's weapon modifiers are added, while the enemy's armour rating is subtracted from the damage die, before applying it to the target's **Vigour**. When the damage die is a 6, the target must roll on the **Injury** table.
+- *1-3 is a failure with complications*: You fail and the challenge might reattribute.
+- *4-5 is a success with complications*: You accomplish your goal and apply your effect, but the challenge might retribute.
+- *6 is complete success*: You accomplish your goal without retribution.
+
+If you only have one die in your pool, this is your **Success Die**. If you have less than one die in your pool, roll two dice and take the lowest as your **Success Die**.
+
+After determining the **Success Die**, choose another die to be the **Effect Die**. The result shown is the effect (damage, progress in a task, etc.) to be applied to the challenge **Disposition** (hit points, morale, distance travelled, etc.). Once the disposition is matched, the challenge is overcome. If you have one or less dice in your pool and you don't fail, your effect result is always a "1".
+
+**Retribution** should be read as the highest of the Retribution dice.
+
+**Effect** and **Retribution** are exploding dice. Every time the result is a natural 6, re-roll and accumulate the result. Equipment and conditions may modify **Effect** and **Retribution** results. The modified result does not affect dice explosion - which is only when a natural 6 occur.
 
 ### Recovery
 
-The base rate of one recovered **Vigour** per day. If a PC does not have appropriate shelter, food or water, recovery is not possible. If someone is treating the PC, one additional Vigour is recovered per day upon a successful **Will** check. The check is **Against The Odds** it there are no appropriate supplies and equipment.
+**Vigour** recovers at the rate of one per day. If a PC does not have appropriate shelter, food or water, recovery is not possible. If someone is treating the PC, one additional Vigour is recovered per day upon a successful **Will** check.
+
+Players choose when to recover **Ego**. Each **Sepsis Infestation** taken recovers 10 **Ego**.
 
 # Equipment
 
+Use of equipment change your **Dice Pool**.
+
 ## Weapons and armour
 
-| Weapon        | Stat  | Damage  | Range         | Hands  | Notes                                                                                |
-| ------------- | ----- | ------- | ------------- | ------ | ------------------------------------------------------------------------------------ |
-| Improvised    | Brawl | 1d6     |               |        | Attacks are **Against the Odds**                                                     |
-| Light melee   | Wit   | 1d6     | Close         | 1      |                                                                                      |
-| Medium melee  | Brawl | 1d6     | Close         | 1 or 2 | If wielded with 2 hands, deals +1 damage                                             |
-| Heavy melee   | Brawl | 1d6 + 1 | Close         | 2      | Slaughter: Injury on 5 or 6                                                          |
-| Light ranged  | Wit   | 1d6     | Close or near | 1      |                                                                                      |
-| Medium ranged | Wit   | 1d6 + 1 | Near          | 2      | Slaughter: Injury on 5 or 6<br>Attacks are **Against the Odds** for different ranges |
-| Heavy ranged  | Wit   | 1d6 + 2 | Near or Far   | 2      | Slaughter: Injury on 5 or 6<br>Attacks are **Against the Odds** for different ranges |
+Weapons modify the **Dice Pool** and the order that results are read from the dice rolls.
 
-| Armour | Rating | Notes                                                              |
-| ------ | ------ | ------------------------------------------------------------------ |
-| Light  | 1      |                                                                    |
-| Heavy  | 2      | **Heavy**: **Against the Odds** to run, observe, sneak, swim, etc. |
-| Shield | +1     | Can be sacrificed to avoid a hit                                   |
+- Light melee: **+1d**, always act first.
+- Medium melee: **+1d**, if wielded two-hand **+1** to **Effect** die result.
+- Heavy melee: **+2d**, two-handed, always acts last.
+- Light ranged: **+1d**.
+- Medium ranged: **+2d**, if **Effect** die explodes all ammo is spent.
+- Heavy ranged: **+3d**, requires 1 round to aim.
+- Improvised: **+0d**, always acts last.
+
+Armour reduce damage taken by the **Retribution** die.
+
+- **Light**: **-1** to **Retribution** die result.
+- **Heavy**: **-2** to **Retribution** die result, -1d to run, observe, sneak, swim, etc.
+- **Shield**: **-1** to **Retribution** die result, can be sacrificed to completely avoid the **Retribution** die.
+
+# Appendices
+
+## Book references
+
+The following books are referenced in this directory.
+
+- **DEG**: Degenesis Rebirth (link to [download](https://degenesis.com/downloads/books/degenesis-rebirth-edition))
+	- **DEGPP** Primal Punk 
+	- **DEGKS** KatharSys 
+- **MMR** Metamorphica Revised (link to [view-only pdf](https://drive.google.com/open?id=1cCtMvrb1oJ2mssGv37M21AKMuPdntalV&usp=drive_fs) and [purchase](https://preview.drivethrurpg.com/en/product/198038/The-Metamorphica-Revised))
+
+## System inspiration
+
+Terra draws inspiration on **Best Left Buried** and **Trophy Dark** (and in all the games that inspired these two).
