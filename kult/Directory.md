@@ -19,6 +19,8 @@ This reference document is focused on playing **Kult: Divinity Lost** on the cha
 
 # System
 
+`terra-v0.0.0`
+
 **Best Left Buried** ([video review](https://www.youtube.com/watch?v=H3RFTmq4L1U)) emphasises a minimalist rule system designed to foster atmospheric horror and survival tension, prioritising player skill and strategic resource management over character abilities. The game stands out for its focus on the psychological impact of uncanny consequences, where the true enemy is often the fear and madness that comes from uncovering things that are, perhaps, **Best Left Buried**.
 
 ## Character creation
@@ -106,3 +108,5 @@ Gaining consequences work the same way the do on **BLB**. For thematic coherence
 For **Injuries**  
 - **3 on d6**: For any **Attribute** Loss, roll a d10 and count **Attributes** from top-left to bottom-right
 - **5 on d6**: For any penalty on checks, roll a d10 and count **Attributes** from top-left to bottom-right
+
+https://drive.google.com/drive/u/0/mobile/folders/1GlppM7QhqU4zE0bnV0K8miEV6Wqhot16?usp=sharing
