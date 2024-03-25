@@ -34,16 +34,15 @@ Para a criação de personagens basta definir os atributos (**Brawl**, **Wit**, 
 PCs start with: `+2` in one stat, `+1` to another and `+0` to the last.
 
 PCs have two resource pools: **Vigour** and **Grip**.
-- Max **Vigour** is 6 + **Fortitude**
-- Starting Grip is 4 + **Willpower**
+- Max **Vigour** is 6 + **Brawl**
+- Starting Grip is 4 + **Will**
 
 ## Advancements
 
 Memory Points (**MP**) são concedidos:
-- `+1` base point per session
+- `+3` base point per session
 - `+1` if your PC has faced a dangerous situation
-- `+1` if your PC succeeded in 1+ **Grip** checks
-- `+1` if your PC has raised or lowered one Relation
+
 ### Memos System
 ***Nibiru 112-113***
 
@@ -65,58 +64,19 @@ Os Influence Points do **NBR** serão substituídos pelo **Grip** do **BLB**.
 - Base rate of one recovered **Vigour** per day.
 - It a PC does not have appropriate shelter, food or water, recovery is not possible.
 - If someone is treating the PC, one additional Vigour is recovered per day upon a successful **Will** check. The check is **Against The Odds** it there are no appropriate supplies or equipment.
-### Relations
-
-The player characters have Relation values to all other PCs, in addition to some of the more important NPCs they encounter. The PCs gain Relations with NPCs when established during character creation or during the course of the story.
-
-Relation Strength:  
-- **Neutral (0)**: Applies to most relations. Acquaintances, friends, coworkers, and others you don’t have much in common with.
-- **Meaningful (1)**: Close friends, family members, romantic interests, beloved pets, personal mentor, guru.
-- **Vital (2)**: Passionate lovers, your own children, the only friend you have left, your ‘true love,’ an obsession, your soulmate.
-
-A Relation’s strength might be raised or lowered due to events occurring in play.
-
-Implicações:  
-- **Wish no harm**: If you intend on harming or killing your Relation, whether directly or indirectly, you must pass a **Will** check.
-- **Regain Grip**: In a scene where you experience closeness, assurance, and affirmation from a Relation, you can make a **Will** check. If successful, your **Grip** is improved a number equal to the strength of the Relation value. This cannot be repeated again in the same game month.
-- **Lose Grip**: If a Relation of yours is seriously injured, your must make a **Will** check. If unsuccessful, **Grip** is decreased a number equal to the strength of the Relation value. Double that number if the Relation dies.
-
-### Combate
-
-Distâncias:  
-- **Close**: distância de melee. Reach significa que a arma ataca mesmo atrás de outra pessoa.
-- **Near**: uma pequena sala.
-- **Far**: mais de 20 metros.
-- **Remote**: longe.
-
-Ataques com distância menor ou maior que o Range de cada arma é feito **Against The Odds**.
 
 ## Consequences
 ***Reference: Best Left Buried Zine 5***
 
 Gaining consequences work the same way the do on **BLB**. For thematic coherence, **Afflictions** might be chosen from the list of **Becoming Broken** from **NBR** 110.
 
-## Equipment list#
+## Equipment list
 
-### Weapons
-
-| Weapon       | Stat  | Damage | Range         | Hands  | Notes                    |
-| ------------ | ----- | ------ | ------------- | ------ | ------------------------ |
-| Improvised   | Brawl | 1d3    |               |        |                          |
-| Knife        | Wit   | 1d6    | Close         | 1      | Act first                |
-| Sword        | Brawl | 1d6    | Close         | 1 or 2 | 1H: act first; 2H +1 dmg |
-| Pistol       | Wit   | 1d6    | Close or near | 1      |                          |
-| Shotgun      | Wit   | 1d6+1  | Near          | 2      | Slaughter                |
-| Sledgehammer | Brawl | 1d6+1  | Close         | 2      | Slaughter                |
-| Spear        | Brawl | 1d6    | Close (reach) | 1      |                          |
-| Halberd      | Brawl | 1d6+1  | Close (reach) | 2      |                          |
 
 # Game applications and links
 
 - Videoconferência pelo Discord
 - Imagens e desenhos pelo chat do Discord, no [canal de voz](https://discord.com/channels/1060840338777964565/1203621181891018802).
 - Battle maps pelo [Owlbear Rodeo](https://www.owlbear.rodeo/room/v2Qv-R8VSF1R/Nibiru)
-- [Character sheet](https://drive.google.com/open?id=1gZOa5oMj2DRbGRbTCSxpB_Jm4CMlm1mQ&usp=drive_fs)
-	- Adicionar os atributos do BLB: Brawl, Wit, Will, e os calculados Vigour = 6+Brawl e Grip = 4+Will
 - Diretório com informações do jogo (esse arquivo)
-- Resumo das história no https://github.com/efsalvarenga/terraCampaigns_published/blob/main/nibiru/Abridged.md.
+- Resumo das história no [Abridged](https://github.com/efsalvarenga/terraCampaigns_published/blob/main/nibiru/Abridged.md).
