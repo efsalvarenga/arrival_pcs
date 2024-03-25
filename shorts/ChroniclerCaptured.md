@@ -1,28 +1,34 @@
 # Chronicler Captured
 
+> Using Terra v0.1.0
+
 This reference document is focused on playing a short adventure on the **Degenesis: Rebirth** setting on a homebrew system currently called **Terra**. This document is mostly self-contained. The Degenesis: Rebirth books (Primal Punk & Katharsys) add flavour to the setting (see appendices for reference links).
+
+## Taxonomy
+
+- "You" / "Your" are used interchangeably to refer to players and their characters. For disambiguation "The Player" is used when referring to the player outside the context of their character.
+- "Challenge" is used to represent anything that is antagonistic to you, be that an NPC, the environment, etc.
+- Meta game names, stats and currencies will be marked in **bold**.
+- Book references will be marked in *italic*, they might be accompanied by page ranges.
 
 
 # Context
 ***Reference: Defenesis Rebirth Primal Punk***
 
-[Chroniclers](https://youtu.be/8aZRkjvtaow?t=1070&si=oKga2q224Bxts8A-) are one of the cults in Degenesis. You are a member of this clan and, during a trade with a [Scavenger](https://youtu.be/8aZRkjvtaow?t=1505&si=rbZX7a_4gqETiMJq) in east [Borca](https://youtu.be/8aZRkjvtaow?t=385&si=6nA1LdZBrvom6fY9), you were captured. You wake up in a dark and humid room.
+[Chroniclers](https://youtu.be/8aZRkjvtaow?t=1070&si=oKga2q224Bxts8A-) are one of the cults in Degenesis. You are a member of this clan and, during a trade with a [Scavenger](https://youtu.be/8aZRkjvtaow?t=1505&si=rbZX7a_4gqETiMJq) in east [Borca](https://youtu.be/8aZRkjvtaow?t=385&si=6nA1LdZBrvom6fY9), you were captured. You wake up in a dark and humid room. See *DEGPP* for general details on the setting, and *DEGPP 160-173 for Chroniclers.*
 
 
 # System
 
-**Terra** is a rules light system focused on narrative, player agency and consequences. Only d6s are used, in two different colours.
+**Terra** is a rules light system focused on narrative, player agency and consequences. Only 6-sided dice are used, in two tones: **Light Dice** and **Dark Dice**.
 
 ## Character creation
 
-1. Always start with a **Name** and a **Concept** - see Concepts.
-2. Roll for **Attributes** (**Brawn**, **Wit** and **Will**) - see Attributes.
-3. Calculate **Vigour** and **Ego** - see Vigour and Ego.
-4. You are a **Chronicler**. Your initial skills are Crafting, Negotiation, Engineering, Artifact Lore and Deception.
-5. Based on your **Concept**, write down two additional skills you are good at.
-6. Choose one **Advancement** (See Character advancements below).
+1. Always start with a **Name** and a **Concept**.
+2. Roll for **Attributes**.
+3. Calculate **HP** (hit points) and **Ego**.
+4. Choose one **Advancement**.
 ### Concepts
-***Reference: Degenesis Rebirth Katharsys***
 
 ![](https://i.imgur.com/llst2Fo.png)
 
@@ -30,28 +36,28 @@ This reference document is focused on playing a short adventure on the **Degenes
 
 ![](https://i.imgur.com/m3VdTDL.png)
 
-![](https://i.imgur.com/PV3TkAe.png)
 ### Attributes
 
-PCs have three **Attributes**: **Brawn**, **Wit** and **Will**.
+ **Attributes** are grouped in **Body** and **Mind**. Each group has one attribute focused on **Power** and one focused on **Finesse**.
 
-- **Brawn** represents the character’s physical strength, endurance and vital force.
-- **Wit** represents a character’s physical, mental and social agility.
-- **Will** represents a character’s intellect and the power of their mind.
+- **Body/Power**: represents physical strength, endurance and might.
+- **Body/Finesse**: represents dexterity, precision and physical sagacity.
+- **Mind/Power**: represents mental force, willpower and personality heft.
+- **Mind/Finesse**: represents reasoning, understanding mental sagacity. 
 
-To determine their values, roll 1d6 for each, and consult the table below. After rolling, you can swap two values.
+To determine **Attribute** values, roll 1d for each, and consult the table below. After rolling, you might swap two values.
 
-| Roll           | 1-3 | 4-5 |  6  |
-| -------------- | :-: | :-: | :-: |
-| **Stat Value** |  1  |  2  |  3  |
+| Roll           |  1  | 2-3 | 4-5 |  6  |
+| -------------- | :-: | :-: | :-: | :-: |
+| **Stat Value** |  0  |  1  |  2  |  3  |
 
-Your **Attributes** define the initial size of your dice pool, **+1d** if you are using a relevant skill.
+Your **Attributes** define the initial size of your **Dice Pool** when you are doing something that you are capable of, and have appropriate the equipment.
 
-### Vigour and Ego
+### HP and Ego
 
-Your character has two measures of survival: **Vigour** and **Ego**.
+Your character has two measures of survival: **HP** (hit points) and **Ego**.
 
-**Vigour** is like other games’ hit points, and represents their health, disposition and fighting spirit. To determine your character's starting **Vigour**, take their **Brawn** and add 5.
+**HP** (hit points) represent their health, disposition and fighting spirit. To determine your character's starting **HP**, take their **Brawn** and add 5.
 
 **Ego** combines resolve, sanity and protection from Sepsis. It is spent to increase dice pools and used on character **Advancements**, and is depleted when facing psychologically damaging situations or infectious environments. To determine your character's starting **Ego**, take their **Will** and add 5.
 
@@ -82,11 +88,10 @@ Every time PCs accumulate 8 XP, they gain an advancement. Alongside an advanceme
 
 #### Injuries
 
-Anytime an **Effect** die would explode, players can choose to take an injury instead of taking further damage. Injuries can be defined with the GM. They should be permanent conditions.
+Players can choose to take an **Injury**, instead of an instance of **Retribution** anytime. Injuries are permanent conditions.
 
 - Loss of a body part: leg, arm or eye.
 - Loss of a random attribute
-- Take exploding die further damage to **Ego**, instead of **Vigour**.
 
 #### Sepsis infestation
 ***Reference: Metamorphica Revised***
@@ -121,17 +126,17 @@ After determining the **Success Die**, choose another die to be the **Effect Die
 
 **Effect** and **Retribution** are exploding dice. Every time the result is a natural 6, re-roll and accumulate the result. Equipment and conditions may modify **Effect** and **Retribution** results. The modified result does not affect dice explosion - which is only when a natural 6 occur.
 
-### Recovery
+### Dice pool size
 
-**Vigour** recovers at the rate of one per day. If a PC does not have appropriate shelter, food or water, recovery is not possible. If someone is treating the PC, one additional Vigour is recovered per day upon a successful **Will** check.
+The dice pool size is defined based on the attribute in use, and relevant skill. Take a number of dice equal to your character's attribute and **+1d** if a relevant skill is applicable. Conditions and equipment also modify the size of the dice pool. A generic guideline is given below.
 
-Players choose when to recover **Ego**. Each **Sepsis Infestation** taken recovers 10 **Ego**.
+|                  | Minor | Major |
+| ---------------- | :---: | :---: |
+| **Advantage**    |  +1d  |  +2d  |
+| **Disadvantage** |  -1d  |  -2d  |
 
-# Equipment
-
-Use of equipment change your **Dice Pool**.
-
-## Weapons and armour
+Weapons, and combat, might require more granular qualities.
+### Weapons and armour
 
 Weapons modify the **Dice Pool** and the order that results are read from the dice rolls.
 
@@ -148,6 +153,18 @@ Armour reduce damage taken by the **Retribution** die.
 - **Light**: **-1** to **Retribution** die result.
 - **Heavy**: **-2** to **Retribution** die result, -1d to run, observe, sneak, swim, etc.
 - **Shield**: **-1** to **Retribution** die result, can be sacrificed to completely avoid the **Retribution** die.
+### Harm, recovery and death
+
+When the **Retribution** your character receives is a direct physical hit, the character is harmed - and you reduce the **Retribution** result from **HP**. However, if the character was not in physical danger, if Retribution is equal or greater than Ego, reduce ego in one.
+
+Players always have a choice to avoid an entire instance of **HP** and **Ego** reduction by taking, respectively, an **Injury** or a **Sepsis Infestation**. These consequences are permanent.
+
+**HP** recovers at the rate of one per day. If a PC does not have appropriate shelter, food or water, recovery is not possible. If someone is treating the PC, one additional **HP** is recovered.
+
+Players choose when to recover **Ego**. Each **Sepsis Infestation** taken recovers 10 **Ego**.
+
+### Challenges
+
 
 # Appendices
 
@@ -155,11 +172,11 @@ Armour reduce damage taken by the **Retribution** die.
 
 The following books are referenced in this directory.
 
-- **DEG**: Degenesis Rebirth (link to [download](https://degenesis.com/downloads/books/degenesis-rebirth-edition))
-	- **DEGPP** Primal Punk 
-	- **DEGKS** KatharSys 
-- **MMR** Metamorphica Revised (link to [view-only pdf](https://drive.google.com/open?id=1cCtMvrb1oJ2mssGv37M21AKMuPdntalV&usp=drive_fs) and [purchase](https://preview.drivethrurpg.com/en/product/198038/The-Metamorphica-Revised))
+- *DEG*: Degenesis Rebirth (link to [download](https://degenesis.com/downloads/books/degenesis-rebirth-edition))
+	- *DEGPP* Primal Punk 
+	- *DEGKS* KatharSys 
+- *MMR* Metamorphica Revised (link to [view-only pdf](https://drive.google.com/open?id=1cCtMvrb1oJ2mssGv37M21AKMuPdntalV&usp=drive_fs) and [purchase](https://preview.drivethrurpg.com/en/product/198038/The-Metamorphica-Revised))
 
 ## System inspiration
 
-Terra draws inspiration on **Best Left Buried** and **Trophy Dark** (and in all the games that inspired these two).
+**Terra** draws inspiration on **Best Left Buried** ([Zine Edition](https://soulmuppet-store.co.uk/products/best-left-buried-zini-edition)) and **Trophy Dark** ([Trophy SRD](https://trophyrpg.com/system/)), as well as all the games that preceded these two.
