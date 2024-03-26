@@ -134,6 +134,7 @@ Body harm **Retributions** impacts your **HP**. The armour you wear might modify
 | Light       |          -1          |                                                              |
 | Heavy       |          -2          | Disadvantageous (**-1d**) to run, observe, sneak, swim, etc. |
 | Shield      |          -1          | Can be sacrificed to completely avoid the **Retribution**.   |
+
 Mind harm **Retributions** impacts your **Ego**. If the **Retribution Die** is equal or higher than your current **Ego**, subtract one from your current **Ego**. If your **Ego** reaches 0 you are lost somehow. With the GM determine how your last scene goes.
 
 ## Challenges
@@ -147,6 +148,7 @@ Mind harm **Retributions** impacts your **Ego**. If the **Retribution Die** is e
 | Serious         | 14          | **2d**           | Expert adversareis, predator, close contact with fire or acid   |
 | Formidable      | 21          | **3d**           | Human prime, apex predator, immersion in acid, large explosions |
 | Extreme         | 38          | **4d**           | Transhuman, often fatal environments                            |
+
 If multiple challenges gang up against you, increase the **Challenge Level** in one for each two additional challenges after the first.
 # Appendices
 
