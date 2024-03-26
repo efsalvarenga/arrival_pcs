@@ -1,42 +1,31 @@
 # Chronicler Captured
 
-> Using Terra v0.1.0
+This reference document is focused on playing a short adventure on the **Degenesis: Rebirth** setting on a homebrew system currently called **Terra**. This document is mostly self-contained. The "Degenesis: Rebirth" books (Primal Punk & KatharSys) add flavour to the setting (see appendices for reference links).
 
-This reference document is focused on playing a short adventure on the **Degenesis: Rebirth** setting on a homebrew system currently called **Terra**. This document is mostly self-contained. The Degenesis: Rebirth books (Primal Punk & Katharsys) add flavour to the setting (see appendices for reference links).
-
+**Terra** (`terra-v0.1.0`) is a rules light system focused on narrative, player agency and consequences. Only 6-sided dice are used, in two tones: **Light Dice** and **Dark Dice**.
 ## Taxonomy
 
-- "You" / "Your" are used interchangeably to refer to players and their characters. For disambiguation "The Player" is used when referring to the player outside the context of their character.
+- "You" and "Your" are used interchangeably to refer to players and their characters. For disambiguation "The Player" is used when referring to the player outside the context of their character.
 - "Challenge" is used to represent anything that is antagonistic to you, be that an NPC, the environment, etc.
-- Meta game names, stats and currencies will be marked in **bold**.
-- Book references will be marked in *italic*, they might be accompanied by page ranges.
-
-
+- Meta game names, stats and currencies are marked in **bold**.
+- Book references are marked in *italic*, they might be accompanied by page ranges.
 # Context
-***Reference: Defenesis Rebirth Primal Punk***
 
-[Chroniclers](https://youtu.be/8aZRkjvtaow?t=1070&si=oKga2q224Bxts8A-) are one of the cults in Degenesis. You are a member of this clan and, during a trade with a [Scavenger](https://youtu.be/8aZRkjvtaow?t=1505&si=rbZX7a_4gqETiMJq) in east [Borca](https://youtu.be/8aZRkjvtaow?t=385&si=6nA1LdZBrvom6fY9), you were captured. You wake up in a dark and humid room. See *DEGPP* for general details on the setting, and *DEGPP 160-173 for Chroniclers.*
-
-
-# System
-
-**Terra** is a rules light system focused on narrative, player agency and consequences. Only 6-sided dice are used, in two tones: **Light Dice** and **Dark Dice**.
-
-## Character creation
+[Chroniclers](https://youtu.be/8aZRkjvtaow?t=1070&si=oKga2q224Bxts8A-) are one of the cults in Degenesis. You are a member of this clan and, during a trade with a [Scavenger](https://youtu.be/8aZRkjvtaow?t=1505&si=rbZX7a_4gqETiMJq) in east [Borca](https://youtu.be/8aZRkjvtaow?t=385&si=6nA1LdZBrvom6fY9), you were captured. You wake up in a dark and humid room. See *DEGPP* for general details on the setting, and *DEGPP 160-173* for Chroniclers.
+# Character creation
 
 1. Always start with a **Name** and a **Concept**.
 2. Roll for **Attributes**.
 3. Calculate **HP** (hit points) and **Ego**.
 4. Choose one **Advancement**.
-### Concepts
+## Concepts
 
 ![](https://i.imgur.com/llst2Fo.png)
 
 ![](https://i.imgur.com/2FLU2dX.png)
 
 ![](https://i.imgur.com/m3VdTDL.png)
-
-### Attributes
+## Attributes
 
  **Attributes** are grouped in **Body** and **Mind**. Each group has one attribute focused on **Power** and one focused on **Finesse**.
 
@@ -45,7 +34,7 @@ This reference document is focused on playing a short adventure on the **Degenes
 - **Mind/Power**: represents mental force, willpower and personality heft.
 - **Mind/Finesse**: represents reasoning, understanding mental sagacity. 
 
-To determine **Attribute** values, roll 1d for each, and consult the table below. After rolling, you might swap two values.
+To determine **Attribute** values, roll 1d in order for each, and consult the table below. After rolling, you might swap two values.
 
 | Roll           |  1  | 2-3 | 4-5 |  6  |
 | -------------- | :-: | :-: | :-: | :-: |
@@ -53,119 +42,112 @@ To determine **Attribute** values, roll 1d for each, and consult the table below
 
 Your **Attributes** define the initial size of your **Dice Pool** when you are doing something that you are capable of, and have appropriate the equipment.
 
-### HP and Ego
+In certain conditions, you might lose **Attributes**. **Attribute** loss is permanent and when any attribute goes below 0 you are lost somehow.
+## HP and Ego
 
-Your character has two measures of survival: **HP** (hit points) and **Ego**.
+You have two measures of survival: **HP** (hit points) and **Ego**.
 
-**HP** (hit points) represent their health, disposition and fighting spirit. To determine your character's starting **HP**, take their **Brawn** and add 5.
+**HP** (hit points) represent your health, disposition and fighting spirit. You lose **HP** when you are physically hurt. To determine your starting maximum **HP**, sum your **Body Attributes** and add 3.
 
-**Ego** combines resolve, sanity and protection from Sepsis. It is spent to increase dice pools and used on character **Advancements**, and is depleted when facing psychologically damaging situations or infectious environments. To determine your character's starting **Ego**, take their **Will** and add 5.
+**Ego** combines willpower, sanity and humanity. It is spent to increase dice pools and used to fuel some character **Advancements**. **Ego** is depleted when facing stressful situations or infectious environments. To determine your character's starting maximum **Ego**, sum your **Mind Attributes** and add 3.
 
-## Character development
+The base rate of recovery is 1 **HP** per day. If you are being attended by someone, recover an addition **HP**. **Ego** does not recover with rest or care, but by taking a **Consequence**. When you take a **Consequence** your **Ego** recovers to its maximum.
+# Character development
 
-### Advancements
+## Advancements
 
-Every time PCs accumulate 8 XP, they gain an advancement. Alongside an advancement, a PC also gains +1 **Vigour** and +1 **Ego**.
-#### General advancements
+Every time PCs accumulate 8 XP, they gain an **Advancement**. Alongside an **Advancement**, a PC also gains +1 maximum **HP** and +1 maximum **Ego**.
+### General advancements
 
 - **Extra Attribute**: Gain +1 in one chosen **Attribute**. Limit is 2 in the first 10 advancements Limit is 3 thereafter.
-- **Extra Grip**: Gain +3 **Ego**.
+### Cult-specific advancements
 
-#### Cult-specific advancements
-
-**Chroniclers** (**DEGKS** 53)
+Chroniclers (*DEGKS 53*)
 
 ![](https://i.imgur.com/5PiOTYa.png)
 
-- **Tesla** : Spend 1 to 3 **Ego** and an action to make a **Will** based Attack. **+2d** for each **Ego** spent.
-- **Nova**: For 1 **Ego** and an action in combat, the PC fogs a number of creatures up to their **Will**. The next roll against these creatures are **+1d**.
+- **Tesla** : Spend 1 to 3 **Ego** and an action to make a **Mind/Power** based Attack. **+2d** for each **Ego** spent.
+- **Nova**: For 1 **Ego** and an action in combat, you fog a number of creatures up your **Mind/Power**. The next roll against these creatures are **+1d**.
 - **Dead End**: **+2d** when attacking an enemy who is unaware.
 - **Fractal Memory**: **+1d** on memory related actions.
 - **Download**: **+1d** when questioning a prisoner NPC.
 - **Upload**: **+1d** when trying to incept an idea on an NPC
+## Consequences
 
-### Consequences
-
-#### Injuries
-
-Players can choose to take an **Injury**, instead of an instance of **Retribution** anytime. Injuries are permanent conditions.
-
-- Loss of a body part: leg, arm or eye.
-- Loss of a random attribute
-
-#### Sepsis infestation
-***Reference: Metamorphica Revised***
-
-If your PC develops a sepsis infestation, roll 1d200 and consult **MMR** 146-147. 
+When you take a **Consequence**, recover your **Ego** back to its maximum. Roll 1d200 on *MMR 146-127* and work the narrative towards gaining the rolled **Consequence**, with the support of the GM.
 
 ![](https://i.imgur.com/pIznl0D.png)
 
 ![](https://i.imgur.com/5iTqcjB.png)
 
-## Rules
+# Rules
 
-### Rolling the dice
+## Rolling the dice
 
-*Whenever you try to overcome a challenge*, say what you intend to do and roll the **Dice Pool**.
+Every time you try to overcome a **Challenge**, you will roll your **Dice Pool**. The baseline number of **Light Dice** in your **Dice Pool** is your appropriate **Attribute** for the intended action. With the GM, determine which **Attribute** is it.
 
-- The player with the GM define what affects the **Dice Pool** size (attributes, skills, environment, conditions, etc.).
-- The GM defines if the challenge would retribute (fight back, accidents, etc.) and the the **Retribution** dice pool. Use dice of a colour different from the PC's dice pool.
-- The GM defines the challenge **Disposition**. Most simple challenges have a **Disposition** of 1. Complex or long challenges may have a higher value, defined by the GM.
+Your **Dice Pool** can also be modified in a number of ways:
 
-After you roll, choose one die to be your **Success Die**.  
+- If you are in an advantageous position, roll **+1d (Light)**. A major advantageous position might give you **+2d (Light)**.
+- If you are in an disadvantageous position, roll **-1d (Light)**. A major disadvantageous position might give you **-2d (Light)**.
+- Roll **+1d (Light)** for each **Ego** you expend in the action.
 
-- *1-3 is a failure with complications*: You fail and the challenge might reattribute.
-- *4-5 is a success with complications*: You accomplish your goal and apply your effect, but the challenge might retribute.
-- *6 is complete success*: You accomplish your goal without retribution.
+Your **Dice Pool** can have more than 4 **Light Dice**. If after adding and removing dice your **Dice Pool** is zero or lower, add **+1d (Dark)** to your **Dice Pool**.
 
-If you only have one die in your pool, this is your **Success Die**. If you have less than one die in your pool, roll two dice and take the lowest as your **Success Die**.
+The GM determines the **Challenge**, and add an appropriate number of **Dark Dice** to your **Dice Pool**.
 
-After determining the **Success Die**, choose another die to be the **Effect Die**. The result shown is the effect (damage, progress in a task, etc.) to be applied to the challenge **Disposition** (hit points, morale, distance travelled, etc.). Once the disposition is matched, the challenge is overcome. If you have one or less dice in your pool and you don't fail, your effect result is always a "1".
+After you roll, choose one **Light Die** to be your **Success Die** and one **Light Die** to be your **Effect Die**. If you only have one **Light Die** in your pool, this is your **Success Die**.
 
-**Retribution** should be read as the highest of the Retribution dice.
+If your **Success Die** is:
+
+- 1-3 you have failed, with complications: You fail and the challenge might **Retribute**.
+- 4-5 you have succeeded, with complications: You accomplish your goal and apply your effect, but the challenge might **Retribute**.
+- 6 you have completely succeeded: You accomplish your goal without retribution.
+
+Your **Effect Die** determines the effect of your action (damage, progress in a task, etc.). If you only have a **Success Die** (i.e. you rolled one single **Light Die**) your effect result is a "1".
+
+The highest **Dark Die** is the **Challenge**'s **Retribution**.
 
 **Effect** and **Retribution** are exploding dice. Every time the result is a natural 6, re-roll and accumulate the result. Equipment and conditions may modify **Effect** and **Retribution** results. The modified result does not affect dice explosion - which is only when a natural 6 occur.
 
-### Dice pool size
+## Effects
 
-The dice pool size is defined based on the attribute in use, and relevant skill. Take a number of dice equal to your character's attribute and **+1d** if a relevant skill is applicable. Conditions and equipment also modify the size of the dice pool. A generic guideline is given below.
+If you are in combat, different weapons modify the Effect Die in different ways. A few examples are:
 
-|                  | Minor | Major |
-| ---------------- | :---: | :---: |
-| **Advantage**    |  +1d  |  +2d  |
-| **Disadvantage** |  -1d  |  -2d  |
+| Weapon type   | Effect Die | Details                                                                                                      |
+| ------------- | :--------: | ------------------------------------------------------------------------------------------------------------ |
+| Light melee   |   **d3**   | Apply **Effects** before **Retributions**                                                                    |
+| Medium melee  | Unmodified | Effect die is read as **d6+1** when held with both hands                                                     |
+| Heavy melee   | Unmodified | Advantageous (**+1d**)<br>Apply **Retributions** before **Effects**<br>Two handed                            |
+| Light ranged  | Unmodified |                                                                                                              |
+| Medium ranged | Unmodified | Advantageous (**+1d**)<br>Expend all ammo when **Effect Die** explodes (one action to reload).<br>Two handed |
+| Heavy ranged  | Unmodified | Major advantageous (**+2d**)<br>Require one action to ready before every shot<br>Two handed                  |
+| Improvised    |     d3     | Disadvantageous (**-1d**)                                                                                    |
+## Retributions
 
-Weapons, and combat, might require more granular qualities.
-### Weapons and armour
+**Retributions** can be of two types: body harm or mind harm. 
 
-Weapons modify the **Dice Pool** and the order that results are read from the dice rolls.
+Body harm **Retributions** impacts your **HP**. The armour you wear might modify the **Retribution Die**. Subtract the modified **Retribution** from your **HP**. If your **HP** reaches 0 you lose one to a random **Attribute**. You are unconscious and wake up with 1 **HP** after the scene ends. **Attribute** loss is permanent and when any attribute goes below 0 you die.
 
-- Light melee: **+1d**, always act first.
-- Medium melee: **+1d**, if wielded two-hand **+1** to **Effect** die result.
-- Heavy melee: **+2d**, two-handed, always acts last.
-- Light ranged: **+1d**.
-- Medium ranged: **+2d**, if **Effect** die explodes all ammo is spent.
-- Heavy ranged: **+3d**, requires 1 round to aim.
-- Improvised: **+0d**, always acts last.
+| Armour type | Retribution modifier | Details                                                      |
+| ----------- | :------------------: | ------------------------------------------------------------ |
+| Light       |          -1          |                                                              |
+| Heavy       |          -2          | Disadvantageous (**-1d**) to run, observe, sneak, swim, etc. |
+| Shield      |          -1          | Can be sacrificed to completely avoid the **Retribution**.   |
+Mind harm **Retributions** impacts your **Ego**. If the **Retribution Die** is equal or higher than your current **Ego**, subtract one from your current **Ego**. If your **Ego** reaches 0 you are lost somehow. With the GM determine how your last scene goes.
 
-Armour reduce damage taken by the **Retribution** die.
+## Challenges
 
-- **Light**: **-1** to **Retribution** die result.
-- **Heavy**: **-2** to **Retribution** die result, -1d to run, observe, sneak, swim, etc.
-- **Shield**: **-1** to **Retribution** die result, can be sacrificed to completely avoid the **Retribution** die.
-### Harm, recovery and death
+**Challenges** can be a fighting enemy, a rhetoric duel, an environment, etc. **Challenges** don't have **HP** or **Ego**. A generic measure of **Disposition** is used to determine how much **Effort** it takes to overcome a **Challenge**. Armours do not modify **Effects** applied to a **Challenge's Disposition**. Depending on the **Challenge**, more **Dark Dice** might be added to the **Dice Pool**.
 
-When the **Retribution** your character receives is a direct physical hit, the character is harmed - and you reduce the **Retribution** result from **HP**. However, if the character was not in physical danger, if Retribution is equal or greater than Ego, reduce ego in one.
-
-Players always have a choice to avoid an entire instance of **HP** and **Ego** reduction by taking, respectively, an **Injury** or a **Sepsis Infestation**. These consequences are permanent.
-
-**HP** recovers at the rate of one per day. If a PC does not have appropriate shelter, food or water, recovery is not possible. If someone is treating the PC, one additional **HP** is recovered.
-
-Players choose when to recover **Ego**. Each **Sepsis Infestation** taken recovers 10 **Ego**.
-
-### Challenges
-
-
+| Challenge Level | Disposition | Retribution Dice | Examples                                                        |
+| --------------- | ----------- | ---------------- | --------------------------------------------------------------- |
+| Trivial         | 1           | **d3**           | Unskilled adversaries, low height falls                         |
+| Dangerous       | 7           | **1d**           | Skilled adversaries, small explosions                           |
+| Serious         | 14          | **2d**           | Expert adversareis, predator, close contact with fire or acid   |
+| Formidable      | 21          | **3d**           | Human prime, apex predator, immersion in acid, large explosions |
+| Extreme         | 38          | **4d**           | Transhuman, often fatal environments                            |
+If multiple challenges gang up against you, increase the **Challenge Level** in one for each two additional challenges after the first.
 # Appendices
 
 ## Book references
@@ -177,6 +159,15 @@ The following books are referenced in this directory.
 	- *DEGKS* KatharSys 
 - *MMR* Metamorphica Revised (link to [view-only pdf](https://drive.google.com/open?id=1cCtMvrb1oJ2mssGv37M21AKMuPdntalV&usp=drive_fs) and [purchase](https://preview.drivethrurpg.com/en/product/198038/The-Metamorphica-Revised))
 
-## System inspiration
+## Copyright
 
 **Terra** draws inspiration on **Best Left Buried** ([Zine Edition](https://soulmuppet-store.co.uk/products/best-left-buried-zini-edition)) and **Trophy Dark** ([Trophy SRD](https://trophyrpg.com/system/)), as well as all the games that preceded these two.
+
+_This work is based on [Trophy](https://trophyrpg.com/), product of Jesse Ross and Hedgemaze Press, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). Trophy is adapted from Cthulhu Dark with permission of Graham Walmsley. Trophy is also based on [Blades in the Dark](http://www.bladesinthedark.com/), product of One Seven Design, developed and authored by John Harper, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/)._
+
+_Trophy™ is a trademark of Hedgemaze Press. The trademark and “Rooted in Trophy” Logo are © Hedgemaze Press, and are used with permission._
+
+![](https://i.imgur.com/Dc8H3RU.png)
+
+*This work also draws inspiration on the [Best Left Buried Zine Edition](https://soulmuppet-store.co.uk/products/best-left-buried-zini-edition) (as well as any games that inspired it).*
+
