@@ -2,7 +2,7 @@
 
 This reference document is focused on playing a short adventure on the **Degenesis: Rebirth** setting on a homebrew system currently called **Terra**. This document is mostly self-contained. The "Degenesis: Rebirth" books (Primal Punk & KatharSys) add flavour to the setting (see appendices for reference links).
 
-**Terra** (`terra-v0.1.0`) is a rules light system focused on narrative, player agency and consequences. Only 6-sided dice are used, in two tones: **Light Dice** and **Dark Dice**.
+**Terra** (`terra-v0.1.1`) is a rules light system focused on narrative, player agency and consequences. Only 6-sided dice are used, in two tones: **Light Dice** and **Dark Dice**.
 ## Taxonomy
 
 - "You" and "Your" are used interchangeably to refer to players and their characters. For disambiguation "The Player" is used when referring to the player outside the context of their character.
@@ -27,16 +27,16 @@ This reference document is focused on playing a short adventure on the **Degenes
 ![](https://i.imgur.com/m3VdTDL.png)
 ## Attributes
 
- **Attributes** are grouped in **Body** and **Mind**. Each group has one attribute focused on **Power** and one focused on **Finesse**.
+ **Attributes** are grouped in **Body** or **Mind** and **Power** or **Finesse**.
 
 - **Body/Power**: represents physical strength, endurance and might.
 - **Body/Finesse**: represents dexterity, precision and physical sagacity.
 - **Mind/Power**: represents mental force, willpower and personality heft.
-- **Mind/Finesse**: represents reasoning, understanding mental sagacity. 
+- **Mind/Finesse**: represents reasoning, understanding and mental sagacity. 
 
-To determine **Attribute** values, roll 1d in order for each, and consult the table below. After rolling, you might swap two values.
+To determine **Attribute** values, roll 1d for each, and consult the table below. After rolling, you may swap two values.
 
-| Roll           |  1  | 2-3 | 4-5 |  6  |
+| Attribute Roll |  1  | 2-3 | 4-5 |  6  |
 | -------------- | :-: | :-: | :-: | :-: |
 | **Stat Value** |  0  |  1  |  2  |  3  |
 
@@ -47,7 +47,7 @@ In certain conditions, you might lose **Attributes**. **Attribute** loss is perm
 
 You have two measures of survival: **HP** (hit points) and **Ego**.
 
-**HP** (hit points) represent your health, disposition and fighting spirit. You lose **HP** when you are physically hurt. To determine your starting maximum **HP**, sum your **Body Attributes** and add 3.
+**HP** (hit points) represent your health, disposition and fighting spirit. You lose **HP** when you are physically harmed. To determine your starting maximum **HP**, sum your **Body Attributes** and add 3.
 
 **Ego** combines willpower, sanity and humanity. It is spent to increase dice pools and used to fuel some character **Advancements**. **Ego** is depleted when facing stressful situations or infectious environments. To determine your character's starting maximum **Ego**, sum your **Mind Attributes** and add 3.
 
@@ -84,15 +84,15 @@ When you take a **Consequence**, recover your **Ego** back to its maximum. Roll 
 
 ## Rolling the dice
 
-Every time you try to overcome a **Challenge**, you will roll your **Dice Pool**. The baseline number of **Light Dice** in your **Dice Pool** is your appropriate **Attribute** for the intended action. With the GM, determine which **Attribute** is it.
+Every time you try to overcome a **Challenge**, you will roll your **Dice Pool**. The baseline number of **Light Dice** in your **Dice Pool** is your appropriate **Attribute** for the intended action. With the GM, determine which **Attribute** it is.
 
-Your **Dice Pool** can also be modified in a number of ways:
+Your **Dice Pool** can be modified in a number of ways:
 
 - If you are in an advantageous position, roll **+1d (Light)**. A major advantageous position might give you **+2d (Light)**.
 - If you are in an disadvantageous position, roll **-1d (Light)**. A major disadvantageous position might give you **-2d (Light)**.
 - Roll **+1d (Light)** for each **Ego** you expend in the action.
 
-Your **Dice Pool** can have more than 4 **Light Dice**. If after adding and removing dice your **Dice Pool** is zero or lower, add **+1d (Dark)** to your **Dice Pool**.
+Your **Dice Pool** can never have more than 4 **Light Dice**. If after adding and removing dice your **Dice Pool** is zero or lower, add **+1d (Dark)** to your **Dice Pool**.
 
 The GM determines the **Challenge**, and add an appropriate number of **Dark Dice** to your **Dice Pool**.
 
@@ -102,11 +102,11 @@ If your **Success Die** is:
 
 - 1-3 you have failed, with complications: You fail and the challenge might **Retribute**.
 - 4-5 you have succeeded, with complications: You accomplish your goal and apply your effect, but the challenge might **Retribute**.
-- 6 you have completely succeeded: You accomplish your goal without retribution.
+- 6 you have completely succeeded: You accomplish your goal without **Retribution**.
 
 Your **Effect Die** determines the effect of your action (damage, progress in a task, etc.). If you only have a **Success Die** (i.e. you rolled one single **Light Die**) your effect result is a "1".
 
-The highest **Dark Die** is the **Challenge**'s **Retribution**.
+The highest **Dark Die** is the **Challenge Retribution**.
 
 **Effect** and **Retribution** are exploding dice. Every time the result is a natural 6, re-roll and accumulate the result. Equipment and conditions may modify **Effect** and **Retribution** results. The modified result does not affect dice explosion - which is only when a natural 6 occur.
 
@@ -122,10 +122,10 @@ If you are in combat, different weapons modify the Effect Die in different ways.
 | Light ranged  | Unmodified |                                                                                                              |
 | Medium ranged | Unmodified | Advantageous (**+1d**)<br>Expend all ammo when **Effect Die** explodes (one action to reload).<br>Two handed |
 | Heavy ranged  | Unmodified | Major advantageous (**+2d**)<br>Require one action to ready before every shot<br>Two handed                  |
-| Improvised    |     d3     | Disadvantageous (**-1d**)                                                                                    |
+| Improvised    |   **d3**   | Disadvantageous (**-1d**)                                                                                    |
 ## Retributions
 
-**Retributions** can be of two types: body harm or mind harm. 
+**Retributions** can be of three types: body harm, mind harm or **Challenge** fork.
 
 Body harm **Retributions** impacts your **HP**. The armour you wear might modify the **Retribution Die**. Subtract the modified **Retribution** from your **HP**. If your **HP** reaches 0 you lose one to a random **Attribute**. You are unconscious and wake up with 1 **HP** after the scene ends. **Attribute** loss is permanent and when any attribute goes below 0 you die.
 
@@ -137,19 +137,27 @@ Body harm **Retributions** impacts your **HP**. The armour you wear might modify
 
 Mind harm **Retributions** impacts your **Ego**. If the **Retribution Die** is equal or higher than your current **Ego**, subtract one from your current **Ego**. If your **Ego** reaches 0 you are lost somehow. With the GM determine how your last scene goes.
 
+**Challenge** fork **Retributions** are spawn from within an ongoing Challenge. They might be an encounter, an unexpected detour or some unlucky event. Consult the **Challenge** fork table.
+
+| Retribution Roll   |    1    |    2-3    |   4-5   |     6      |
+| ------------------ | :-----: | :-------: | :-----: | :--------: |
+| **Challenge** fork | Trivial | Dangerous | Serious | Formidable |
+
 ## Challenges
 
 **Challenges** can be a fighting enemy, a rhetoric duel, an environment, etc. **Challenges** don't have **HP** or **Ego**. A generic measure of **Disposition** is used to determine how much **Effort** it takes to overcome a **Challenge**. Armours do not modify **Effects** applied to a **Challenge's Disposition**. Depending on the **Challenge**, more **Dark Dice** might be added to the **Dice Pool**.
 
-| Challenge Level | Disposition | Retribution Dice | Examples                                                        |
-| --------------- | ----------- | ---------------- | --------------------------------------------------------------- |
-| Trivial         | 1           | **d3**           | Unskilled adversaries, low height falls                         |
-| Dangerous       | 7           | **1d**           | Skilled adversaries, small explosions                           |
-| Serious         | 14          | **2d**           | Expert adversareis, predator, close contact with fire or acid   |
-| Formidable      | 21          | **3d**           | Human prime, apex predator, immersion in acid, large explosions |
-| Extreme         | 38          | **4d**           | Transhuman, often fatal environments                            |
+| Challenge Level | Disposition | Retribution Dice | Examples                                                              |
+| --------------- | ----------- | ---------------- | --------------------------------------------------------------------- |
+| Trivial         | 1           | **d3**           | Unskilled adversaries, low height climb, known journey                |
+| Dangerous       | 5           | **1d**           | Skilled adversaries, small explosions, troublesome journey            |
+| Serious         | 10          | **2d**           | Expert adversareis, predator, close contact with fire or acid         |
+| Formidable      | 15          | **3d**           | Human prime, apex predator, immersion in acid, large explosions       |
+| Extreme         | 20          | **4d**           | Transhuman, often fatal environments, most difficult journey possible |
 
 If multiple challenges gang up against you, increase the **Challenge Level** in one for each two additional challenges after the first.
+
+Some challenges might be multifaceted. A bulky rival might be a Dangerous **Challenge** to fight against, but a Trivial **Challenge** to be convinced to ignore you.
 # Appendices
 
 ## Book references
@@ -162,8 +170,6 @@ The following books are referenced in this directory.
 - *MMR* Metamorphica Revised (link to [view-only pdf](https://drive.google.com/open?id=1cCtMvrb1oJ2mssGv37M21AKMuPdntalV&usp=drive_fs) and [purchase](https://preview.drivethrurpg.com/en/product/198038/The-Metamorphica-Revised))
 
 ## Copyright
-
-**Terra** draws inspiration on **Best Left Buried** ([Zine Edition](https://soulmuppet-store.co.uk/products/best-left-buried-zini-edition)) and **Trophy Dark** ([Trophy SRD](https://trophyrpg.com/system/)), as well as all the games that preceded these two.
 
 _This work is based on [Trophy](https://trophyrpg.com/), product of Jesse Ross and Hedgemaze Press, and licensed for our use under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). Trophy is adapted from Cthulhu Dark with permission of Graham Walmsley. Trophy is also based on [Blades in the Dark](http://www.bladesinthedark.com/), product of One Seven Design, developed and authored by John Harper, and licensed for our use under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/)._
 
