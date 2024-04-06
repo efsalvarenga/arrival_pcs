@@ -442,7 +442,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 - Surroundings (and their underground) are camps and villages of Anaks and humans allied.
 - The location terrible place, with a terrible smell.
 - The champions are offered twice dead sandwich, which they learn is made of the bodies of undead they hunt in the ruins. More tasty, and also less frequent, is the once dead sandwich, made with the bodies of dead friends and enemies.
-- An anak sergeant finds it wrong that the champions are so deep into the camp, without being part of their army. He suggest he will have to deal with the situation but [guilf](../pcs/guilf.md), using his command ring, convinces him to bring the champions to prompt.
+- An anak sergeant finds it wrong that the champions are so deep into the camp, without being part of their army. He suggest he will have to deal with the situation but [guilf](../pcs/guilf.md), using his command ring, convinces him to bring the champions to Prompt.
 - The Inner Forge is the technology city where the commanding Anaks live amongst constructs.
 - Prompt explains that for the champions to be trusted and speak with [Loquiroth](../npcs/Loquiroth.md), they will need to complete one mission. They walk together to the mission backlog in a screen and see
 	- Retrieve the Supraxae found by Anaks and bring it here
@@ -457,3 +457,34 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 ![|400](https://i.imgur.com/HwUqtc9.png)
 
 The Glasrath champions decide to retrieve the Supraxae.
+
+## Chapter 25: The Night Road
+
+**Removing Rings**
+- The Glasrath Champions visit the factory levels of the Forge.
+- They meet the dwarf forge master and Dolman decides to remove his ring for the second time. This time Dolman looses his entire finger - stuck into the ring.
+- They decide to camp close to the Anaks, and Amyria uses a ritual to remove the curse of the ring attached to her finger. She is able to remove the ring without hurting herself.
+
+**The Night Road**
+- As the Champions travel to the location of the fallen Supraxae, Amyria reads the Book of Knowledge. She learns that destroyed realities might be recoverable if they haven't crossed a destruction threshold.
+- Amyria also knows that realities that are not recoverable can still have its broken pocket dimensions connected to each other, with what is called Night Roads. No further explanation on what these Roads are was found at that moment.
+- During one of the nights, [Thirteen](../npcs/Thirteen.md) talks through another dream, where he seems to be playing with the words Forgetfulness and Forgiveness.
+- On this same night, during Amyria's watch, she sees a dark corridor where there was only a wall before.
+- Dolman and Guilf initially do not see the corridor, but eventually was able to also see it.
+- The group decides to walk into the dark corridor, which seems to be a dark bridge across a chasm of nothing. As they walk in, for about a day, they start to become anxious that it is not leading anywhere. As they move back, they walk back further than they thought they walked forward. They feel lost.
+- Guilf screams, calling the Ngar'tho to show themselves. As he does it a storm of screams engulfs the party, filled with the anguished screams of those who died here. Navigating for hours through the storm tests the party's endurance and sanity.
+- On a next attempt, Guilf decides to drink the tea, they still had with them, which previously showed them truth in Holzander's Castle. As he does it, he starts seen Mr. Void again, and in a heated conversation with his patron god, he untangles himself from Mr. Void - throwing his dark mask in the chasm's void.
+- The party has been in the bridge for weeks now, their resolve is tested. Their sanity on knife edge.
+- As they slowly continue they meet a man, a nightmare man, from Thirteen's dreams, [Balhannoth](../npcs/Balhannoth.md).
+- The nightmare man explain they are lost in a Night Road now. Thirteen runs for the man, who has promised him forgetfulness and forgiveness in his dreams. Dolman holds Thirteen, but suddenly sees [Gaelira](../npcs/Gaelira.md) lying on the floor, close to his feet. Dolman immediately let go of Thirteen, who now runs for Balhannoth.
+- Guilf, still wearing his ring, shouts a command to Thirteen "Stop!". Thirteen falls unconscious on the floor.
+- It is unclear how it starts, but the Champions find themselves engulfed in a fight with Balhannoth and his tentacles. In a fast series of blows Balhannoth is destroyed.
+
+![|400](https://i.imgur.com/5OqQX4F.png)
+
+**The end of a Nightmare**
+- After Balhannoth is gone, the champions continue to walk through the night.
+- Dolman puts the stone he inherited from his mother, on Gaelira's hands. A few minutes later she miraculously wakes up. In the next days she explains all that she has been through - the multiple tortures in Holzander's Castle, her lost Paragon Force and falling on the mind torment by Ngar'tho, Imortra and the Mercians.
+- Amyria, praying for Mystra everynight, is listened to. It is Mystra who opens a door in the Night Road for the champions to get back to the ruins.
+
+![](https://i.imgur.com/EVbMMnB.png)
