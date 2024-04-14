@@ -483,8 +483,40 @@ The Glasrath champions decide to retrieve the Supraxae.
 ![|400](https://i.imgur.com/5OqQX4F.png)
 
 **The end of a Nightmare**
-- After Balhannoth is gone, the champions continue to walk through the night.
+- After Balhannoth is gone, the champions continue to walk through the night. The [BookOfKnowledge](../../arrival/objects/BookOfKnowledge.md) lost its powers.
 - Dolman puts the stone he inherited from his mother, on Gaelira's hands. A few minutes later she miraculously wakes up. In the next days she explains all that she has been through - the multiple tortures in Holzander's Castle, her lost Paragon Force and falling on the mind torment by Ngar'tho, Imortra and the Mercians.
 - Amyria, praying for Mystra everynight, is listened to. It is Mystra who opens a door in the Night Road for the champions to get back to the ruins.
 
 ![](https://i.imgur.com/EVbMMnB.png)
+
+## Chapter 26: The Drakvarden
+
+**Mystra opened a door to [templeMystra](../locations/templeMystra.md)**
+- New cleric lead the temple: Nimro
+- [Gaelira](../npcs/Gaelira.md) will be treated by the clerics of Mystra
+- Scouts relate that a force of 12 tents of FFKA is coming in the temple's direction (100 knights)
+- The champions prepare a dozen of people in the temple who can potentially fight in a battle, if necessary.
+
+**5 FFKA tents arrive, lead by Sir [ElricVaelor](../npcs/ElricVaelor.md)**
+- The other 8 tents are not seen.
+- The champions meet with Sir Elric, and learn that the FFKA has partnered with the Angels. Then Angels are led by Golab.
+- Sir Elric is here to investigate how this temple has survived the battles in the region, and wants access. The champions are not giving them passage, and a battle is expected on the next morning.
+- As they leave the meeting location, the champions hear a loud grunt of suffering from within the camp.
+
+![](https://i.imgur.com/jQ307if.png)
+
+**The Gate**
+- In general, the clerics in the temple are bullish that the protective barrier will continue to protect them. They do make some arrangements to protect the ones who can not fight, and devise a escape route.
+- In the next morning, as the FFKA advances, a dark-painted and gold-adorned dwarf comes in front, pulling chains and ropes.
+- This dwarf painfully transmutes into a black dragon just in front of the protection barrier, and with its hands it is able to break the barrier.
+- A fight starts between the Champions and their fighters against the sole dragon. The FFKA still waits where they were. The chains continue to be laid between the dragon and the FFKA, in catenary while the dragon flies.
+- The dragon quickly kill all the fighters in the temple, while Guilf is tossed by Dolman with a Congealed Paradox. He crushes the stone, and the dragon's gold adorns and chains immediately fall and break.
+- For a split second, it seemed that the dragon would stop his carnage, but it does not.
+
+![](https://i.imgur.com/dQyoQM4.png)
+
+
+**The Retreat**
+- The champions guide the survivors, with the help of [Thirteen](../npcs/Thirteen.md) to walk the ruined tunnels towards Glasrath.
+- With Dolma's ring, they go through earth and investigate where the chains connected to, and it seems to be some kind of catapult basket.
+- The champions meet the survivors again en route to Glasrath and they continue.
