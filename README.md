@@ -106,12 +106,15 @@ gitGraph:
 - In **Humanity**'s thirst for power, Sorcerer-Kings invaded the **Truth**, splintered and stole Celestial Engines to power their Made Gods.
 - Without the Celestial Engines, the **Veil** faltered and the decadent **Legacy** deteriorated further. **Uncreation** started.
 
+
+https://www.reddit.com/r/SWN/s/3c8MutOVQV
+
 ## Current Campaigns
 
 ### Hostile
 > **Post-Modern Age | Spike Drive Expansion (2225 CE) | Near Earth Zone**  
 > **Style**: Blue collar, gritty sci fi horror  
-> **Sources**: SWN, Hostile (and expansions), Hard Light  
+> **Sources**: SWN, Hostile, Hard Light  
 > Played in 2023  
 
 Valuable alien RNA is found in a debris field in the Perdurabo system. Tharsis Mining hires a crew to prospect the icy rocks and evaluate the commerciality of exploiting the RNA resource.
@@ -119,12 +122,12 @@ Valuable alien RNA is found in a debris field in the Perdurabo system. Tharsis M
 ### Nibiru
 > **Post-Modern Age | Post Scream Isolated Sectors | Formahault**  
 > **Style**: Techno Fantasy  
-> **Sources**: Nibiru, BLB Zines, WWN, CWN  
+> **Sources**: Nibiru, BLB Zines  
 
 ### BenooedeNova
 > **Post-Modern Age | Post Scream Isolated Sectors (3234 CE) | Near Earth Zone**  
 > **Style**: Space Opera  
-> **Sources**: SWN, Hard Light  
+> **Sources**: SWN, Hard Light, Offworlders  
 > Played in 2023  
 
 Alien tombs are found in the Hard Light system.
@@ -190,3 +193,4 @@ In the heart of the 19th-century Ottoman Empire lies the enigmatic Istanbul. A t
 | Modern         | 3      | 5-7        | Modern, Atomic, Information |
 | Future         | 4      | 8+         | Future                      |
 | Post-future    | 5      | 15+        |                             |
+June 4th virus: neon leviathan The weight. For the stream on cyberpunk and degenesis games.

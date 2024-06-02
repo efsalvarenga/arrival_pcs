@@ -33,7 +33,7 @@
 ![](https://i.imgur.com/LMB8NgN.png)
 
 - Com medo, o grupo tenta não enfrentar o inseto, movendo-se para outro lado nos túneis.
-- Eles encontram o Coletor, que explica que esses insetos São perigosos.
+- Eles encontram o Coletor, que explica que esses insetos são perigosos.
 - Num ato de bravura, o grupo afugenta o animal arremessando pedras e gritando.
 - Após explorar mais um pouco, o grupo volta a sala do coletor, e oferecem os dedos que Conan tinha retirado do cadáver que encontraram há algumas horas. O Coletor fica satisfeito e entrega mais corda, um gancho e um pé-de-cabra para o grupo.
 - O grupo finalmente encontra um local com água, e bebem desesperadamente. Percebem que também têm muita fome, e recuperam o cadáver de um dos lobos que tinham encontrado anteriormente. Usando o gancho, seus dentes e unhas, eles comem a carne do lobo.
