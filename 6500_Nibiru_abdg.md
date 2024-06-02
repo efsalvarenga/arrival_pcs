@@ -1,4 +1,4 @@
-# Prelude: The Gauntlet
+## Prelude: The Gauntlet
 
 - Os Vagabonds acordam.
 - Eles estão em um local escuro e úmido.

@@ -2,6 +2,7 @@ bookdown::gitbook:
   css: assets/style.css
   config:
     toc:
+      collapse: section
       before: |
         <li class="toc-logo"><a href="./"><img src="imgs/TerraCampaignsCover.png"></a></li>
       after: |

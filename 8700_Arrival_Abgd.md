@@ -1,9 +1,6 @@
-# Arrival
-***Arrival: A tale of wretched heroes in a broken world***
+# Arrival's Kiss from the Dark
 
-## Arrival's Kiss from the dark
-
-### Chapter 1 No options outside
+## Chapter 1 No options outside
 
 A group of strangers, who had all arrived in Watheton for different reasons, found themselves in the local tavern, sharing drinks and stories. There was Guilf, a rugged bard with a quick wit; Miraak, an outcast dragonborn soldier; Kethra a young sorcerer with a mysterious past; Fuko a drow wizard from the Ghost Domain; and Dolman, a brave dwarven scout eager to prove himself. As they chatted, they heard of a large-scale attack of golden dragons in the south, causing widespread panic and chaos. The city of Watheton had no choice but to organise a mass evacuation to the nearby [Tolfoddund mines](realms.md#Tolfonddundhesm).
 
@@ -11,7 +8,7 @@ The group quickly offered to assist the Watheton leaders in ensuring safe passag
 
 ![](https://i.imgur.com/UQEH8lj.png)
 
-### Chapter 2 The Glasrath alliance
+## Chapter 2 The Glasrath alliance
 
 As the group emerged from the Intermine, they found themselves on the outskirts of the [Nargun](realms.md#Nargunhesm) stronghold. The dwarves, who had been battling undead attackers for years, welcomed them with open arms. Over the next few weeks, many other people came to the mines seeking protection. Populations and armies from the cities to the south of Watheton, as well as drows from the Ghost Domain, arrived seeking shelter.
 
@@ -23,23 +20,23 @@ With the clock ticking down and the undead army approaching, the group worked ti
 
 ![](https://i.imgur.com/VahnrSv.png)
 
-### Chapter 3 Battle from Ammuinoth
+## Chapter 3 Battle from Ammuinoth
 
 The Glasrath Alliance now faces a horde of undead marching from the [Ammuinoth](realms.md#Ammuinoth). The battle starts, and three clashes happen in the mines. Miraak is killed, but was lucky enough to be close to Ghuse who starts a long ritual to resurrect him. Fuko also falls in battle, but she is unlucky to sink in the lake, only to be found too late. In the end, the alliance is victorious, but not without many casualties - including the wyrmling gold dragon that was freed by the Glasrath Defenders (the name given to Miraak, Guilf, Kethra, Dolman, and the now deceased Fuko). Access to the city of Khatdzig is established again. The group is celebrated as heroes, and their names are forever etched in the history of these mines. They have faced insurmountable odds and emerged victorious, proving that even in the darkest of times, there is still hope.
 
 ![](https://i.imgur.com/8cZ7CSJ.png)
 
 
-## Arrival's Darkness deepens
+# Arrival's Darkness Deepens
 
-### Chapter 4 Going to Holzander
+## Chapter 4 Going to Holzander
 ***3877.4E, spring***
 
 A new party member joins the Glasrath Defenders - a dust elf cleric of [Mystra](religions.md#Mystra). With the goal of investigating the disappearance of the Gaelire Beikae, the Shield of Beauty, and her Paragon Force - which supposedly came to the Holzander burnt castle 10 years ago - the Glasrath Defenders went into the [Ammuinoth](realms.md#Ammuinoth). In the Castle of Bells they've met Weldon, a very pleasant werebear and then, in the Ardismouth Temple, they fought Tekerluth (who told them she was pregnant from Miraak). Due to combat injuries they decided to look for an exit towards the desert again. The Defenders reached Mystra's temple in the north desert, where they learned of other forces in play. One of them is a strange and powerful power within the Holzander castle. A second one is the religious and military organisation known as the Faithful Faletist Knights of the Arch (FFKA), which burned the Holzander castle 110 years ago, and apparently have some influence on the cities on the surface in the region.
 
 ![](https://i.imgur.com/0SFRF2o.png)
 
-### Chapter 5 A breath from the desert
+## Chapter 5 A breath from the desert
 ***3877.5A, summer***
 
 The Glasrath Defenders marched through the desolate landscape of Ammuinoth, their path illuminated only by the dim light of the Ghost Domain. As they approached the Holzander castle, they encountered a Ghost Rider, a cursed creature never before seen in the mortal. The Defenders clashed with the beast, their weapons and spells piercing its ethereal form.
@@ -50,7 +47,7 @@ As they searched for a way inside, they discovered a hole in the underkeep that 
 
 ![](https://i.imgur.com/SIVF88s.png)
 
-### Chapter 6 The torturer of Holzander
+## Chapter 6 The torturer of Holzander
 ***3877.5B, summer***
 
 The Glasrath Defenders entered the first level of Holzander's castle, and saw psychotic scenes of torture and death. They met the responsible for them - a torturer known as the Gaoler - who threw in disturbing comments about having tortured Gaelira and killed the Paragon Force. The defenders decided it was too much of it and went on to kill the Gaoler - who had support from animated torture equipment and zombies. The battle that followed was challenging and some of the defenders were significantly hit. Especially Miraak who, during combat, realised he was not really brought back to life by Ghuse, but has been reanimated as an intelligent undead.
@@ -63,7 +60,7 @@ In this first level, several monuments existed: a frog statue of a long lost dei
 
 ![](https://i.imgur.com/LWn8FZ1.png)
 
-### Chapter 7 The Void claim
+## Chapter 7 The Void claim
 ***3877.5B, summer***
 
 After a much-needed rest, the defenders huddled together in a dimly lit cell, sharing their knowledge and plans. Amidst the whispers, Ushulx, Durgan, Red Hart, and Ichbon discussed the animosity between Algath and Charon, two deities from the Deadecho. They also revealed the presence of other formidable residents in the castle, such as Cagoth-ze, a master of time magic, Danaska, an expert in oozes, and the powerful beings Imortra and Gellert. Ushulx expressed her eagerness to locate Avrindt, the Creep, a red dragon rumoured to have transformed into a death dragon. Meanwhile, Ichbon shared his quest to find a long-lost elven library that may hold knowledge about the Lady Scurvy disease.
@@ -74,7 +71,7 @@ As the party deliberated their next steps, they noticed a clockwork servant skul
 
 ![](https://i.imgur.com/SleRiLY.png)
 
-### Chapter 8 First sight of Lady Scurvy
+## Chapter 8 First sight of Lady Scurvy
 ***3877.5B3, summer***
 
 With their strength waning and their wounds still fresh, the band of weary heroes embarked on a treacherous journey towards the revered temple of Mystra, their priorities aligned with rejuvenation and restoration. As they traversed the Ammuinoth, their footsteps weighed heavily while caring their wounded. It was during this perilous expedition that their eyes fell upon a grotesque sight—a creature, contorted and abominable, crawling with malevolence along the ceiling. Ichbon recognised the fiendish being as an unfortunate victim infected by the accursed Lady Scurvy disease. Miraak, ever vigilant, discerned disturbing similarities between the creature's combat tactics and the vile vampire spawns employed by the armies of D'Elsin during the savage southern war. A battle ensued, arduous and fraught with peril, but it culminated in a final, decisive blow dealt by Kethra.
@@ -85,7 +82,7 @@ Rested, they headed to Gimorkoc, facing a rare thunderstorm. The storm, as abrup
 
 ![](https://i.imgur.com/XQExAKj.png)
 
-### Chapter 9 The Rurkinar ritual
+## Chapter 9 The Rurkinar ritual
 **3877.5F6, summer**
 
 The valiant champions pursued Guilf's enigmatic mother. Yet, as they delved deeper into the unfathomable abyss of her powers, their fortitude waned, and their resolute spirits trembled. Guilf's mother possessed an indomitable mastery of Theurgy, a formidable force that unleashed abominations that sent shivers crawling along their spines, freezing their very souls.
@@ -98,7 +95,7 @@ With the dawning of the morrow came the arrival of General Sergarus—a figurehe
 
 ![](https://i.imgur.com/qKKz6RW.png)
 
-### Chapter 10 Desert road
+## Chapter 10 Desert road
 ***3877.6A6, autumn***
 
 The party became aware that the Faithful Faletist Knights of the Arch (FFKA) marked them as a group consisting of two adults, two children, and one old brute - an unconventional combination that added an air of mystery to their reputation.  As the heroes delved deeper into the mysteries of the land, they discovered that the thunderstorms in the region of Linhe had grown increasingly frequent and perilous. Prayers to Rurkinar, the Brown Eagle god, had fallen upon deaf ears, leaving the land vulnerable to the raging storms that now wreaked havoc upon the countryside. This disquieting revelation hinted at a growing imbalance in the forces that governed the realm.
@@ -115,7 +112,7 @@ As they navigated the Temple of Remains, they unraveled its past purpose - a pri
 
 ![](https://i.imgur.com/URnVs1k.png)
 
-### Chapter 11 Aivridyt's past
+## Chapter 11 Aivridyt's past
 ***3877.6B4, autumn***
 
 In the grim depths of the Temple of Remains, the group of broken heroes came to a startling realisation - the tumultuous skirmish they had ignited upon their arrival had awoken other malevolent entities that lurked within the ancient halls dedicated to the death goddess.  No sooner had the group taken a defensive stance than they found themselves cornered by two Blessed Dead Adepts, abominations that wielded an unholy mastery over the forces of death. These dark necromancers were accompanied by their grotesque minions, the slave husks—twisted, pitiful figures bound to their malevolent will. The direst of all was the zombie clot, a monstrous amalgamation of hundreds of decaying bodies, writhing and pulsating with an insatiable hunger for flesh. Desperation filled the air as the group fought fiercely against their relentless adversaries. In the midst of the chaotic battle, Kethra, once again facing the clutches of death, found herself almost consumed by the ravenous corpses. Salvation came in the form of Guilf, whose quick thinking conjured a shroud of magical darkness, enveloping the battlefield and granting Kethra a slim chance of escape.
@@ -130,7 +127,7 @@ Reluctantly leaving the enigmatic statue behind, the group pressed on, their sen
 
 ![](https://i.imgur.com/tnoPs6z.png)
 
-### *Dramatis Personae*: Aivridyt, the Creep {-}
+## *Dramatis Personae*: Aivridyt, the Creep
 ***Also known as: The Purple Evil, Ghuse, Grezar and other names***
 
 In the shadowed annals of time, Aivridyt, once a small and ferocious female red dragon known as the Creep, ruled with a malevolence that sent shivers coursing through the Naragzah mountains. This fearsome creature, driven by a sinister curiosity, delved ever deeper into the labyrinthine caverns that lay beneath, venturing into the sacred mines of the two dwarven clans that called those depths their domain. The encounters with the Creep became a recurring nightmare for the Tolfoddund and Nargun warriors, who suffered greatly at her wrathful claws. It was in the year 3856 NC, amidst the blood-soaked peaks of the mountains, that an alliance was forged between the battered clans. United, they struck a grievous blow, leaving Aivridyt wounded and retreating into the dark recesses below.
@@ -143,7 +140,7 @@ In her insatiable hunger for power, Aivridyt, assuming the guise of Ghuse, a hum
 
 ![](https://i.imgur.com/fOycPBy.png)
 
-### *Interlude*: A dream of Makab {-}
+## *Interlude*: A dream of Makab
 
 In the depths of their wearied minds, some of the Glasrath defenders share a nightmare, one that plagued their restless slumber. This nightmarish vision transported them to an ancient temple shrouded in the mists of the sea - a place of forgotten rituals and unspeakable horrors.
 
@@ -157,7 +154,7 @@ With despair gnawing at their hearts, the remaining defenders made a fateful dec
 
 ![](https://i.imgur.com/3lmaRpV.png)
 
-### Chapter 12 Finding Holzander once more
+## Chapter 12 Finding Holzander once more
 
 In the shadowed enclave of Durnum, the broken Glasrath defenders sought refuge among the stoic dwarves, their journey fraught with despair and uncertainty. Amyria, ever the beacon of compassion, extended a benevolent hand to the famine-stricken dwarves. Her words promised respite from the relentless Dust Elf traders who, under the merciless rule of Neeleu, demanded burdensome tributes. As the heroes conversed with Glorizerlug Chaosfoot, the dwarven elder revealed the secrets of Durnum's origins. The mining enclave had been hewn from the very bedrock of an ancient construction shaft, a subterranean passageway that linked to the tunnels of Ammuinoth.
 
@@ -173,7 +170,7 @@ Now, within the ominous embrace of Holzander Castle, the broken heroes stood at 
 
 ![](https://i.imgur.com/ljUCKNS.jpg)
 
-### Chapter 13 The Ancient Elven Library
+## Chapter 13 The Ancient Elven Library
 
 In the labyrinthine depths of Holzander Castle, the broken heroes found themselves enmeshed in a web of arcane intrigue. Danaska, the scholarly seeker of forbidden knowledge, had a request—a sinister task she desired accomplished. She wished for Cagoth-Ze, a master of time manipulation and a rival scholar, to be removed from the equation. The heroes, their spirits burdened by the enigma of the castle, were hesitant to oblige. Their path diverged, leading them to Cagoth-Ze's chamber, where they learned of the mage's own desire to eliminate Danaska. Once again, the group declined the call to violence.
 
@@ -191,7 +188,7 @@ Dolman, Guilf, and Amyria were resolute in their quest to rescue Galiera from th
 
 ![](https://i.imgur.com/UKMAPLE.jpg)
 
-### Chapters 14 & 15: The Deepfolk
+## Chapters 14 & 15: The Deepfolk
 
 In the shadowed depths of Holzander Castle, the Glasrath champions pressed forward into the foreboding third level, their path fraught with peril and uncertainty. Before they embarked on this treacherous journey, Cagoth-Ze, the time arcanist, bestowed upon them an unexpected gift—an ancient construct known as Brilhorte 3000. Cagoth-Ze explained that Brilhorte 3000 had been a steadfast guardian in his own trials and tribulations, a stalwart companion to guide them through the labyrinthine darkness of the castle. The heroes welcomed their new mechanical ally with gratitude and camaraderie, their party now augmented by this enigmatic presence.
 
@@ -217,7 +214,7 @@ Amyria, Dolman, and Guilf resolved to protect the commoners on their path to Eya
 
 ![](https://i.imgur.com/EwEUhjU.jpg)
 
-### Chapter 16: Madness in Eyaram
+## Chapter 16: Madness in Eyaram
 
 In the ever-twisting labyrinth of their perilous journey, the beleaguered Glasrath champions found themselves ensnared in yet another malevolent embrace, their battle-worn bodies craving only the respite of the Fort City of Eyaram. But it was not to be so simple, for even in the supposed stronghold city, the tendrils of an insidious presence reached out to bind their minds. The city's twisted streets, warped by hallucinations spawned from the darkest corners of the unknown, unfolded before them. Deja vu gripped their thoughts like the gnarled fingers of some eldritch puppeteer, and the very angles of construction defied the laws of reason. Laughter, high-pitched and maddening, echoed through the alleys, sung by spectral children who should never exist.
 
@@ -233,7 +230,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![](https://i.imgur.com/tkXdXWi.png)
 
-### Chapter 17 & 18 Mothers
+## Chapter 17 & 18 Mothers
 
 - In the first night of their travel, the Glasrath champions encounter another infected Lady Scurvy. They are powerful now and quickly kill the creature.
 - After some investigation, they learn that the infection is of an alien origin, where one parasite creature is attached to the neck of a rather normal ghoul. This specific creature, seemed controlled by some kind of desire to consume others, but entertained the construction of some kind of altar until the broken heroes found it and destroyed it. The altar contained a stone with the names of Kimbarak and Ethux'zhurh, related to some kind of ancient dark ritual.
@@ -257,7 +254,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![](https://i.imgur.com/DoTN0KJ.png)
 
-### Chapter 19 The Nightmare River
+## Chapter 19 The Nightmare River
 
 - The broken heroes debated a plan: go deeper in the [holzanderCastle](../../arrival/locations/holzanderCastle.md), find Gellert and kill him. After that they will think on how to destroy the artefacts in the castle.
 - With true sight teas in a canteen, they venture into the abyss of a nightmare.
@@ -281,7 +278,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![](https://i.imgur.com/KfUQvyO.png)
 
-### Chapter 20 Waking Up
+## Chapter 20 Waking Up
 
 - After resting for what felt like years, Amyria, Guilf and Dolman decide to leave Gellert's dwelling with a plan to rescue [Gaelira](../../arrival/npcs/Gaelira.md). They are older and look dirtier and meaner. Guilf is now an adult. They seem more and more under the control of their ancestral spirits: Kimbarak, The Void and Thalia - and that scared the group.
 - Before they leave, [Gellert](../../arrival/npcs/Gellert.md) pays his part of the agreement and hands over three powerful rings: Ring of Earth, Ring of Sun and Ring of Command.
@@ -300,8 +297,8 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![](https://i.imgur.com/2ShVTlA.png)
 
-## Arrival's Wars
-### Chapter 21 Underground Travel
+# Arrival's Wars
+## Chapter 21 Underground Travel
 
 - As the party camps for the first night of travel, Brilhorte wakes up. But this time the robot is different - stronger, larger and darker. A few minutes later a swarm of Evourec's attack the Glasrath Champions. The fight is easy, unlike comprehending how and why these creatures of water are moving around in the desert.
 - On the next day the group walks fast, and reach the broken statue of The Void again. This time Guilf shows little excitement with it.
@@ -316,7 +313,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![](https://i.imgur.com/yFXeZ5j.png)
 
-### Chapter 22: Mystra's Temple
+## Chapter 22: Mystra's Temple
 
 **Parley with Prompt**
 - **Prompt** and his [turnskull](../factions/turnskull.md) ice constructs unit find themselves in the desert after a tremor.
@@ -369,7 +366,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![](https://i.imgur.com/8cZ7CSJ.png)
 
-### Chapter 23: Ghuse
+## Chapter 23: Ghuse
 
 **Parlay with Ghuse ([aivridyt](../npcs/aivridyt.md))**
 - Ghuse explains that he has killed the champions' friends: Miraak, Kethra, Gulthas and Weldon. And they work as mindless machines in his industry.
@@ -410,7 +407,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![|400](https://i.imgur.com/Axsw6qj.png)
 
-### Chapter 24: Arriving at The Forge
+## Chapter 24: Arriving at The Forge
 
 **Meet Bravhar, the annealing dragon**
 - [Bravhar](../npcs/Bravhar.md), the wyrmling golden dragon that perished in the Battle from the Ammouinoth three decades ago, is now ressurected.
@@ -459,7 +456,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 The Glasrath champions decide to retrieve the Supraxae.
 
-### Chapter 25: The Night Road
+## Chapter 25: The Night Road
 
 **Removing Rings**
 - The Glasrath Champions visit the factory levels of the Forge.
@@ -490,7 +487,7 @@ The Glasrath champions decide to retrieve the Supraxae.
 
 ![](https://i.imgur.com/EVbMMnB.png)
 
-### Chapter 26: The Drakvarden
+## Chapter 26: The Drakvarden
 
 **Mystra opened a door to [templeMystra](../locations/templeMystra.md)**
 - New cleric lead the temple: Nimro
@@ -521,4 +518,3 @@ The Glasrath champions decide to retrieve the Supraxae.
 - The champions guide the survivors, with the help of [Thirteen](../npcs/Thirteen.md) to walk the ruined tunnels towards Glasrath.
 - With Dolma's ring, they go through earth and investigate where the chains connected to, and it seems to be some kind of catapult basket.
 - The champions meet the survivors again en route to Glasrath and they continue.
-

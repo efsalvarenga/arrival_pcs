@@ -1,7 +1,7 @@
 book_filename: 'terraCampaigns'
 language:
   ui:
-    chapter_name:  'Section '
+    chapter_name:  'Spacetime '
 delete_merged_file: true
 output_dir: docs
 new_session: true
@@ -11,5 +11,8 @@ rmd_files:
 - 0010_intro.md
 - 5000_DEG.md
 - 5010_Kiev_Context.md
+- 6000_SID.md
+- 6500_Nibiru_dir.md
+- 6500_Nibiru_abdg.md
 - 8000_LATTER.md
 - 8700_Arrival_Abgd.md

@@ -1,7 +1,8 @@
 to-kievs-southwest
 the-vostok-kin
 key-figures
-arrival
+nibiru
+prelude-the-gauntlet
 arrivals-kiss-from-the-dark
 chapter-1-no-options-outside
 chapter-2-the-glasrath-alliance
@@ -15,6 +16,8 @@ chapter-8-first-sight-of-lady-scurvy
 chapter-9-the-rurkinar-ritual
 chapter-10-desert-road
 chapter-11-aivridyts-past
+dramatis-personae-aivridyt-the-creep
+interlude-a-dream-of-makab
 chapter-12-finding-holzander-once-more
 chapter-13-the-ancient-elven-library
 chapters-14-15-the-deepfolk
