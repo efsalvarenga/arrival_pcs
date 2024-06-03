@@ -1,6 +1,4 @@
-# Abridged
-
-## Prelude
+## Prelude {-}
 
 Advanced alien ruins were found in 2223 in the Perdurabo system. An ice sample was bought by Tharsis' Parkfield Biolabs, which contained RNA that can be used to cure early dementia caused by frequent faster than light travel. The RNA named Neuroplasticity Augmentor Sequence (NAS-RNA), however, the RNA cannot be easily replicated in laboratory. For this reason, the discovery was not made public yet, and Tharsis has been moving fast to evaluate the feasibility to establish an ice mine in the system.
 
@@ -8,7 +6,7 @@ If proven feasible, the existence of the Brightside Mining Station in the system
 
 Perdurabo is a system blazing with the murderous light of a red giant star. The hard-bitten miners of the Brightside Mining Station maintain the only outpost of civilisation in a system filled with lethal light and stellar outlaws. Ancient asteroid sky tombs lie in the vicinity while a seething rebellion boils beneath Brightside Station's steel skin.
 
-### Contract
+### Contract {-}
 
 **Contract signed with Tharsis Mining General Manager for Ice Exploration John McLeod.**
 
@@ -61,7 +59,7 @@ Ship must dock for life support supplies every 6 weeks (max life support is 2 mo
 
 Session 0 starts at the mission kick off meeting, in Earth's largest starport in French Guiana.
 
-### Perdurian Frostbreaker
+### Perdurian Frostbreaker {-}
 
 ```
 Certificate of Flight
@@ -97,11 +95,11 @@ Date: September 20, 2225
 
 ![](https://i.imgur.com/MRdCXz0.png)
 
-### Perdurabo
+### Perdurabo {-}
 
 ![](https://i.imgur.com/RLOfasI.png)
 
-### The Doomborgs
+### The Doomborgs {-}
 
 ![](https://i.imgur.com/k8eNLl0.png)
 
@@ -111,7 +109,7 @@ On the next day they finally meet with John McLeod, and preparations for the tra
 
 ![](https://i.imgur.com/ir2ixFW.png)
 
-## Chapter 01 The Frostbreaker
+## The Frostbreaker
 
 - The Doomborgs crew arrives in Brightside. Brightside is a space mining station owned by [Haruna](https://i.imgur.com/xla77J1.png), part of the [Matsuyama](https://i.imgur.com/VY7zssZ.png) group.
 - The crew meets a few of the faces on the station and take a space raft to their own ship, which is stationary close by Brightside.
@@ -134,7 +132,7 @@ On the next day they finally meet with John McLeod, and preparations for the tra
 
 ![](https://i.imgur.com/IgINh43.png)
 
-## Chapter 02 The Cold Tomb
+## The Cold Tomb
 
 - The Doomborgs crew arrive in the Cold Tomb. The structure was built in an ice chunk in one of the asteroids in the Perdurabo system.
 - The ship is docked in the entrance of the tomb, and Olaf and Oliver suit up and are ready in the air lock. Through a scan they know that beyond the tomb entrance door the environment is filled with icy water.
@@ -152,7 +150,7 @@ On the next day they finally meet with John McLeod, and preparations for the tra
 
 ![](https://i.imgur.com/agivvC9.png)
 
-## Chapter 03 Defiance and Back
+## Defiance and Back
 
 - The Doomborgs crew travel to the neighbour system: the Teegarden's Star. During the spike drill, Bennet used the time to execute a biopsy on one of the crab creatures that infested the starship previously. The doctor was very unlucky when a splash of acid hits his eyes, blinding him.
 - Upon arriving on Teegarden's Star, the captain makes contact with the system control and gets redirected to the Tharsis Mining office on the [Defiance](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe/planet/UBzrpfVGWXxJZq6C9ndC). A shuttle picks the crew from orbit and a truck and a car takes them and the corpse to the corporation estate.
@@ -168,7 +166,7 @@ On the next day they finally meet with John McLeod, and preparations for the tra
 - Then, suddenly, while being playful with the new drone, MadSpark cause an accident and an oxygen leak in the Brutomaker. The two crews start running, but most of The Boxer's crew was further in the aft of the starship, and are lost to space with everything in that part of the ship when it explodes.
 - Bennet and MadSpark are safe in the Frostbreaker, while Oni, Olaf and Sabaka - together with TheBoxer and his engineer and the hostages - are safe in the Leadbelly.
 
-## Chapter 04 MadSpark perishes
+## MadSpark perishes
 
 
 - [TheBoxer](../npcs/TheBoxer.md) is **pissed off but also afraid**: *Were them send by the [ico](../factions/ico.md)? Are they here to kill us?! Who sent you? Who fucking sent you??!!*
@@ -203,7 +201,7 @@ On the next day they finally meet with John McLeod, and preparations for the tra
 - The crew takes the Frostbreaker to [BrightsideStation](../locations/BrightsideStation.md). An afraid [YashDutta](../npcs/YashDutta.md) greets them, and allow them to refuel, but not to enter the station.
 - [Oni](../pcs/Oni.md) skilfully uninstall the lead panels from the[Frostbreaker](../objects/Frostbreaker.md), so they can land the ship in [Defiance](../locations/Defiance.md) to drop the Boxer.
 
-## Chapter 05: The Boxer's box
+## The Boxer's box
 
 - The Doomborgs took their time and evaluated all the options to unload [TheBoxer](../npcs/TheBoxer.md) into Defiance.
 - They decide that putting The Boxer in a large box is the best alternative.
@@ -229,7 +227,7 @@ On the next day they finally meet with John McLeod, and preparations for the tra
 
 ![|400](https://i.imgur.com/GfAeVZ7.png)
 
-## Chapter 06: Start of Dutta's fall
+## Start of Dutta's fall
 
 - The Doomborgs receive a **new contract** that voids the exploration framework of the previous contract, but maintain taking down the directorship of [BrightsideStation](../locations/BrightsideStation.md)
 	- The crew will be paid C5k for each Hull cargo space full of unrefined mRNA-rich ice. This value is doubled if the ice is refined.
@@ -263,7 +261,7 @@ On the next day they finally meet with John McLeod, and preparations for the tra
 - Upon arrival on Brightside, Danny is rushed into the infirmary. Olaf speaks with the doctor, [SuyinIndrani](../npcs/SuyinIndrani.md), who supports Dutta and thinks Lomax has poisoned the director. She also shares that Lomax is not liked by his own employees.
 - The personnel on the station start to go about quickly now, as the bank's transport is arriving. Lomax is ready to share what he knows.
 
-## Chapter 07: Chaos in Brightside
+## Chaos in Brightside
 
 **Arrival of Sabaka**
 - The banker transport arrives and, while they wait and prepare to disembark, a burnt escape pod also arrives in the station.
