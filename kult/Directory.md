@@ -100,6 +100,14 @@ Any action executed by a PC that has no reason to have ability with it, is rolle
 
 As per **KDL** 135. Interpret **Grip** as Stability, and require a Will check in all 3 cases. **Grip** gain is only possible once per game month.
 
+Relations
+
+| Relation | Mortally Wounded                                             | Death                                                           |
+| -------- | ------------------------------------------------------------ | --------------------------------------------------------------- |
+| **1**    | **Mental Save** with advantage, or develop an **Affliction** | **Mental Save**, or develop an **Affliction**                   |
+| **2**    | **Mental Save**, or develop an **Affliction**                | **Mental Save** with disadvantage, or develop an **Affliction** |
+
+
 ## Consequences
 ***Reference: Best Left Buried Zine 5***
 
