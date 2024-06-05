@@ -109,7 +109,6 @@ When PCs are **Mortally Wounded**, they gain an injury. When their **Frailty** i
 ### Game applications and links {-}
 
 - Owlbear Rodeo [Hostile](https://www.owlbear.rodeo/room/9EODf1G37IDr/Hostile)
-- Abridged [Hostile](https://github.com/efsalvarenga/terraCampaigns_published/blob/main/hostile/abridged.md)
 - Sector [Map](https://sectorswithoutnumber.com/sector/E9FKrPjS8tsRmoryYMpe)
 - [ECS Starbounder Frostbreaker GSV-112578](https://www.swnfreebooter.net/starshipShare/DOefjLYWNp812UH0Tqic)
-- [Miro for sharing images and drawings](https://miro.com/welcomeonboard/bjZPcHNLV3Z6NVMwN2JyaDR1U0Rrc2VOZnM1bTJnSjFPVG9BT3lNUDVrOE1EdVpCU2ZoMjZLZ3BrUGs5WFdhbnwzNDU4NzY0NTQ0OTA2ODU2MjgyfDI=?share_link_id=827183981565)
+- Discord
