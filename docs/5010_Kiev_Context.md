@@ -1,6 +1,10 @@
 # To Kiev's Southwest
 
-You are members of the hunter-gatherer clan known as the Vostok Kin, deeply connected to your land and traditions. Over the past decade, the relentless advance of the spore fields from the east of Pollen has placed your ancestral homeland in grave danger. The once plentiful taiga and tundra have become battlegrounds, threatened not only by the deadly spores but also by the encroaching Ironclaw Horde, led by the fearsome warlord Kargan the Bloodthirsty. The Lesnje, the whispering guardians of the woods, have grown increasingly aggressive, tipping the natural balance into chaos.
+You are members of the hunter-gatherer clan known as the Vostok Kin, deeply connected to your land and traditions. Over the past decade, the relentless advance of the spore fields from the east of Pollen has placed your ancestral homeland in grave danger. The once plentiful taiga and tundra have become battlegrounds, threatened not only by the deadly spores but also by the encroaching Ironclaw Horde, led by the fearsome warlord Kargan the Bloodthirsty.
+
+![](https://i.imgur.com/ASdDRAT.png)
+
+The Lesnje, the whispering guardians of the woods, have grown increasingly aggressive, tipping the natural balance into chaos.
 
 ![](https://i.imgur.com/2CzntVF.png)
 
@@ -19,3 +23,7 @@ Following a brutal Ironclaw raid that resulted in the abduction of five Vostok w
 | Spirituality        | They worship a pantheon of nature spirits, each associated with different aspects of their environment, such as whispers, weather and animals.                                                                                                                                                                       |
 | Rites of Passage    | Important milestones in a Vostok Kin's life are marked by elaborate ceremonies that often involve tests of skill and endurance. Includes the Rite of the Transcend Spore, when **Primer** Spores are consumed ritualistically.                                                                                       |
 | Conflict Resolution | Disputes are settled through council meetings where elders mediate and seek the wisdom of the spirits.                                                                                                                                                                                                               |
+
+## Scouts departure
+
+Summary to be added after first session.
