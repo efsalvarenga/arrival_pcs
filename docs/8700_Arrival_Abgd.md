@@ -298,6 +298,9 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 ![](https://i.imgur.com/2ShVTlA.png)
 
 # Arrival's Wars
+
+![](https://api2.inkarnate.com/api/embedScenes/MRKljv/previewImage)
+
 ## Chapter 21 Underground Travel
 
 - As the party camps for the first night of travel, Brilhorte wakes up. But this time the robot is different - stronger, larger and darker. A few minutes later a swarm of Evourec's attack the Glasrath Champions. The fight is easy, unlike comprehending how and why these creatures of water are moving around in the desert.

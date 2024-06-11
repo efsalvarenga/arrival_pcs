@@ -1,4 +1,4 @@
-# To Kiev's Southwest
+# To Kiev's South
 
 You are members of the hunter-gatherer clan known as the Vostok Kin, deeply connected to your land and traditions. Over the past decade, the relentless advance of the spore fields from the east of Pollen has placed your ancestral homeland in grave danger. The once plentiful taiga and tundra have become battlegrounds, threatened not only by the deadly spores but also by the encroaching Ironclaw Horde, led by the fearsome warlord Kargan the Bloodthirsty.
 
@@ -8,12 +8,13 @@ The Lesnje, the whispering guardians of the woods, have grown increasingly aggre
 
 ![](https://i.imgur.com/2CzntVF.png)
 
-Following a brutal Ironclaw raid that resulted in the abduction of five Vostok women, Elder Mirova calls for a council. The clan’s shamans, led by Yelena the Seer, have had disturbing visions of a cataclysmic future. The council places its hope in a perilous journey to find a new homeland. Rumours speak of a valley southwest of the ruins of Kiev where the Taiga is strong and rivers are clean. You have been chosen to be scouts on this endeavour, tasked with mapping the path to this promised land, seeking alliances with other clans and tribes along the way.
+Following a brutal Ironclaw raid that resulted in the abduction of five Vostok women, Elder Mirova calls for a council. The clan’s shamans, led by Yelena the Seer, have had disturbing visions of a cataclysmic future. The council places its hope in a perilous journey to find a new homeland. Rumours speak of a valley South of the ruins of Kiev where the Taiga is strong and rivers are clean. You have been chosen to be scouts on this endeavour, tasked with mapping the path to this promised land, seeking alliances with other clans and tribes along the way.
 
-![](https://api2.inkarnate.com/api/embedScenes/pgzAev/previewImage)
+![](https://i.imgur.com/DOYCtS7.png)
 
+But before the scouts departure, the tribe needs to make sure the Ironclaw does not pose significant threat to the remaining clanners. The first mission is to identify the Ironclaw's hiding place, and gather with the other scouts 4 days later.
 
-![](https://i.imgur.com/1t8KbCs.png)
+![](https://i.imgur.com/dKoSOmv.png)
 
 **The Vostok Kin**
 
@@ -32,4 +33,10 @@ Following a brutal Ironclaw raid that resulted in the abduction of five Vostok w
 Summary to be added after first session.
 
 ## Current map {-}
+
+![](https://api2.inkarnate.com/api/embedScenes/pgzAev/previewImage)
+
+
+
+
 
