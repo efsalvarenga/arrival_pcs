@@ -8,7 +8,10 @@ The Lesnje, the whispering guardians of the woods, have grown increasingly aggre
 
 ![](https://i.imgur.com/2CzntVF.png)
 
-Following a brutal Ironclaw raid that resulted in the abduction of five Vostok women, Elder Mirova calls for a council. The clan’s shamans, led by Yelena the Seer, have had disturbing visions of a cataclysmic future. The council places its hope in a perilous journey to find a new homeland. Rumours speak of a valley southwest of the ruins of Kiev where the Taiga is strong. You have been chosen to be scouts on this endeavour, tasked with mapping the path to this promised land and seeking alliances with other clans and tribes along the way.
+Following a brutal Ironclaw raid that resulted in the abduction of five Vostok women, Elder Mirova calls for a council. The clan’s shamans, led by Yelena the Seer, have had disturbing visions of a cataclysmic future. The council places its hope in a perilous journey to find a new homeland. Rumours speak of a valley southwest of the ruins of Kiev where the Taiga is strong and rivers are clean. You have been chosen to be scouts on this endeavour, tasked with mapping the path to this promised land, seeking alliances with other clans and tribes along the way.
+
+![](https://api2.inkarnate.com/api/embedScenes/pgzAev/previewImage)
+
 
 ![](https://i.imgur.com/1t8KbCs.png)
 
@@ -27,3 +30,6 @@ Following a brutal Ironclaw raid that resulted in the abduction of five Vostok w
 ## Scouts departure
 
 Summary to be added after first session.
+
+## Current map {-}
+
