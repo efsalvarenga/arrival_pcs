@@ -1,7 +1,7 @@
 ---
 title: "Terra Campaigns"
 # author: "Estevao Alvarenga"
-# date: "2024-06-11"
+# date: "2024-06-16"
 site: bookdown::bookdown_site
 documentclass: book
 # bibliography: [book.bib]
