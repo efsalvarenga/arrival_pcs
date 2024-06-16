@@ -76,5 +76,5 @@ Gaining consequences work the same way the do on **BLB**. For thematic coherence
 - Videoconferência pelo Discord
 - Imagens e desenhos pelo chat do Discord, no [canal de voz](https://discord.com/channels/1060840338777964565/1203621181891018802).
 - Battle maps pelo [Owlbear Rodeo](https://www.owlbear.rodeo/room/v2Qv-R8VSF1R/Nibiru)
-- Diretório com informações do jogo (esse arquivo)
-- Resumo das história no [Abridged](https://github.com/efsalvarenga/terraCampaigns_published/blob/main/nibiru/Abridged.md).
+- Diretório com informações do jogo e resumo da história no [Terra Campaigns](https://efsalvarenga.github.io/terraCampaigns_published/nibiru.html)
+- Se quiserem colaborar na edição dos resumos, puxem esse arquivo: https://github.com/efsalvarenga/terraCampaigns_published/blob/main/6500_Nibiru_abgd.md
