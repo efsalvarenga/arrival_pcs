@@ -51,7 +51,7 @@
 
 ![](https://i.imgur.com/PxIZfJk.png)
 
-- **Encontro com Vaelen Sorra**: Você encontra [Vaelen Sorra](../npcs/VaelenSorra.md), o estudioso exilado, fora da construção em ruínas.
+- **Encontro com Vaelen Sorra**: Você encontra Vaelen Sorra, o estudioso exilado, fora da construção em ruínas.
 	- Ele fornece informações enigmáticas sobre a área e dá pistas sobre conhecimentos valiosos escondidos nas profundezas da estação. Ele parece falar muitos idiomas e se comunica com você em Dopomac.
 	- Vaelen alerta que os Vagabundos nunca devem revelar a outros sua condição de amnésicos, pois amnésicos são caçados para experimentos na estação.
 	- Ele explica que a estação possui versões, que são ciclos longos isolados uns dos outros por décadas de desligamento. Cada um desses ciclos é governado por diferentes sociedades. Os ciborgues de borracha que você enfrentou no poço parecem ser de uma versão anterior.
@@ -60,7 +60,7 @@
 ![](https://i.imgur.com/g98dene.png)
 
 - **Terrenos Baldios Industriais**
-- Encontro com [Rhea Argyros](../npcs/RheaArgyros.md), amiga de Vaelen
+- Encontro com Rhea Argyros, amiga de Vaelen
 - Rhea explica que estão explorando para uma caravana de Enesu em uma missão importante.
 - Vocês se oferece para ajudar, mas estão **extremamente exaustos**. Após montar os sacos de dormir para o sono subaquático, apenas Zumathi continua ajudando Rhea, os demais dormem.
 	- Dormir debaixo d'água isola o zunido e diminui o desconforto da gravidade mais alta.
@@ -72,11 +72,11 @@
 	- A caravana chega e cerca de 200 pessoas terminam de montar o acampamento.
 	- Cerca de 8 carregam armas leves, a caravana não parece preparada para nenhuma ação extremamente violenta.
 	- Depois que todos terminam seus trabalhos, juntam-se para jantar.
-	- Zumathi conversa com [Tauthe](../npcs/Tauthe.md), que explica que vão ter que cortar o chumaço de cabos para o hauler atravessar. Essa tarefa poderia contar com a ajuda dos Vagabonds.
+	- Zumathi conversa com Tauthe, que explica que vão ter que cortar o chumaço de cabos para o hauler atravessar. Essa tarefa poderia contar com a ajuda dos Vagabonds.
 
 ![](https://i.imgur.com/qyPKXXx.png)
 
-- **Encontro com [NabuaAmarud](../npcs/NabuaAmarud.md)**
+- **Encontro com NabuaAmarud**
 	- Vocês finalmente são apresentados a Nabua, que sai de dentro do Hauler.
 	- Nabua explica que estão numa missão para encontrar Arwia. Arwia saberia do paradeiro de uma terceira pessoa, e essa procura seria uma missão subsequente, caso Arwia seja encontrada. Ele oferece $\mathbb{N}$ 200 (Nibirollars) para a primeira missão, além de comida e estadia com a caravana.
 
