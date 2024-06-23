@@ -1,4 +1,4 @@
-## Prelude: The Gauntlet
+## Prelude: The Gauntlet {-}
 
 - Os Vagabonds acordam.
 - Eles estão em um local escuro e úmido.
@@ -41,7 +41,7 @@
 
 ![](https://i.imgur.com/Dnhiuix.png)
 
-## The Amarud
+## O Amarud
 
 Imediatamente antes de abrirem a porta to alçapão vocês percebem um homem dormindo ao lado de vocês. Ele é Zumathi, também um Vagabond. Vocês juntos conseguem abrir a porta e sair do poço que os aprisionou por tanto tempo.
 
@@ -79,7 +79,7 @@ Imediatamente antes de abrirem a porta to alçapão vocês percebem um homem dor
 
 ![](https://i.imgur.com/qyPKXXx.png)
 
-**Encontro com NabuaAmarud**
+**Encontro com Nabua Amarud**
 
 - Vocês finalmente são apresentados a Nabua, que sai de dentro do Hauler.
 - Nabua explica que estão numa missão para encontrar Arwia. Arwia saberia do paradeiro de uma terceira pessoa, e essa procura seria uma missão subsequente, caso Arwia seja encontrada. Ele oferece $\mathbb{N}$ 200 (Nibirollars) para a primeira missão, além de comida e estadia com a caravana.
@@ -96,3 +96,45 @@ Imediatamente antes de abrirem a porta to alçapão vocês percebem um homem dor
 - Minutos depois, o trabalhador que provou o fungo ataca um de seus colegas, cortando o nariz. Robert atira na perna dele, e os demais o seguram e amarram.
 
 ![](https://i.imgur.com/MbxsRwe.png)
+
+## Árvore da Família
+
+**Drone de manutenção**
+
+- Os Vagabonds terminam de preparar o chumaço de cabos para o Hauler atravessar.
+- A viagem começa e os Vagabonds vão à frente como scouts, junto de [VaelenSorra](../npcs/VaelenSorra.md) e [RheaArgyros](../npcs/RheaArgyros.md).
+- Um drone de manutenção é visto a distância e, enquanto Conan corre para avisar a caravana, os demais se escondem.
+- O drone, em uma posição ameaçadora procura pelos scouts, mas logo é distraído pela caravana e vai em direção à mesma.
+- Conan está no caminho, mas se desvia para não ser atropelado pelo drone.
+- Os **Enesu** armados na caravana começam a disparar contra o drone, mas mesmo assim ele consegue chega e esta pronto para atacar a caravana.
+- Nesse instante Conan encontra uma barra de ferro no chão da estação e, em vários golpes rápidos, destrói o drone.
+- Robert se lembra de seus conhecimentos de robótica, e do valor de guardar os destroços do drone. Ele convence [NabuaAmarud](../npcs/NabuaAmarud.md) de carregar os destroços na caravana.
+
+![](https://i.imgur.com/6kddT09.png)    ![](https://i.imgur.com/sF47fFQ.png)
+
+**Viagem e descobertas**
+
+- Enquanto os scouts viajam pelo complexo de túneis dos Nexi da Penumbra, eles conversam com Vaelen e Rhea, e lembram-se de cenas em seus passados.
+- Zumathi lembra-se do caminho até o o **Vault da Árvore da Família** - o lugar para qual estão indo, mas não lembra-se exatamente do local.
+- Robert lembra-se de pessoas cultuando o **Devorador de Almas**, e a existência de uma relação com reduzir o tempo da estação desligada, entre as versões.
+- Em conversa posterior com Vaelen, o acadêmico sugere que essa lembrança possa ser fictícia, dado que **Devorador de Almas** é o nome dado pelos **Enesu** (moradores da Penumbra) ao **Elevador V**. Esse nome é dado pois centenas de **Enesu** morreram durante a construção e continuam a morrer nos serviços de manutenção do **Elevador V**.
+
+**Chegada no Vault da Árvore da Família**
+
+- Os scouts chegam num imenso vault, redondo. O outro **Enesu** que estava junto deles volta à caravana para avisar do encontro.
+- Eles se comunicam com alguém que os permite entrar e abre os portões.
+- Dentro do vault eles caminham até uma vila, que fica ao pé de uma imensa árvore de metal com glóbulos azulados como flores imensas.
+- Conan percebe que todos na vila se parecem com Robert, e termina por contar que ele provavelmente conheceu o pai de Robert (Edard), e que estava com ele quando morreu.
+- Robert se lembra que essa árvore utiliza, de alguma forma, o fungo que ele coletou nos cabos dias atrás.
+- Instantes depois, Zumathi se lembra de ter sido raptado durante uma manutenção do **Elevador V**. Nessa memória ele viu outros **Enesu** serem postos em uma câmara ritual ao lado da árvore, e dopados pelo fungo azul claro que encontraram antes. Depois de dopados, as raizes da árvore entravam pela boca dos **Enesu**, e eles seriam depois consumidos pela árvore.
+
+![](https://i.imgur.com/kMDmmEU.png)
+
+
+**Reunião da Família**
+
+- Robert e Zumathi estão apavorados. Eles reconhecem o risco que correm por estar nesse vault.
+- Suas memórias, em conjunto, criam um mapa do que pode estar acontecendo aqui: **Enesu** são raptados durante manutenções do **Elevador V** e trazidos para serem consumidos pela Árvore da Família. Enquanto isso, o clã Amarud traz seus membros para terem suas memórias absorvidas pela árvore. E os glóbulos azulados, grandes, contendo pessoas, produzem mais Vagabonds. É tudo muito confuso e, pior, maléfico.
+- Enquanto isso, Rhea desaparece.
+- E Conan conhece Arwia, a possível feiticeira que executa os rituais no vault. Arwia seria responsável por ajudar outros Vagabonds, mas também por operar o sistema da Árvore da Família.
+
