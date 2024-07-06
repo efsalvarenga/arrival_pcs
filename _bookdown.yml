@@ -4,7 +4,7 @@ language:
     chapter_name:  'Spacetime '
 delete_merged_file: true
 output_dir: docs
-new_session: true
+new_session: false
 
 rmd_files:
 - index.Rmd
@@ -12,9 +12,6 @@ rmd_files:
 - 3000_MEGA.md
 - 3500_Hostile_dir.md
 - 3500_Hostile_abgd.md
-- 5000_DEG.md
-- 5010_Kiev_Context.md
-- 6000_SID.md
 - 6500_Nibiru_dir.md
 - 6500_Nibiru_abgd.md
 - 8000_LATTER.md
