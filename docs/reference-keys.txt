@@ -1,4 +1,5 @@
 hostile
+mrna-mining
 the-frostbreaker
 the-cold-tomb
 defiance-and-back
@@ -6,6 +7,7 @@ madspark-perishes
 the-boxers-box
 start-of-duttas-fall
 chaos-in-brightside
+hitchhiker
 nibiru
 o-amarud
 árvore-da-família
