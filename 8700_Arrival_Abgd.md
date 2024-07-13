@@ -377,14 +377,14 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 - Guilf suggest that Ghuse revises his strategy and the support he is given to the Angels, if he is to continue seeing cycles of Life and Death on Earth.
 - Guilf also approximates himself to [whursock](../npcs/whursock.md), who becomes very loyal to the bard. Whursock reinforces the opinion that Ghuse might want to abandon the contract with the Angels.
 
-![|400](https://i.imgur.com/exwvDQ9.png)
+![](https://i.imgur.com/exwvDQ9.png)
 
 **Parlay with [Fuko](../npcs/Fuko.md)**
 - Fuko is the Trade Minister of Ghuse, operating from the [intermine](../locations/intermine.md)
 - She knows when and when every piece of manufacture is or must be
 - She administer the entire weapons trade for [glasrath](../factions/glasrath.md)
 
-![|400](https://i.imgur.com/V9mqrQF.png)
+![](https://i.imgur.com/V9mqrQF.png)
 
 **Visiting [khathadzig](../locations/khathadzig.md)**
 - Where people who lives, live. Schools, churches, etc. Peaceful and mostly unbeknownst of the mining business that enriches the city. 
@@ -408,7 +408,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 - The leg was destroyed, and the dwarves were harassed: "You fucking dwarves and elves". 
 - The group carried a "wanted" poster, with a dark image of the Glasrath champions carrying Gaelira
 
-![|400](https://i.imgur.com/Axsw6qj.png)
+![](https://i.imgur.com/Axsw6qj.png)
 
 ## Chapter 24: Arriving at The Forge
 
@@ -435,7 +435,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 - [amyria](../pcs/amyria.md) mentions she knows about the never ending war of angels and humanity, and that she learned this from the [BookOfKnowledge](../objects/BookOfKnowledge.md). After mentioning the book, the angel becomes interested.
 - [dolman](../pcs/dolman.md) acts fast and pull all his companions through the rocks again. The angel is incredibly fast, and is almost able to reach to Amyria, but for a few centimetres it does not happen, and the champions find themselves safe inside the walls of the ruins.
 
-![|500](https://i.imgur.com/gwrWnoz.png)
+![](https://i.imgur.com/gwrWnoz.png)
 
 ![](https://i.imgur.com/tHZYdHS.png)
 
@@ -455,7 +455,7 @@ None of these plans and dreams would endure, dashed like fragile glass beneath t
 
 ![](https://i.imgur.com/wl4Mzz5.png)
 
-![|400](https://i.imgur.com/HwUqtc9.png)
+![](https://i.imgur.com/HwUqtc9.png)
 
 The Glasrath champions decide to retrieve the Supraxae.
 
@@ -481,7 +481,7 @@ The Glasrath champions decide to retrieve the Supraxae.
 - Guilf, still wearing his ring, shouts a command to Thirteen "Stop!". Thirteen falls unconscious on the floor.
 - It is unclear how it starts, but the Champions find themselves engulfed in a fight with Balhannoth and his tentacles. In a fast series of blows Balhannoth is destroyed.
 
-![|400](https://i.imgur.com/5OqQX4F.png)
+![](https://i.imgur.com/5OqQX4F.png)
 
 **The end of a Nightmare**
 - After Balhannoth is gone, the champions continue to walk through the night. The [BookOfKnowledge](../../arrival/objects/BookOfKnowledge.md) lost its powers.
@@ -531,5 +531,8 @@ The Glasrath champions decide to retrieve the Supraxae.
 - Khatadzig is evacuated, and everyone retreats to the forge through the mountains.
 - The heroes decide to go to the Acrisae war camp, and are able to meet one of Golab's commanders. The commander explains that the war would not be necessary, if the Sorcerer-King Loquiroth is finally captured or destroyed.
 - The heroes then travel to the Forge, and using they's powers break into the Kernel. Inside lies Loquiroth.
+
+![](https://i.imgur.com/ylmcIHl.png)
+
 - A battle ensues and Loquiroth is spent, but still able to loose his form and vanishes
 - The heroes destroy as much as they can of the Kernel, before Turnskull forces arrive. They then jump from the Kernel and softly land below. It is easy to leave the Forge.
