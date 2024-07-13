@@ -521,3 +521,15 @@ The Glasrath champions decide to retrieve the Supraxae.
 - The champions guide the survivors, with the help of [Thirteen](../npcs/Thirteen.md) to walk the ruined tunnels towards Glasrath.
 - With Dolma's ring, they go through earth and investigate where the chains connected to, and it seems to be some kind of catapult basket.
 - The champions meet the survivors again en route to Glasrath and they continue.
+
+## Chapter 27: Finale
+
+- The Glasrath Heroes (as they call themselves now) arrive in Glasrath, bringing the survivors from the Drakvarden attack to Mystra's temple.
+- As they speak with Ghuse, they learn that the host of the FFKA is coming to the mountains. They explain to Ghuse that the FFKA has been using dwarves as draconic weapons. Ghuse now becomes afraid, as he knows many dwarves were captured in the last 6 months.
+- Dolman meets his father again, who has been able to arrive in Glasrath because of the messengers of Guilf.
+- The heroes discuss what their options are, and how to stop the war. Amyria consults Mystra, who manifests again. Mystra is now weak, but has chosen a side - she asks Amyria to support Golab, and pledges for Mr. Void to not be awakened.
+- Khatadzig is evacuated, and everyone retreats to the forge through the mountains.
+- The heroes decide to go to the Acrisae war camp, and are able to meet one of Golab's commanders. The commander explains that the war would not be necessary, if the Sorcerer-King Loquiroth is finally captured or destroyed.
+- The heroes then travel to the Forge, and using they's powers break into the Kernel. Inside lies Loquiroth.
+- A battle ensues and Loquiroth is spent, but still able to loose his form and vanishes
+- The heroes destroy as much as they can of the Kernel, before Turnskull forces arrive. They then jump from the Kernel and softly land below. It is easy to leave the Forge.
