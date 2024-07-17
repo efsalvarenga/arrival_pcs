@@ -9,9 +9,6 @@ new_session: false
 rmd_files:
 - index.Rmd
 - 0010_intro.md
-- 3000_MEGA.md
-- 3500_Hostile_dir.md
-- 3500_Hostile_abgd.md
 - 6500_Nibiru_dir.md
 - 6500_Nibiru_abgd.md
 - 8000_LATTER.md
